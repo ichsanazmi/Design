@@ -1,0 +1,85 @@
+/* CSS Document */
+body {
+    margin :0;
+	background-color : #ffffff;
+}
+.wrap {
+    width: 100%;
+}
+.header {
+    max-width: 100%;
+	min-width: 100%;
+    margin: auto 0px auto auto;
+}
+.top_bar {
+	max-width:100%;
+	border-spacing:0px;
+	top : 0%;
+	z-index:-5;
+	position : relative;
+	min-width: 100%;
+}
+.top_bar tr td {
+	padding : 0;
+}
+.tab2 {
+	max-width : 100%;
+	border-spacing:0px;
+	min-width: 100%;
+	padding : 1% 2% 1% 2%;
+	background-image : url('asset/head3.png');
+	background-size : 100%;
+	background-repeat: no-repeat;
+	background-position : 0%;
+	box-shadow : 0 1px 70px #00000030;
+}
+.tab2 tr td {
+	padding:0%;
+	animation-name : example;
+	animation-duration : 2s;
+	animation-delay : 0.5s;
+	opacity : 0;
+	animation-fill-mode : forwards;
+}
+.header2_trig {
+    max-width: 85%;
+    margin: auto 0px auto auto;
+	min-width: 85%;
+}
+.header2_awal {
+	display:table;
+    max-width: 85%;
+    margin: auto 0px auto auto;
+	min-width: 85%;
+}
+.header2_akhir {
+	display :none;
+    max-width: 85%;
+    margin: auto 0px auto auto;
+	min-width: 85%;
+}
+@keyframes example {
+	from {opacity : 0;}
+	to {opacity : 100;}
+}
+.wrap2 {
+	max-width: 100%;
+	padding : 50px;
+	margin : 0% 5% 20% 5%;
+	background-color : white;
+	border-bottom-left-radius : 20px;
+	border-bottom-right-radius : 20px;
+	box-shadow : 0 0 70px #00000017;
+}
+@font-face {
+    font-family: naxe;
+    src: url(asset/nexabold.otf);
+}
+@font-face {
+    font-family: open;
+    src: url(asset/opensans.ttf);
+}
+@font-face {
+    font-family: 'lecker';
+    src: url(asset/leckerlione.otf);
+}
