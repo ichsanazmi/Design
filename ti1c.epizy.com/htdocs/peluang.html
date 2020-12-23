@@ -1,0 +1,481 @@
+<html>
+<head>
+<title>Peluang</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="shortcut icon" type="image/png" href="asset/Picture1.png"/>
+</head>
+<body>
+<img src="asset/bb.png" alt="Background" class="bg"/>
+<img class=header width="20000px" src="asset/head.png"/>
+<div id="wrap"> <!-- wrapper -->
+	<div id="menu"> <!-- divMenu -->
+			<ul class="dropmenu">
+			<div class="tengah"> <!-- divToCenteringThoseMenu -->
+				<li></li>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="profil.html">Profil Kelas</a></li>
+				<li><a href="#1">Peluang</a>
+    <ul></ul>
+				   <ul>
+				<li><a href="peluang.html"> Pembahasan</a></li>
+				<li><a href="conso1.html"> Contoh Soal</a></li>
+				<li><a href="soal1.html"> Soal</a></li>
+    </ul>
+</li>
+<li><a href="#1"> Himpunan</a>
+    <ul>
+				<li><a href="himpunan.html"> Penbahasan</a></li>
+				<li><a href="conso2.html"> Contoh Soal</a></li>
+				<li><a href="soal2.html"> Soal</a></li>
+    </ul>
+</li><li><a href="#1">Relasi</a>
+    <ul>
+				<li><a href="relasi.html">Pembahasan</a></li>
+				<li><a href="conso3.html"> Contoh Soal</a></li>
+				<li><a href="soal3.html">SoalS</a></li>
+    </ul>
+<li><a href="#1"> Induksi</a>
+    <ul>
+				<li><a href="induksi.html"> Penbahasan</a></li>
+				<li><a href="conso4.html"> Contoh Soal</a></li>
+				<li><a href="soal4.html"> Soal</a></li>
+    </ul>
+<li><a href="#1">Logika</a>
+    <ul>
+				<li><a href="logika.html"> Pembahasan</a></li>
+				<li><a href="conso5.html"> Contoh Soal</a></li>
+				<li><a href="soal5.html"> Soal</a></li>
+   				</ul>
+				</li>
+			</div>
+			</ul>
+	</div>
+	<div class="tampung">
+		<table class="tabel">
+			<tr>
+				<td class="tabelkiri">
+				<div class="content">
+						<p align="center"><font face="lecker" size="6"> Peluang </font> </p> 
+						<img style="width: 100%;" src="asset/list.png"/>
+						<p align="justify"> <font face="open" size="2">
+						&nbsp &nbsp &nbsp Kombinatorial adalah cabang matematika yang mempelajari pengaturan objek - objek. Solusi yang ingin kita peroleh dari kombinatorial ini adalah jumlah cara pengaturan objek - objek didalam kumpulanya.<br>
+							Kombinatorial didasarkan pada hasil yang diperoleh dari suatu percobaan (experiment) atau kejadian (event). Percobaan adalah proses fisis yang hasilnya dapat diamati. Dan kombinator digunakan pada teori peluang diskrit untuk menghitung peluang suatu kejadian terjadi.<br>
+							<br>Contoh :<br>
+							1.	Melempar dadu<br>
+							Enam hasil percobaan yang mungkin untuk pelemparan dadu adalah muka dadu 1,2,3,4,5 atau 6<br>
+							2.	Melempar koin uang Rp 100<br>
+							Hasil percobaan melempar koin 100 ada dua kemungkinan maka koin bergambar rumah gadang atau muka koin yang bergambar wayang.<br>
+							<br>
+							<font size="4"><center>Kaidah Dasar Menghitung</center></font><br>
+							Dua kaidah dasar yang digunakan sebagai teknik menghitung dalam kombinatrorial adalah kaidah perkalian (rule of product) dan kaidah penjumlahan (rule of sum).<br>
+							1. Kaidah Dasar Penjumlahan (Rule of Sum) / ROS <br>
+							Andaikan terdapat n himpunan Ai, I = 1,2,3 . . . , n. Andaikan juga cacah banyaknya anggota himpunan Ai adalah ni dan Ai ? Aj = ?, maka banyaknya anggota himpuan <br>
+							A1 atau A2 atau . . . atau An adalah (n1 + n2 + . . . + nn). Dengan kata lain    ?Ai = i=1 (n1 + n2 +. . . + nn)<br>
+							<br>
+							Contoh: <br>
+							Dalam Perpustakaan terdapat 10 buku Matematika, 25 buku Statistik dan 5 buku social. Berapa cara yang dapat dilakukan untuk mengambil 1 buku. <br>
+							Jawab: <br>
+							Banyaknya cara mengambil 1 buku Matematika ada 10 cara. <br>
+							Banyaknya cara mengambil 1 buku Statistik ada 25 cara. <br>
+							Banyaknya cara mengambil 1 buku Sosial ada 5 cara. <br>
+							Jadi, banyaknya cara untuk mengambil 1 buku (sembarang) ada  :  10 + 25 + 5 = 40 cara. <br> 
+							<br>
+							<font size="4"><center>Perluasan Kaidah Menghitung</center></font><br>
+							Kaidah perkalian dan penjumlahan diatas dapat diperluas sehingga mengandung lebih dari dua buah percobaan.<br>
+							 Jika n buah percobaan masing-masing mempunyai p1, p2, .,pn, hasil percobaan yang mungkin terjadi dalam hal ini setiap p1 tidak bergantung pada pilihan sebelumnya, maka jumlah hasil percobaan yang mungkin terjadi adalah :<br>
+							a.	P1 x p2 x . x pn untuk kaidah perkalian.<br>
+							b.	P1 + p2 + . + pn untuk kaidah penjumlahan.<br>
+							2. Kaidah Dasar Perkalian (Rule of Product) / ROP <br>
+							Andaikan suatu prosedur dapat diselesaikan dengan k tahap.<br>  
+							Tahap 1 dapat diselesaikan dengan n1 cara. Tahap 2 dapat diselesaikan dengan n2 cara.<br> 
+							. <br>
+							Tahap 3 dapat diselesaikan dengan nk cara. <br>
+							Maka prosedur tersebut dapat diselesaikan dengan : n1 . n2 . . . nk cara <br>
+							Contoh: Pada soal no.1  <br>
+							Berapa banyaknya cara untuk mengambil 3 buah buku masing - masing 1 buku Matematika, 1 buku Statistik dan 1 buku social. <br>
+							Jawab: <br>
+							Prosedur untuk mengambil 3 buah buku yang berbeda dapat diselesaikan dengan 3 <br>
+							tahap. <br>
+							Tahap 1: Mengambil 1 buku Matematika dapat dilakukan dengan 10 cara. <br>
+							Tahap 2 : Mengambil 1 buku Statistik dapat dilakukan dengan 25 cara. <br>
+							Tahap 3 : mengambil 1 buku Sosial dapat dilakukan dengan 5 cara. <br>
+							Dengan prinsip ROP, banyaknya cara utnuk mengambil 3 buah buku yang berbeda ada: 10.25.5 = 1250 cara.<br> 
+							Prinsip ROP menyatakan bahwa suatu percobaan dilakukan secara bersamaan sedangkan ROS percobaan dilakukan tidak bersamaan.<br>
+							<br>
+							<font size="4"><center>PRINSIP INKLUSI - EKSLUSI</center></font><br> 
+							Prinsip Inklusi dan Eksklusi  merupakan perluasan ide dalam Diagram Venn beserta operasi irisan dan gabungan,<br> 
+							namun dalam pembahasan kali ini konsep tersebut diperluas, dan diperkaya dengan ilustrasi penerapan yang bervariasi dalam matematika kombinatorik. Kita awali dengan  sebuah ilustrasi.<br> 
+							Contoh: <br> 
+							1.	Berapa banyak 8 bit string yang dimulai dari 11 atau berakhir 11 Jawab: <br> 
+							Misal A = Himpunan byte yang dimulai 11 <br> 
+							B	= Himpunan byte yang diakhiri 11 <br> 
+							C	= Himpunan byte yang dimulai dengan 11 dan diakhiri 11 <br> 
+							Jumlah byte yang dimulai dengan 11 ada 26 = 64 ( 2 posisi pertama sudah diisi), sehingga ?A ?= 64<br>   
+							Jumlah byte yang diakhiri dengan 11 ada : 26 = 64, sehingga ?B ?= 64. <br> 
+							Jumlah byte yang berawal dan berakhir dengan 11 ada : 24 = 16, sehingga ?A ?B ?= 16. dengan prinsip inklusi - Ekslusi maka jumlah byte yang dimulai dengan 11 atau diakhiri 11 ada:<br>   
+							?A ?B ?= ?A ?+  ?B ?- ?A ?B ?= 64 + 64 - 16 = 112 buah. <br> 
+							2.	Seorang professor mempunyai 25 mahasiswa Kalkulus, 31 mahasiswa stastistik dan 13 mahasiswa yang mengikuti keduanya. Berapa jumlah mahasiswa professor. <br> 
+							Jawab:  <br> 
+							Misal A = himpunan mahasiswa kalkulus <br> 
+							B	= himpunan mahasiswa Statistik <br> 
+							 <br> 
+							?A ?= 25, ?B ?= 31, ?A ?B ?= 13 sehingga total mahasiswa ada: <br> 
+							?A ?B ?= ?A ?+  ?B ?- ?A ?B ?= 25 + 31 - 13 = 43 <br> 
+							<br> 
+							<font size="4"><center>Permutasi</center></font><br> 
+							Permutasi adalah jumlah urutan yang berbeda dari pengaturan objek-objek. Juga merupakan bentuk khusus aplikasi dari n objek, urutan kedua dipilih dari n-1 objek,<br> 
+							 urutan ketiga dipilih dari n-2 objek, begitu seterusnya, dan urutan terakhir dipilih dari 1 objek yang tersisa. Menurut kaidah perkalian permutasi dari n objek adalah..<br> 
+							N(n-1) (n-2) . (2)(1) = n!<br> 
+							Berapa banyak cara mengurutkan nama 25 orang mahasiswa?<br> 
+							Answer : P(25, 25) = 25!<br> 
+							            Ada juga yang dikatakan permutasi melingkar. Yaitu penyusunan objek-objek yang megelilingi sebuah lingkaran (atau kurva tertutup sederhana). <br> 
+										Jumlah susunan objek yang mengelilingi lingkaran adalah (n-1)!.<br> 
+							Definisi 1: <br> 
+							Untuk n?0, n factorial yang ditulis dengan n! didefinisikan sebagai: <br> 
+							n! = n . (n-1) . (n-2) . . . 3. 2. 1 <br> 
+							 <br> 
+							Definisi 2: <br> 
+							Andaikan terdapat n sembarang objek. Akan diadakan pengaturan r objek dengan    1 ? <br> 
+							r ? n. Banyaknya permutasi ditulis dengan: nPr atau P(n,r) didefinisikan sebagaikan: <br> 
+							n!<br> 
+							P(n,r) = n . (n-1) . ( n-2) . . . (n - (r-1)) = 	  (n?r)!<br> 
+							Bentuk umum: untuk n = r, P(n,n) = n! <br> 
+							Dalam permutasi hal yang perlu diperhatikan: <br> 
+							-	Pengaturan <br> 
+							-	Urutan <br> 
+							 <br> 
+							Contoh: <br> 
+							1.	Perhatikan kata "KOMPUTER", akan diatur huruf - huruf dalam kata tersebut. <br> 
+							a.	Berapa banyak pengaturan huruf jika semua huruf pada kata tersebut digunakan. <br> 
+							b.	Berapa banyak pengaturan jika hanya diambil 4 huruf. <br> 
+							Jawab: <br> 
+							a.	n = 8, r = 8 maka P(8,8) = 8! <br> 
+							b.	n = 8, r = 4 maka P(8,4) =   = 8 . 7 . 6 . 5 = 1680 cara. <br> 
+							2.	Tiga buah ujian dilakukan dalam satu periode 6 hari. Berapa banyak pengaturan jadwal yang dapat dilakukan sehingga tidak ada 2 ujian atau lebih yang dilakukan pada hari yang sama.<br> 
+							Jawab: 
+							n = 6, r = 3 maka P(6,3) =  =  = 6.5.4 = 120 cara <br> 
+							 <br> 
+							<font size="4"><center>Kombinasi</center></font><br> 
+							Bentuk khusus permutasi adalah kombinasi. Jika pada permutasi urutan kemunculan diperhitungkan, maka pada kombinasi, urutan kemunculan diabaikan urutan acb, bca, acb dianggap sama dan dihitung sekali.<br> 
+							Andaikan terdapat n objek berbeda, akan dipilih r objek dengan 1 ? r ? n (tampa memperhatikan urutan).<br> 
+							 Banyaknya kombinasi disajikan dengan nCr atau C(n,r) Andaikan urutan diperhatikan, banyaknya pengaturan r objek dari n objek adalah P(n,r). <br> 
+							Dari r objek,urutan tidak diperhatikan, banyaknya pengaturan adalah P(r,r) = r! Jadi, <br> 
+								P(n,r)	n!<br> 
+							C(n,r) = 	 r!		r!(n?r)!<br> 
+							Example :<br> 
+							1)	Misalkan ada 2 buah bola yang warnanya sama dan ada 3 buah kotak. Setiap kotak hanya boleh berisi paling banyak 1 bola.<br> 
+							Jumlah cara memasukkan bola ke dalam kotak :<br> 
+							2)	Bila sekarang jumlah bola 3 dan jumlah kotak 10, maka jumlah cara memasukkan bola ke dalam kotak adalah<br> 
+							Karena ada 3! cara memasukkan bola yang warnanya sama.<br> 
+							Kombinasi r elemen dari n elemen, atau  C(n, r),  adalah jumlah pemilihan yang tidak terurut r elemen yang diambil dari n buah elemen.<br> 
+							Example from Interpretasi Kombinasi :<br> <br> 
+							3)	C(n, r) = Banyaknya himpunan bagian yang terdiri dari r elemen yang dapat dibentuk dari himpunan dengan n elemen.<br> 
+							Misalkan A = {1, 2, 3}<br> 
+							Jumlah Himpunan bagian dengan 2 elemen:<br> 
+							{1, 2} = {2, 1}<br> 
+							                        {1, 3} = {3, 1}    3   buah  atau<br> 
+							                        {2, 3} = {3, 2}<br> 
+							A.	Tiga buah apartemen A, B, C disewakan ke mahasiswa. Tiap apartemen dapat menampung 3 atau 4 orang . Berapa banyak cara menyewakan apartemen kepada 10 orang mahasiswa.<br>  
+							Jawab: <br> 
+							Ada 3 kemungkinan: <br> 
+							-	Apartemen A untuk 4 orang, apartemen B,C untuk 3 orang. <br> 
+							Banyaknya cara: C(10,4). C(6,3) . C(3,3) <br> 
+							-	Apartemen A untuk 3 orang, B untuk 4 orang dan C untuk 3 orang <br> 
+							Banyaknya cara: C(10,3) . C(7,4) . C(3,3) <br> 
+							-	Apartemen A,B untuk 3 orang dan C utnuk 4 orang <br> 
+							Banyaknya cara : C(10,3) . C(7,3) . C(3,3) <br> 
+							Total seluruh cara: C(10,4). C(6,3) . C(3,3) + C(10,3) . C(7,4) . C(3,3) +         C(10,3) . C(7,3) . C(3,3) <br> 
+							<br> 
+							<font size="4"><center>Permutasi dan Kombinasi Bentuk Umum</center></font><br> 
+							Misalkan: ada n buah bola yang tidak seluruhnya berbeda warna (jadi, ada beberapa bola yang warnanya sama - indistinguishable). n1 bola diantaranya berwarna 1, n2 bola diantaranya berwarna 2, nk bola diantaranya berwarna k, dan n1 + n2 + . + nk = n.<br> 
+							Berapa jumlah cara pengaturan n buah bola ke dalam kotak-kotak tersebut (tiap kotak maks. 1 buah bola)?<br> 
+							Answer :<br> 
+							Jika n buah bola itu kita anggap berbeda semuanya, maka jumlah cara pengaturan n buah   bola ke dalam n buah kotak adalah<br> 
+							   P(n, n) = n!.<br> 
+							   Dari pengaturan n buah bola itu,<br> 
+							-  Ada n1! cara memasukkan bola berwarna 1<br> 
+							- 	 Ada n2! cara memasukkan bola berwarna 2<br> 
+							-  Ada nk! cara memasukkan bola berwarna k<br> 
+							Permutasi n buah bola yang mana n1 diantaranya berwarna 1, n2 bola berwarna 2, ., nk bola berwarna k adalah:<br> 
+							Dengan cara lain :<br> 
+							- Ada C(n, n1) cara untuk menempatkan n1 buah bola yang berwarna 1.<br> 
+							- Ada C(n - n1, n2) cara untuk menempatkan n2 buah bola berwarna 2.<br> 
+							- Ada C(n - n1 - n2, n3) cara untuk menempatkan n3 buah bola berwarna 3.<br> 
+							- Ada C(n - n1 - n2 - . -  nk-1, nk ) cara untuk menempatkan nk buah bola berwarna k.<br> 
+							<br> 
+							<font size="4"><center>Kombinasi dengan Pengulangan.</center></font><br> 
+							Tinjau kembali persoalan memasukkan bola ke dalam kotak. Misalkan terdapat r buah bola yang semua warnanya sama dan n buah kotak.<br> 
+							Misalkan terdapat r buah bola yang semua warnanya sama dan n buah kotak.<br> 
+							a)	Jika masing-masing kotak hanya boleh diisi paling banyak satu buah bola, maka jumlah cara memasukkannya boal kedalam kotak adalah C(n,r).<br> 
+							b)	Jika masing-masing kotak boleh lebih dari satu buah bola (tidak ada pembatasan jumlah bola), maka jumlah cara memasukkan bola kedalam kotak adalah C(n+r-1,r)<br> 
+							Contoh :<br> 
+							Pada persamaan x1  +x2+x3+x4=12, xi  adalah bilangan bulat ?0 . Berapa jumla kemungkinan solusinya?<br> 
+							Penyelesaian:<br> 
+							Analogikan 12 buah bola akan dimasukkan kedalam 4 kotak, maka:<br> 
+							-          Kotak 1 diisi 3 buah bola (x1=3)<br> 
+							-          Kotak 2 diisi 5  buah bola (x2=5)<br> 
+							-          Kotak  3 diisi 2 buah bola (x3=2)<br> 
+							-          Kotak 4 diisi 2 buah bola  (x4=2)<br> 
+							          sehingga,  x1 +x2+x3+x4=3+5+2+2=12<br> 
+
+							Tiga buah dadu dilempar. Berapa banyak hasil yang berbeda yang mungkin. <br> 
+							Jawab: <br> 
+							n = 3, r = 6 sehingga banyaknya hasil yang mungkin ada:  <br> 
+							C(3 + 6 - 1 , 6) = C(8,6) = 56 buah.<br> 
+							<br> 
+							<font size="4"><center> PELUANG DISKRIT</center></font><br>
+							Adalah sebuah daftar dari semua hasil yang mungkin muncul dari sebuah percobaan dan peluang yang berhubungan dengan setiap hasil.<br>
+							Peluang diskrit mempunyai sifat sebagai berikut:<br>
+							a.       0?p(xi)?1, yaitu peluang adalah bilangan tidak negatif dan selalu lebih kecil atau sama dengan 1.<br>
+							b.      i=1|S|p(xi)=1 , yaitu jumlah peluang semua titik contoh di dalam ruang contoh S adalah 1.<br>
+							<ulContoh:<br>
+							Pada pelemparan dadu, S={1,2,3,4,5,6}. Peluang munculnya setiap angka adalah sama yaitu 1/6.<br>
+							            Kejadian (event)? disimbolkan dengan E- adalah himpunan bagian dari ruang. Peluang kejadian E di dalam ruang contoh S adalah P(E)=|E|/|S|. Peluang kejadian E juga diartikan sebagai jumlah peluang semua titik contoh di dalam E. Jadi, kita dapat menuliskan bahwa:<br>
+							PE=|E||S|=xi?Ep(xi)<br>
+							Konsep-konsep pada teori himpunan:<br>
+							<li>.         P A?B=xi?A?Bp(xi)<br></li>
+							<li>.         P A?B=xi?A?Bp(xi)<br</li>
+							<li>.         P A-B=xi?A-Bp(xi)<br></li>
+							<li>.         P A?B=xi?A?Bp(xi)<br></li>
+							<li>.         P(A)=1-P(A)<br></li>
+							Distribusi peluang dibagi 2 :<br>
+							Distribusi Peluang Diskrit hanya dapat bernilai tertentu. Ciri-ciri utamanya adalah :<br>
+							.	Jumlah total peluangnya sama dengan 1<br>
+							.	Peluang dari suatu hasil adalah antara 0 sampai 1<br>
+							.	Hasilnya tidak terikat satu sama lain<br>
+							<br>
+							Distribusi Peluang Kontinu dapat bernilai tak hingga dalam suatu jangkauan yang spesifik.<br>
+							Nilai rata-rata dan variasi dari sebuah distribusi peluang dapat dihitung sebagai berikut :<br>
+							Rumus Menghitung Rata-rata  :<br>
+							<center><img src="asset/8.png"></center><br>
+							Rumus Menghitung Variansi :<br>
+							<center><img src="asset/9.png"></center><br>
+							Berikut ini beberapa Distribusi Peluang Diskrit :<br>
+							<br>
+							1.Distribusi Binomial<br>
+							Setiap hasil diklasifikasikan ke dalam satu dari dua kategori yang tidak terikat satu sama lain. Distribusi ini dihasilkan dari perhitungan jumlah sukses dari sejumlah percobaan. <br>
+							Peluang sebuah sukses tetap sama dari satu percobaan ke percobaan lain. Setiap percobaannya saling bebas.<br>
+							<br>
+							2. Distribusi Hipergeometris<br>
+
+							Distribusi ini hanya memiliki dua hasil yang mungkin muncul.<br>
+							Peluang sebuah sukses tidak sama untuk setiap percobaan<br>
+							Distribusi ini dihasilkan dari perhitungan jumlah sukses dari sejumlah percobaan<br>
+							Distribusi ini digunakan ketika pengambilan sampel dilakukan tanpa pengembalian.<br>
+							<br>
+							3. Distribusi Poisson<br>
+
+							Distribusi ini menjelaskan jumlah kejadian dari suatu peristiwa selama interval tertentu<br>
+							Peluang sebuah sukses terjadi secara proporsional dengan panjang intervalnya<br>
+							Interval-interval yang tidak saling tumpang tindih bersifat saling bebas<br>
+							<br>
+
+							<font size="4"><center>DISTRIBUSI PELUANG DAN PEUBAH ACAK</center></font><br>
+
+							<font size="4"><center>DISTRIBUSI PELUANG</center></font><br>
+							Distribusi Peluang adalah tabel, gambar, atau persamaan yang menggambarkan atau mendeskripsikan nilai-nilai yang mungkin dari peubah acak dan peluang yang bersesuaiannya (Peubah Acak Diskrit) atau kepadatan (Peubah Acak Kontinu)<br>
+							Distribusi Peluang<br>
+							.         Peluang Diskrit dituliskan sebagai: p(y) = P(Y=y)<br>
+							.         Kepadatan Kontinu dituliskan sebagai: f(y)<br>
+							.         Fungsi Distribusi Kumulatif: F(y) = P(Y?y)<br>
+							.         Cumulative Distibution Function (cdf)<br>
+							<br>
+							a)      Distribusi Peluang Diskrit:<br>
+							ÃÂ  Memberikan peluang kepada tiap keluaran percobaan<br>
+							ÃÂ  Merupakan probabiliy mass functions (pmf)<br>
+							b)      Distribusi Peluang Kontinu:<br>
+							ÃÂ  Memberikan kepadatan (frekuensi) pada tiap titik Assigns, peluang pada selang bisa didapatkan dengan mengintegralkan fungsi.<br>
+
+							<font size="4"><center>PENGERTIAN PEUBAH ACAK</center></font><br>
+							Peubah Acak (Random Variable): Sebuah keluaran numerik yang merupakan hasil dari percobaan (eksperimen). Peubah acak adalah suatu fungsi dari ruang contoh ke bilangan nyata. Untuk setiap anggotadari ruang sampel percobaan, peubah acak bias mengambil tepat satu nilai. Peubah Acak X adalah fungsi dari S ruang sampel ke
+							bilangan real R, X : S        R<br>
+							Peubah Acak dituliskan sebagai huruf kapital (X, Y, Z). Nilai-nilai tertentu yang merupakan keluaran percobaan dituliskan dengan huruf kecil (x, y, z)<br>
+							Contoh :<br>
+							Menjawab soal multipel choice 2 kali<br>
+							S = {SS, SB, BS, BB}<br>
+							X : Peubah Acak banyaknya jawaban benar, maka X = {0,1,2}<br>
+							<br>
+							2.      DISTRIBUSI PELUANG DISKRET<br>
+
+							Definisi<br>
+							Peubah acak diskret adalah peubah acak yang dapat mengambil nilai - nilai yang terbatas atau nilai yang tidak terbatas tapi dapat dicacah. Dalam kasus pelantunan koin tiga kali, peubah X yang Menyatakan banyaknya H muncul akan memberikan peluang 3/8 untuk x=2. Untuk kasus pengembalian helm, peluang tidak satu pun pegawai mendapatkan helm yang benar, yakni m=0, adalah 2/6=1/3. Kita bias membuat table berikut:
+							Nilai m menyatakan semua kasus yang mungkin terjadi, sehingga seluruh peluang akan berjumlah 1. <br>.Sering kali lebih praktis menyatakan semua kemungkinan peubah acak X kedalam formula. Jadi kita tuliskan f(x) = P(X=x) , misalnya f(3) = P(X=3)<br>
+
+							Fungsi atau sebaran peluang<br>
+							Def.2.4<br>
+							Fungsi f(x) adalah suatu fungsi peluang atau sebaran peluang dari peubah acak X jika, untuk setiap hasil yang muncul x berlaku :<br>
+							1.      f(x) ?<br>
+							2.      ?xf(x) =<br>
+							3.      P(X=x) = f(x)<br>
+							Contoh2.3:<br>
+							 Tentukan sebaran peluang dari jumlah sepasang mata dadu jika dilantunkan<br>
+							Jawab:<br>
+							 Andaikan X peubah acak yang nilainya x merupakan jumlah pasangan mata dadu. Maka x akan bernilai dari 2 sampai12. Sepasang dadu akan memiliki kombinas imuncul sebanyak 6?6 = 36 cara, masing-masing dengan peluang 1/36.<br>
+
+							<font size="4"><center>FUNGSI SEBARAN KUMULATIF</center></font><br>
+							Definisi  <br><
+							Fungsi sebaran kumulatif atau lebih sering disebut fungsi sebaran F dari peubah acak X, didefiniskan untuk semua bilangan nyata b, -? < b < ?, dengan<br>
+							F(b) = P(X ? b)<br>
+							Beberapa sifat dari fungsi sebaran :<br>
+							u F adalah fungsi yang tidak turun, artinya  jika a < b maka F(a) ? F(b)<br>
+							u F adalah fungsi yang kontinu dari kanan. Artinya, untuk setiap b dan setiap barisan yang menurun bn, n?1, yang konvergen ke b,<br><br>
+							3.      DISTRIBUSI PELUANG KONTINU<br>
+							Arti Kerapatan Peluang (Kontinyu)<br>
+							.         Tinjau sebaran tinggi badan dari orang berumur 21 thn. Antara sebarang dua nilai, mis. 163.5 -164.5, ada tak hingga macam tinggi badan.<br>
+							ÃÂ  Peubah acak kontinyu memiliki peluang nol untuk suatu nilai eksak dari peubah acak ini.<br>
+							P (a < X ? b )  = P ( a < X < b ) + P ( X = b )<br>
+							= P ( a < X < b )+ 0<br>
+							ÃÂ  Jadi, tidak ada bedanya mengikutkan titik ujung dalam perhitungan ini atau pun tidak.<br>
+							.         Peubah acak kontinyu tidak dapat ditampilkan secara tabular, namun bias dinyatakan dalam rumus.<br>
+							.         Peubah acak kontinyu dinyatakan dalam suatu fungsi rapat peluang f(x)<br>
+							<br>
+
+							Fungsi Rapat Peluang Kontinyu<br>
+							<li>.        Suatu fungsi rapat peluang dibentuk sedemikian hingga integrasi daerah dibawah kurva keseluruh X memberikan luas sebesar satu.<br></li>
+							           
+							<li>.         Penentuan nilai peluang dalam rentang peubah acak antara a dan b.<br></li>
+
+							Def. Fungsi Rapat Peluang Kontinyu<br>
+							Def.2.6: Suatu fungsi f(x) adalah fungsi rapat peluang untuk peubah acak kontinyu X yang didefinisikan keseluruh himpunan bilangan riil R, jika :<br>
+							1.      F (x) ? 0 untuk semua x ? R<br>
+							2.      ??-? f(x) dx= 1<br>
+							3.      P ( a < X < b ) =  ?ba f(x) dx<br>
+							Contoh:<br>
+							Andaikan peubah acak X memiliki fungsi rapat peluang: f(x) = x2/3 ; -1<x<2 dan f(x)=0 selain itu. Tentukan:<br>
+							(1) kondisi2 pada Def.2.6,<br>
+							(2) Tentukan P(0< X ?1)<br>
+							Jawab:<br>
+							1)      ??-?f(x) dx= ?2-1(x2/3)dx = x3/9|2-1=(8/9) + (1/9) = 12)<br>
+							2)       P(0< X ?1) = ?10(x2/3)dx= x3/9|10= 1/9<br>
+
+							Sebaran Peluang Kumulatif Kontinyu<br>
+							Def.2.7: Sebaran peluang kumulatif F(x) dari suatu peubah acak kontinyu Xdengan fungsi kerapatan f(x) diberikan oleh<br>
+							                 <br>
+							Ada dua hasil langsung dari Def.2.7, yaitu:<br>
+							1) P(a<X<b) = F(b) -F(a)<br><br>
+							2) f(x) = dF(x)/dx<br>
+							Contoh<br>
+							Soal: Untuk fungsi pada contoh 2.6., tentukanF(x) dan gunakan untuk menghitung P(0< X ?1)<br>
+							Jawab:<br>
+							Oleh karena itu,<br>
+							P ( 0 < X ? 1 ) = F (1) - F (0) = (2/9) -(1/9) = 1/9<br>
+							<br>
+							4.      DISTRIBUSI EMPIRIS<br>
+							Sebaran Frekuensi Relative<br>
+							.         Dalam percobaan, sering kali fungsi rapat peluang f(x) untuk peubah acak kontinyu X tidak diketahui.<br>
+							.         Pemilihan f(x) harus mempertimbangkan setiap informasi yang tersedia dari data.<br>
+							.         Tinjau sebaran frekuensi relative dari 40 buah umur batere mobil dalamTabel 2.1. Pabrik menjamin adalah 3 tahun.<br>
+							Tabel2.1Umur batere dalam tahun <br>
+							Andaikan diambil 7 kelas, dengan demikian besar interval adalah (max-min) / kelas = (4.7-1.6) / 7 = 0.443. <br>
+							Tabel2.2 menunjukkan sebaran frekuensi relatif-nya.<br>
+							<br>
+							Histogram dan Estimasi Fungsi Rapat Peluang<br>
+							.         Bentuk kurva: lingkaran? Hiperbola? Elips? Parabola<br>
+							f(x) = ax2 + bx+ c, untuka, b, c tertentu?<br>
+							.         Banyak fungsi kerapatan peluang yang dapat dinyatakan dalam kurva berbentuk lonceng (Gaussian).<br>
+							<br>
+							Skewness Dari Data<br>
+							Sebaran bersifat simetrik (setangkup) atau tak simetrik (skewed).<br>
+							<br>
+							Sebaran Kumulatif<br>
+							Berdasarkan Tabel 2.2, kita dapat membuat sebaran frekuensi kumulatif dari umur batere, spt pada Tabel 2.3 dan estimasi F(x).<br>
+							<br>
+							<font size="4"><center>5.DISTRIBUSI PELUANG GABUNGAN</center></font><br>
+							Peluang Gabungan Diskrit<br>
+							.         Jika dimensi ruang cuplikan lebih dari satu, misalnya hasil pengukuran dua besaran P dan V yang dinyatakan sbg (p, v), kita sebut sebaran peluangnya sebagai sebaran peluang gabungan.<br>
+							.         Def.2.8:<br>
+							Fungsi f(x,y) adalah fungsi peluang gabungan dari dua peubah diskrit X dan Y jika 1. f(x,y)  ? 0 untuk seluruh (x,y)<br>
+							2.?x ?y f (x,y) = 1<br>
+							3.P [(X,Y)?A ] = ??A f(x,y ) untuk sebarang daerah A dalam bidang xy.<br>
+							Contoh2.8<br>
+							Soal:<br>
+							Suatu kotak berisi tiga refill (tinta isian) berwarna biru, dua refill merah, dan3 refil hijau. Akan diambil dua refill secara acak dari kotak tsb. Jika X menyatakan jumlah refill biru, dan Y jumlah refill merah, tentukan:<br>
+							(1) fungsi peluang gabungan f(x,y)<br>
+							(2) P[(X,Y)?A], dimana A adalah daerah {(x,y)|x+ y?1}.<br>
+							Jawab:<br>
+							Pasangan (x,y) yang dapat muncul adalah (0,0), (0,1), (1,0), (1,1), (0,2), dan (2,0). Tinjau f(0,1) yang menyatakan peluang terpilihnya refill merah dan hijau (karena refill biru nol). Jumlah total kombinasi terpilihnya dua refill dari delapan buah refill yang ada didalam kotak adalah C(8,2) = 8!/(6!)(2!)=8?7/2=28.<br>
+							 Cacah kombinasi terpilihnya satu dari dua refill berwarna merah dan satu dari tiga refill hijau adalah C(2,1)?C(3,1) = 2?(3!/2!) = 6. Dengan demikian, f(0,1) = 6/28 =3/14. Dengan cara yang sama, nilai f(x,y) untuk seluruh rentang nilai diskrit x dan y yang mungkin dapat ditentukan. Hasilnya ditampilkan padaTabel2.4 berikut ini<br>
+							<br>
+							Sebaran Peluang Gabungan.<br>
+							2). P[(X,Y)?A] = P(X + Y?1)<br>
+							 = f(0,0) + f(0,1) + f(1,0)<br>
+							 = 3/28 + 3/14 + 9/28<br>
+							 = 9/14<br>
+							<br>
+							Peluang Gabungan Kontinyu<br>
+							.         Def.2.9:<br>
+							Suatu fungsi f(x,y) adalah fungsi kerapatan gabungan dari peubah acak kontinyu X dan Y jika<br>
+							1.      f(x,y) ? 0 untuk semua (x, y)<br>
+							2.      ??-?? f(x,y)  dx dy = 1<br>
+							3.      P[(X,Y)?A] = ??Af(x,y) dx dy<br>
+							.         Contoh 2.9:<br>
+							Tinjau fungsi rapat peluang berikut<br>
+							f(x,y)    =  x(1+3y2)/4;                          0<x<2, 0<y<1<br>
+							= 0,                                          lainnya<br>
+							1.      Periksa kondisi padaDef.2.9<br>
+							2.      Tentukan P[(X,Y)?A] dimana A adalah daerah{(x,y)| 0<x<1, ÃÂ¼<y< ÃÂ½}<br>
+							<br>
+							Sebaran Peluang Marjinal<br>
+							.         Jika f(x,y) adalah sebaran gabungan dari peubah acak X dan Y, maka sebaran peluang untuk masing-masing peubah acak X dan Y (sebaran marjinal) adalah:<br>
+							.         Fungsi g(x) dan h(y) disebut sebagai sebaran marjinal dari X dan Y. Bahwa masing-masing benar berupa fungsi sebaran dapat diperiksa berdasarkan Def.2.4. dan Def.2.6. Sbg contoh, untuk kasus kontinyu:<br>
+							            <br>  
+							Sebaran Bersyarat Diskrit<br>
+							.         Kembali ke definisi peluang bersyarat:<br>
+							<br>
+							P(B|A) = P(A?B)/P(A),           P(A)>0<br>
+							Jika A dan B adalah peristiwa yang dimana X=x dan Y=y,<br>
+							P(Y=y|X=x) = P(X=x,Y=y)/P(X=x)<br>
+							        = f(x,y)/g(x);         g(x) >0<br>
+							Untuk peubah acak diskrit X dan Y.<br>
+							.         Dapat ditunjukkan bahwa fungsi f(x,y) / g(x) memenuhi syarat sebagai sebaran peluang dan akan dituliskan sebagai f ( y | x), yakni:<br>
+							f(y|x) = f(x,y)/g(x),        g(x)>0<br>
+							dan disebut sebagai sebaran bersyarat dari peubah acak diskrit Y, diberikan  X=x.<br>
+							.         Dengan cara sama, sebaran bersyarat f ( x | y ) dari peubah acak X jika diberikan Y = y dapat dituliskan sebagai<br>
+							f(x|y) = f(x,y)/h(y),h(y)>0<br>
+							<br>
+							Sebaran Bersyarat Kontinyu<br>
+							.         Perdefinisi, sebaran rapat peluang bersyarat dari peubah acak kontinyu X, jika diberikan Y=y adalah<br>
+							F (x|y) = f(x,y) / h(y),               h(y)>0<br>
+							Sedangkan sebaran rapat peluang bersyarat untuk peubah acak kontinyu Y, diberikan X=x, adalah<br>
+							f(y|x) = f(x,y)/g(x),g(x)>0<br>
+							.         Peluang dari peubah acak kontinyui X yang terletak antara a dan b, jika diketahui Y=y, dapat dihitung sbb:<br>
+							P(a< X lebih kecil dari b|Y=y) = ?abf(x|y) dx <br>
+						<p style="color: blue;">Referensi</p>
+						<img style="width: 65%;" src="asset/list.png"/>
+						<p>-</p>
+						</font>
+						 
+						 </div>
+						</div>
+		                    </font>
+						</p>
+					</div> 
+				</td>
+			</div>
+			<td class="tabelkanan" >
+			<center>
+			<img style="width: 55%; margin-top: 0;padding: 10% 2% 10% 2%;" src="asset/Picture1.png"/></center>
+			<div class="bagiankanan">
+			<font color="white" size="2" face="naxe">
+			<p align="center" style="font-size: 15;margin-left: 0;">Kelompok Peluang<br></p>
+			<img style="width: 100%;" src="asset/list.png"/>
+			<p align="left"> 1. Taufiq Febryan<br><br>NPM = 43A87006170244<br><br></p>
+			<p align="left"> 2. Rizky Sholihin<br><br>NPM =  43A87006170265<br><br></p>
+			<p align="left"> 3. Farhan Rafli Zulfikar<br><br>NPM =  43A87006170271<br><br></p>
+			<p align="left"> 4. Rizal Pratama<br><br>NPM =  43A87006170258<br><br></p>
+			<p align="left"> 5. M. Sofyan Sodiq<br><br>NPM =  43A87006170239<br><br></p>
+			<p align="left"> 6. M. Fiqri H.<br><br>NPM =  43A87006170252<br><br></p>
+			<p align="left"> 7. Muhammad Dinar<br><br>NPM =  43A87006170---<br><br></p>
+			</p>
+			</font>
+			</div>
+			</td>
+			</tr>
+		</table>
+	</div>
+	<div class="footer">
+	<img src="asset/foot2.png"/>
+	</div>
+</div>
+</body>
+</html>

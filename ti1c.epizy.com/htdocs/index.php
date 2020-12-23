@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>TI 1C PAGI</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div style="text-align: center;">
+<img class=header width="200000px" src="asset/head.png"/>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <nav id="mainav" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <ul class="clear">
+      <li class="active"><a href="index.php">Home</a></li>
+	     <li class="active"><a href="profil.html">Profil</a></li>
+     <li><a href="#1"> Peluang</a>
+        <ul>
+				<li><a href="peluang.html"> Pembahasan</a></li>
+				<li><a href="conso1.html"> Contoh Soal</a></li>
+				<li><a href="soal1.html"> Soal</a></li>
+        </ul>
+      </li>
+     <li><a href="#1"> Himpunan</a>
+    <ul>
+				<li><a href="himpunan.html"> Pembahasan</a></li>
+				<li><a href="conso2.html"> Contoh Soal</a></li>
+				<li><a href="soal2.html"> Soal</a></li>
+    </ul>
+		</li>
+		</li><li><a href="#1">Relasi</a>
+    <ul>
+				<li><a href="relasi.html">Pembahasan</a></li>
+				<li><a href="conso3.html"> Contoh Soal</a></li>
+				<li><a href="soal3.html">Soal</a></li>
+    </ul>
+<li><a href="#1"> Induksi</a>
+    <ul>
+				<li><a href="induksi.html"> Pembahasan</a></li>
+				<li><a href="conso4.html"> Contoh Soal</a></li>
+				<li><a href="soal4.html"> Soal</a></li>
+    </ul>
+<li><a href="#1">Logika</a>
+    <ul>
+				<li><a href="logika.html"> Pembahasan</a></li>
+				<li><a href="conso5.html"> Contoh Soal</a></li>
+				<li><a href="soal5.html"> Soal</a></li>
+    </ul>
+    <!-- ################################################################################################ -->
+  </nav>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/23417327_1480310895387484_4544945490822692864_n.jpg');">
+  <div id="pageintro" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <article class="introtxt">
+      <p>STMIK BANI SALEH</p>
+      <h2 class="heading">TI 1C PAGI</h2>
+      <p>Assalamualaikum Wr Wb.</p>
+	  <p>TI 1C PAGI adalah sebuah kelas yang didirikan dari beberapa mahasiswa yang terpilih sebagai mahasiswa stmik bani saleh.</p>
+	  <p>Sejak tahun 2017.</p>
+      <h1><a href="profil.html">Read More >></a></h1>
+    </article>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <section class="hoc container clear center"> 
+    <!-- ################################################################################################ -->
+    <i class="fa fa-4x fa-tripadvisor btmspace-50"></i>
+    <h6 class="heading font-x3">Kita Hidup untuk saat ini, kita bermimpi untuk masa depan, dan kita belajar untuk kebenaran abadi.</h6>
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <div id="testimonials" class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <ul class="nospace group">
+      <li class="one_half first">
+        <blockquote>Pertemuan hidup tidak selalu maju pada orang yang lebih kuat atau lebih cepat. Akan tetapi, cepat atau lambat orang yang berpikir bahwa ia bisa. Kesalahan terbesar yang dapat dibuat oleh seseorang adalah tidak melakukan apa-apa.</blockquote>
+        <figure class="clear"><img src="images/demo/john-c-maxwell.jpg" alt="">
+          <figcaption><strong>Jhon Maxwell</strong><br>
+            <em>John Calvin Maxwell adalah seorang pembicara, dan penulis.</em></figcaption>
+        </figure>
+      </li>
+      <li class="one_half">
+        <blockquote>Prestasi adalah apa yang mampu Anda lakukan. Motivasi menentukan apa yang Anda lakukan. Sikap menetukan seberapa baik Anda melakukannya.</blockquote>
+        <figure class="clear"><img src="images/demo/Lou-Holtz.jpg" alt="">
+          <figcaption><strong>Lois Holtz</strong><br>
+            <em>Mantan pemain sepak bola, pelatih, dan analis.</em></figcaption>
+        </figure>
+      </li>
+    </ul>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <footer id="footer" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="one_quarter first">
+      <h6 class="title">STMIK BANI SALEH</h6>
+      <address class="btmspace-30">
+      Jl. Mayor M. Hasibuan No 68, Margahayu, Bekasi Timur, Kota Bekasi, Jawa Barat 17113br>
+      Bekasi<br>
+      17113
+      </address>
+      <ul class="nospace">
+        <li class="btmspace-10"><span class="fa fa-phone"></span> (021) 8800992</li>
+        <li><span class="fa fa-envelope-o"></span> stmik@stmik.banisaleh.ac.id</li>
+      </ul>
+    </div>
+    <div class="one_quarter">
+      <h6 class="title">ADMIN</h6>
+      <ul class="nospace linklist">
+        <li>- Ichsan Azmi P.</li>
+        <li>- Rizqillah Muhdie</li>
+        <li>- Fajar Wibowo M.</li>
+      </ul>
+    </div>
+    <div class="one_quarter">
+      <h6 class="title">Tujuan</h6>
+      <p>Tujuan didirikannya web ini sebagai tugas sebelum uas pada mata kuliah Struktur Diskrit 1.</p>
+    </div>
+    <!-- ################################################################################################ -->
+  </footer>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2017 - All Rights Reserved</p>
+<!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+<!-- IE9 Placeholder Support -->
+<script src="layout/scripts/jquery.placeholder.min.js"></script>
+<!-- / IE9 Placeholder Support -->
+</body>
+</html>

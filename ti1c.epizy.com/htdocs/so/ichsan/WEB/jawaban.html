@@ -1,0 +1,278 @@
+<html>
+<head>
+<title>Jawaban</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="shortcut icon" type="image/png" href="images/ico.png"/>
+</head>
+
+<body>
+	<div class="container">
+        <div class="bar">
+        	<table>
+						<tr>
+							<td><a href="#hai"><img src="images/h1.png"/></a></td>
+							<td><a href="#hai"><img src="images/h2.png"/></a></td>
+							<td><a href="#hai"><img src="images/h3.png"/></a></td>
+							<td><a href="#hai"><img src="images/h4.png"/></a></td>
+						</tr>
+					</table>
+				</div>
+				<div class="header_front">
+        	<table>
+						<tr><td align="center"><img src="images/h5.png"/></td></tr>
+					</table>
+					<div class="header_back">
+						<table>
+							<tr><td align="center"><img src="images/bg1.png"/></td></tr>
+						</table>
+					</div>
+        </div>
+	</div>
+	<div class="content">
+			<table>
+				<tr><td align="center">
+						<p align="center" class="title">
+							<font face="nexa bold" size="5">1. buatlah struktur direktori seperti dibawah ini, tampilkan seluruh langkah yang diperlukan</font>
+						</p>
+						<img src="images/S1/0.png"/><br><br><br>
+						<p align="justify" class="article">
+							<font face="montserrat" size="4"><i>Bismillaahirrahmaanirrahiim</i>,<br/>pada kesempatan kali ini kita akan menyelesaikan soal di atas, secara singkat inti dari soal tersebut adalah kita diharuskan membuat struktur direktori dan subdirektorinya sesuai dengan gambar yang ditentukan</font>
+							<br/><br/>
+							<font face="montserrat" size="4">Dan pada kesempatan kali ini saya <i>insyaaAllah</i> akan menjelaskan penyelesaiaannya dengan membagi subdirektori-subdirektori tersebut berdasarkan kedalamannya. Dan dapat dilihat di struktur tersebut bahwa terdapat level-level kedalaman dari direktori,contoh = level 1 ditempati oleh <b>MATAKULIAH</b>, level 2 oleh <b>SO</b> dan <b>WEB</b> dst...</font>
+							<br/><br/>
+							<font face="montserrat" size="4" color="red">Dan sebagai catatan, khusus untuk kasus kali ini saya menggunakan <b>wine cmd</b> yang merupakan emulator <i>command prompt</i> dilinux. Secara fitur saya rasa lebih dari cukup untuk menyelesaikan soal ini</font>
+							<br/><br/>
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Yang pertama adalah kita buat direktori level 1, direktori <b>MATAKULIAH</b></font></li>
+									<font face="montserrat" size="4">Untuk membuatnya dapat digunakan perintah mkdir yang merupakan command untuk membuat direktori (mkdir = <b>M</b>a<b>K</b>e <b>DIR</b>ectory).<br/> Lalu ketik :</font> <br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir MATAKULIAH</b></font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/1.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Langkah Selanjutnya adalah membuat direktori tingkat 2, yaitu <b>SO</b> & <b>WEB 1</b> dengan mengetik perintah </font> <br/><br/></li>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir SO "WEB 1"</b></font> <br/><br/>
+									<font face="montserrat" size="4">perlu diperhatikan,dalam pembuatan folder yang menggunakan karakter spasi kita membutuhkan tanda kutip di folder yang kita akan buat, misal untuk membuat folder <b>WEB 1</b> kita harus mengetik perintah <i>mkdir "WEB 1"</i> .</font><br>
+									<font face="montserrat" size="4">karena jika kita mengetik perintah <i>mkdir WEB 1</i>, maka cmd akan membuat dua folder, satu folder <b>WEB</b> satu lagi folder <b>1</b></font><br>
+									<font face="montserrat" size="4">sebagaimana di contohkan spasi dalam pembuatan folder akan membuat lebih dari satu folder, seperti di contoh di atas <i>mkdir SO "WEB 1"</i></font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/2.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Selanjutnya kita akan membuat subdirektori dari <b>SO</b> , yaitu <b>MATERI ,TUGAS ,UAS ,UTS</b> dengan mengetikan perintah :</font> <br/><br/></li>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd SO</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir MATERI TUGAS UAS UTS</b></font><br><br>
+									<font face="montserrat" size="4">perintah cd berfungsi untuk berpindah fokus direktori</font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/3.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Selanjutnya kita akan melanjutkan membuat subdirektori dari <b>MATERI</b> , yaitu <b>DASAR & LANJUTAN</b> dengan mengetikan perintah :</font> <br/><br/></li>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd MATERI</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir DASAR LANJUTAN</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd ..</b></font><br><br>
+									<font face="montserrat" size="4">perintah cd.. berfungsi untuk mundur ke satu direktori ke atas</font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/4.1.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Selanjutnya kita akan melanjutkan membuat subdirektori dari <b>TUGAS</b> , yaitu <b>DUA & SATU</b> dengan mengetikan perintah :</font> <br/><br/></li>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd TUGAS</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir DUA SATU</b></font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/4.2.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Selanjutnya kita akan melanjutkan membuat subdirektori dari <b>SATU</b> , yaitu <b>AWAL & AKHIR</b> dengan mengetikan perintah :</font> <br/><br/></li>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd SATU</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir AWAL AKHIR</b></font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/5.1.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Selanjutnya kita akan melanjutkan membuat subdirektori dari UAS, Sebelumnya kita harus mundur 3 tingkat direktori ke folder <b>/SO/UAS</b> dengan mengetikan perintah :</font> <br/><br/></li>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd ..</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd ..</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd ..</b></font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/5.2.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Selanjutnya kita akan melanjutkan membuat subdirektori dari <b>UAS</b> , yaitu <b>PRAKTEK & TEORI</b> dengan mengetikan perintah :</font> <br/><br/></li>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd UAS</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir PRAKTEK TEORI</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd ..</b></font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/5.3.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Selanjutnya kita akan melanjutkan membuat subdirektori dari <b>UTS</b> , yaitu <b>TEORI</b> dengan mengetikan perintah :</font> <br/><br/></li>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd UTS</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir TEORI</b></font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/5.4.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<font face="montserrat" size="4">Setelah selesai dengan seluruh sub direktori dari <b>SO</b> kita akan berpindah ke <b>WEB 1</b></font>
+							<font face="montserrat" size="4">Untuk direktori WEB 1 akan saya sedikit percepat dengan langsung membuat subdirektori tanpa harus masuk ke dalam direktori itu sendiri</font>
+							<br><br>
+						</p>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Langkah pertama tentu saja kita harus berpindah ke direktori <b>WEB 1</b> dengan mengetik </font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd "WEB 1"</b></font><br><br>
+									<font face="montserrat" size="4">Selanjutnya langsung kita buat subdirektori dari direktori <b>WEB 1</b> yang berisi <b>MATERI,UAS,UTS</b> dengan mengetik </font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir MATERI UAS UTS</b></font><br><br>
+									<font face="montserrat" size="4">Selanjutnya kita akan buat seluruh direktori dan subdirektori dari direktori <b>MATERI & /MATERI/DASAR/PERTEMUAN 1 - 7</b> dengan mengetik </font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir MATERI/DASAR </b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir MATERI/DASAR/"PERTEMUAN 1 - 7" MATERI/DASAR/"PERTEMUAN 8 - 14" </b></font><br><br><br>
+									>> <font face="metropolis" size="4" color="white" class="command"><b>mkdir MATERI/DASAR/"PERTEMUAN 1 - 7"/PRETEST </b></font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/6.1.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Selanjutnya kita akan buat seluruh direktori dan subdirektori dari direktori <b>/MATERI/DASAR/PERTEMUAN 8 - 14 , UAS , UTS</b> dengan mengetik </font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir MATERI/DASAR/"PERTEMUAN 8 - 14" </b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir UAS/PRAKTEK</b></font> >>
+									<font face="metropolis" size="4" color="white" class="command"><b>mkdir UTS/PRAKTEK</b></font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/6.2.png"/><br/><br><br>
+						<p align="justify" class="title">
+							<ul>
+								<li>
+									<font face="montserrat" size="4">Dan langkah terakhir adalah menampilkan struktur dari directory menggunakan perintah tree</font> <br/><br/></li>
+									<font face="metropolis" size="4" color="white" class="command"><b>tree</b></font>
+									<font face="montserrat" size="4"></font>
+								</li>
+							</ul>
+						</p>
+						<img src="images/S1/7.png"/><br/><br><br>
+						</tr></td>
+				</table>
+		</div>
+<div class="content">
+		<table>
+			<tr><td align="center">
+					<p align="center" class="title">
+						<font face="nexa bold" size="5">2. Jelaskan dan berikan contoh terkait fungsi dasar manajemen berkas, seperti berpindah direktori, menampilkan isi direktori, menghapus direktori, mengcopy file, memindahkan file, mengubah nama file dan menghapus file</font><br><br><br>
+					</p>
+					<p align="justify">
+					<font face="montserrat" size="4">Untuk manajemen file, perintah-perintahnya cukup banyak dan parameter-parameternya juga cukup banyak tapi akan saya cukupkan pada hal-hal yang dasar</font>
+					</p>
+					<p align="justify">
+					<ul>
+								<li>
+									<font face="montserrat" size="4">Berpindah Direktori</font></li>
+									<font face="montserrat" size="3">berpindah direktori berfungsi untuk mengubah fokus dari satu direktori ke direktori lain, perintah yang digunakan adalah CD</font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>cd %pathdirectory</b></font>
+									<font face="montserrat" size="4"></font>
+							</ul>
+					</p>
+					<img src="images/S1/8.png"/><br/><br><br>
+					<p align="justify">
+					<ul>
+								<li>
+									<font face="montserrat" size="4">Menampilkan Isi Direktori</font></li>
+									<font face="montserrat" size="3">Untuk menampilkan isi direktori bisa digunakan perintah DIR</font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>dir %pathdirectory</b></font>
+									<font face="montserrat" size="4"></font>
+							</ul>
+					</p>
+					<img src="images/S1/9.png"/><br/><br><br>
+					<p align="justify">
+					<ul>
+								<li>
+									<font face="montserrat" size="4">Menghapus Direktori</font></li>
+									<font face="montserrat" size="3">Untuk menghapus suatu direktori dapat digunakan perintah RMDIR</font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>rmdir %pathdirectory</b></font>
+									<font face="montserrat" size="4"></font>
+							</ul>
+					</p>
+					<img src="images/S1/10.png"/><br/><br><br>
+					<p align="justify">
+					<ul>
+								<li>
+									<font face="montserrat" size="4">Mengcopy File</font></li>
+									<font face="montserrat" size="3">untuk mengcopy file dapat digunakan command COPY</font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>copy %filename</b></font>
+									<font face="montserrat" size="4"></font>
+							</ul>
+					</p>
+						<img src="images/S1/11.png"/><br/><br><br>
+					<p align="justify">
+					<ul>
+								<li>
+									<font face="montserrat" size="4">Memindahkan File</font></li>
+									<font face="montserrat" size="3">untuk memindahkan file dapat digunakan command MOVE</font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>move %filename</b></font>
+									<font face="montserrat" size="4"></font>
+							</ul>
+					</p>
+					<img src="images/S1/12.png"/><br/><br><br>
+					<p align="justify">
+					<ul>
+								<li>
+									<font face="montserrat" size="4">Mengubah Namafile</font></li>
+									<font face="montserrat" size="3">untuk mengubah nama file dapat digunakan command REN</font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>ren %filenamelama %filenamebaru</b></font>
+									<font face="montserrat" size="4"></font>
+							</ul>
+					</p>
+					<img src="images/S1/13.png"/><br/><br><br>
+						<p align="justify">
+					<ul>
+								<li>
+									<font face="montserrat" size="4">Menghapus file</font></li>
+									<font face="montserrat" size="3">untuk menghapus file dapat digunakan command DEL</font><br/><br/>
+									<font face="metropolis" size="4" color="white" class="command"><b>del %filename</b></font>
+									<font face="montserrat" size="4"></font>
+							</ul>
+					</p>
+					<img src="images/S1/14.png"/><br/><br><br>
+					</tr></td>
+			</table>
+	</div>
+	<div class="footer">
+		<table>
+			<tr><td align="center"><a href="http://fossbytes.com"><img src="images/foot.png"/></a></td></tr>
+		</table>
+	</div>
+	<div class="footer2">
+		<table>
+			<tr><td align="center"><a href="http://inkscape.org"><img src="images/foot2.png"/></a></td></tr>
+		</table>
+	</div>
+</body>
+</html>

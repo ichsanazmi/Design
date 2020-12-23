@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Soal 1</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="shortcut icon" type="image/png" href="asset/ico.png"/>
+</head>
+<body>
+<div class="wrap">
+	<table class="top_bar">
+		<tr>
+		<td><img class="header" src="asset/h1.png"/></td>
+		<td><img class="header" src="asset/h2.png"/></td>
+		<td><img class="header" src="asset/h3.png"/></td>
+		</tr>
+	</table>
+	<table class="tab2">
+		<tr>
+		<td align="center"><img onclick="next()" class="header2_trig" src="asset/b1.png"/></td>
+		<td align="center" style="width: 30%;max-width: 100%; margin: auto 0px auto auto; min-width: 100%;">&nbsp</td>
+		<td align="center"><img id="awal" class="header2_awal" src="asset/b2.png"/><img id="akhir" class="header2_akhir" src="asset/b3.png"/></td>
+		</tr>
+	</table>
+<div class="wrap2">
+<p class="judul"><font face="naxe" size="4" color="#999999">Buatlah struktur direktori seperti dibawah ini, Tampilkan keseluruhan langkah yang anda perlukan</font></p>
+</div>
+</div>
+<script>
+function next() {
+	var x = document.getElementById("awal");
+	var y = document.getElementById("akhir");
+    if (x.style.display === "table") {
+        x.style.display = "none";
+		y.style.display = "table";
+    } else {
+        y.style.display = "none";
+		x.style.display = "table";
+    }
+}
+</script>
+</body>
+</html>

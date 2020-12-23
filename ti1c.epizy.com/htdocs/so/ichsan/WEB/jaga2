@@ -1,0 +1,19 @@
+<p align="left" class="title"><font face="naxe" size="5">1. buatlah struktur direktori seperti dibawah ini, tampilkan seluruh langkah yang diperlukan</font></p>
+<img src="0.png"/>
+<p align="left" class="article"><font face="open sans" size="3"><i>Bismillaahirrahmaanirrahiim</i>, pada kesempatan kali ini kita akan menyelesaikan soal di atas, secara singkat inti dari soal tersebut adalah kita diharuskan membuat struktur direktori dan subdirektorinya sesuai dengan gambar yang ditentukan</font></p>
+<p align="left" class="article"<font face="open sans" size="3">Dan pada kesempatan kali ini saya <i>insyaaAllah</i> akan menjelaskan penyelesaiaannya dengan membagi subdirektori-subdirektori tersebut berdasarkan kedalamannya. Dan dapat dilihat di struktur tersebut bahwa terdapat level-level kedalaman dari direktori,contoh = level 1 ditempati oleh <b>MATAKULIAH</b>, level 2 oleh <b>SO</b> dan <b>WEB</b></font></p>
+<p align="left" class="article"<font face="open sans" size="3"></font>dan sebagai catatan, khusus untuk kasus kali ini saya menggunakan <b>wine cmd</b> yang merupakan emulator <i>command prompt</i>dilinux. Secara fitur saya rasa lebih dari cukup untuk menyelesaikan soal ini</p>
+<p align="left" class="article"<font face="open sans" size="3"></font>Yang pertama adalah kita buat direktori level 1, direktori MATAKULIAH</p>
+<p align="left" class="article"<font face="open sans" size="3"></font>Untuk membuatnya dapat digunakan perintah mkdir yang merupakan command untuk membuat direktori (mkdir = <b>M</b>a<b>K</b>e <b>DIR</b>ectory).</p>
+<p align="left" class="article"<font face="open sans" size="3"></font></p>
+<p align="left" class="article"<font face="open sans" size="3"></font></p>
+<p align="left" class="article"<font face="open sans" size="3"></font></p>
+<p align="left" class="article"<font face="open sans" size="3"></font></p>
+
+
+<ul>
+<li><font face="montserrat" size="4">Langkah Selanjutnya adalah membuat direktori tingkat 2, yaitu <b>SO</b> & <b>WEB</b> dengan mengetik perintah </font>
+<font face="anisa sans" size="4" style="background-color : blue ; border-radius: 10px;> " <b>mkdir SO "WEB 1"</b> "</font>
+<font face="montserrat" size="4"></font>
+<br/>
+</ul>

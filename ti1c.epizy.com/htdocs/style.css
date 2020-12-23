@@ -1,0 +1,175 @@
+/* CSS Document */
+body {
+    margin :0;
+}
+#wrap {
+    width: 90%;
+    margin-top: 0%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+.bg {
+    width:2300px;
+    max-width: 110%;
+    height: 100%;
+    position:fixed;
+    z-index:-5;
+    left:-5;
+    right:0;
+    top:0;
+}
+.header {
+    max-width: 90%;
+    margin: 2% 0 auto 5%;
+}
+#menu {
+    width:100%;
+    max-width: 100%;
+    max-height: 32px;
+    margin:0;
+    background: #f29312;
+    height: 32px;
+}
+.tengah {
+    width: 100%;
+    max-height: 100%;
+}
+#menu .dropmenu {
+    width: auto;
+    list-style-type: none;
+    margin: 0;
+    padding : 0% 0%;
+}
+.dropmenu li {
+    float: left;
+    height: 32px;
+    max-height: 32px; 
+}
+.dropmenu li a {
+    color: #fff;
+    display: block;
+    font: 14px arial, verdana, sans-serif;
+    font-weight: bold;
+    padding: 9px 10px;
+    text-decoration: none;
+}
+.dropmenu li:hover { 
+  position: relative; 
+}
+.dropmenu li:hover a {
+    text-decoration: none; 
+    background: #ee9d2e;
+}
+.dropmenu ul {
+    left: -9999px;
+    list-style-type: none;
+    position: absolute;
+    top: -9000px;
+}
+.dropmenu li:hover ul {
+    background-color: #d1923a;
+    left: 0%;
+    padding: 0px;
+    top: 100%;
+}
+.dropmenu li:hover ul li {
+    border: none; 
+    height: 30%; 
+}
+.dropmenu li:hover ul li a {
+    color: #ffffff;
+    display: block;
+    font-size: 17px;
+    height: 100%;
+    line-height: 140%;
+    padding: 0px;
+    text-decoration: none;
+    text-indent: 5px;
+    width: 160px;
+}
+.dropmenu li:hover ul li a:hover {
+    background:   #d1923a;
+    height: auto;
+}
+.righttab {
+    background-color:#467c92;
+    width:20%;
+    max-width: 20%;
+    height:100%;
+    max-height: 100%;
+    float:right;
+    padding:0 0 2% 0;
+    margin: 0% 0% 10% 0%;
+}
+.lefttab {
+    background-color:#ffffff;
+    width:74.7%;
+    max-width: 80%;
+    float:left;
+    padding:0 2% 2% 0%;
+    margin: 0% 2% 10% 0%;
+}
+.content{
+    padding: 2% 5% 2% 5%;
+    margin-bottom: 2%;
+}
+.tampung {
+    background-color: #cccccc;
+    padding: 3% 3% 1% 3%;
+    width: 94%;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.tabel{
+    width:100%;
+    padding: 2% 1% 2% 1%;
+}
+.tabelkiri{
+    background-color: #ffffff;
+    width: 73%;
+    margin: 0 2% 0 0;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.tabelkanan{
+    background-color: #467c92;
+    width: 20%;
+    margin: 0 0 0 2%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    top:0;
+    vertical-align: 0;
+}
+.fotomateri{
+    max-width: 70%; float: auto;
+    margin-bottom: 0;
+}
+.footer img{
+    width:100%;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 0 0 0 0%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.bagiankanan{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+@font-face {
+    font-family: naxe;
+    src: url(asset/nexabold.otf);
+}
+@font-face {
+    font-family: open;
+    src: url(asset/opensans.ttf);
+}
+@font-face {
+    font-family: lecker;
+    src: url(asset/leckerlione.otf);
+}

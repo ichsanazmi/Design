@@ -1,0 +1,133 @@
+/* CSS Document */
+body {
+    margin :0;
+    background-color: #f1f1f1;
+}
+.container {
+    width: 100%;
+    max-width: 100%;
+}
+.bar {
+    max-width: 100%;
+	background-color : #4db6ac;
+}
+.bar a img {
+	float:left;
+	max-width: 100%;
+}
+.bar table {
+	border-spacing :0 ;
+	max-width:100%;
+}
+.bar table tr td {
+	padding :0 ;
+}
+.header_front {
+    max-width: 100%;
+    margin : 0 0 9% 0;
+    position : relative;
+    z-index : -1;
+}
+.header_front table {
+	max-width: 100%;
+	min-width: 100%;
+	border-spacing :0;
+}
+.header_front table tr td img {
+	max-width: 100%;
+}
+.header_front table tr td {
+	padding: 0;
+}
+.header_back {
+    max-width: 100%;
+    margin : 0;
+    top : 0;
+    z-index : -7;
+    position : absolute;
+}
+.header_back table {
+	max-width: 100%;
+	border-spacing :0;
+}
+.header_back table tr td {
+	padding: 0;
+}
+.header_back table tr td img {
+	max-width: 100%;
+}
+.content {
+    max-width: 100%;
+    margin : 0% 4% 0% 4%;
+    z-index : 1;
+}
+.content table {
+	width: 100%;
+	border-spacing :0;
+	margin : auto;
+	box-shadow : 0 0px 50px #0000000f;
+	background-color:white;
+}
+.content table tr td {
+	padding :0%;
+}
+.content table tr td.DF {
+	padding :2%;
+}
+.content table tr td img {
+	width:100%;
+	max-width:100%;
+	margin : auto;
+}
+.content table tr td p {
+	max-width: 100%;
+
+}
+.article {
+	max-width: 100%;
+}
+.article font{
+	max-width: 100%;
+}
+.footer {
+    max-width: 100%;
+    margin : 3% 4% 0% 4%;
+    z-index : 1;
+}
+.footer table {
+	width: 100%;
+	border-spacing :0;
+	margin : auto;
+	box-shadow : 0 0px 50px #0000000f;
+	border-top-left-radius : 10px;
+	border-top-right-radius : 10px;
+}
+.footer table tr td {
+	padding : 0;
+}
+.footer table tr td img {
+	max-width : 100%;
+	margin : auto;
+	border-top-left-radius : 10px;
+	border-top-right-radius : 10px;
+}
+.footer2 {
+    max-width: 100%;
+    margin : 0% 4% 0% 4%;
+    z-index : 1;
+}
+.footer2 table {
+	width: 100%;
+	border-spacing :0;
+	margin : auto;
+	box-shadow : 0 0px 50px #0000001f;
+	border-top-left-radius : 10px;
+	border-top-right-radius : 10px;
+}
+.footer2 table tr td {
+	padding : 0;
+}
+.footer2 table tr td img {
+	max-width : 100%;
+	margin : auto;
+	}
