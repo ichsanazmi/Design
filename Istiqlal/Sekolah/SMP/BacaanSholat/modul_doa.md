@@ -1,5 +1,5 @@
 ![alt text](https://github.com/ichsanazmi/ichsanazmi.github.io/raw/master/cover.png "Logo Title Text 1")
-<br><br><span style="font-family:Metropolis Heavy; font-size:4em;line-height:1;">Modul Do'a Sehari-hari</span> <br>
+<br><br><span style="font-family:Metropolis Black; font-size:4em;line-height:1;">Modul Do'a Sehari-hari</span> <br>
 <span style="font-family:Metropolis; font-size:14px;line-height:1;">SMP Islam Istiqlal</span>
 <br><br><br><br><br><br><br><br><br>
 
