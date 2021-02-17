@@ -1159,11 +1159,11 @@
      inkscape:window-height="657"
      inkscape:window-width="1306"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g22712"
      inkscape:document-units="mm"
-     inkscape:cy="865.59025"
-     inkscape:cx="-1662.3855"
-     inkscape:zoom="0.15079439"
+     inkscape:cy="936.43382"
+     inkscape:cx="-1730.4079"
+     inkscape:zoom="0.42651094"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1187,7 +1187,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6878,7 +6878,7 @@
          id="tspan18167"
          x="-1167.4476"
          y="273.09164"
-         style="stroke-width:0.264583"></tspan></text>
+         style="stroke-width:0.264583" /></text>
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -6904,7 +6904,7 @@
          x="-1159.1068"
          y="449.4238"
          style="stroke-width:0.264583"
-         id="tspan18201"></tspan><tspan
+         id="tspan18201" /><tspan
          sodipodi:role="line"
          x="-1159.1068"
          y="462.65292"
@@ -6914,7 +6914,7 @@
          x="-1159.1068"
          y="475.88205"
          style="stroke-width:0.264583"
-         id="tspan18205"></tspan><tspan
+         id="tspan18205" /><tspan
          sodipodi:role="line"
          x="-1159.1068"
          y="489.11118"
@@ -6934,7 +6934,7 @@
          x="-1159.1068"
          y="528.79858"
          style="stroke-width:0.264583"
-         id="tspan18213"></tspan><tspan
+         id="tspan18213" /><tspan
          sodipodi:role="line"
          x="-1159.1068"
          y="542.02771"
@@ -7052,16 +7052,9 @@
         <g
            id="g4403"
            clip-path="url(#clipPath4407)">
-          <rect
-             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.751046;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-             id="rect776-9"
-             width="64.110855"
-             height="42.679665"
-             x="-899.95697"
-             y="383.69659" />
           <g
              id="g810-7"
-             transform="matrix(1.3740983,0,0,1.3740983,-626.25603,274.338)">
+             transform="matrix(1.3740983,0,0,1.3740983,-626.25603,275.15192)">
             <g
                transform="matrix(0.92350855,0,0,0.92350855,-0.34460152,5.7097821)"
                id="g794-9" />
@@ -7106,67 +7099,7 @@
             </g>
           </g>
           <g
-             id="g3833"
-             transform="matrix(1.2821598,0,0,1.2821598,233.542,-109.41649)">
-            <g
-               transform="matrix(0.96571292,0,0,0.96571292,-787.45048,125.07906)"
-               id="g866-3"
-               style="fill:#ffffff;fill-opacity:1">
-              <g
-                 style="fill:#ffffff;fill-opacity:1"
-                 transform="matrix(1.6282481,0,0,1.6282481,-193.6836,-177.41362)"
-                 id="g864-1">
-                <text
-                   xml:space="preserve"
-                   style="font-style:normal;font-weight:normal;font-size:1.9633px;line-height:2.31961px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0490825"
-                   x="103.15938"
-                   y="278.2251"
-                   id="text854-9"><tspan
-                     id="tspan852-4"
-                     sodipodi:role="line"
-                     x="103.15938"
-                     y="278.2251"
-                     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.96331px;line-height:2.31961px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0490825">Masjid Al-Istiqlal Tambun</tspan></text>
-                <g
-                   style="fill:#ffffff;fill-opacity:1"
-                   transform="matrix(1.0252475,0,0,1.0252475,167.60807,-3.4056884)"
-                   id="g856-7" />
-                <g
-                   style="fill:#ffffff;fill-opacity:1"
-                   transform="matrix(0.78623741,0,0,0.78623741,138.90383,62.208929)"
-                   id="g860-8">
-                  <path
-                     style="fill:#ffffff;fill-opacity:1;stroke-width:0.00784441"
-                     d="m -50.307899,275.89832 c -0.186919,-0.008 -0.31922,-0.0239 -0.433591,-0.0541 -0.383496,-0.10105 -0.653142,-0.37375 -0.750221,-0.75859 -0.04761,-0.18875 -0.05944,-0.41775 -0.05937,-1.15154 3.9e-5,-0.75499 0.01168,-0.97494 0.06226,-1.16884 0.100182,-0.38445 0.373136,-0.65504 0.758906,-0.75236 0.188759,-0.0476 0.417751,-0.0594 1.151555,-0.0594 0.754968,3e-5 0.974934,0.0115 1.168819,0.0623 0.384451,0.10015 0.655059,0.37313 0.752374,0.7589 0.04753,0.18847 0.05937,0.41859 0.05937,1.15548 0,0.75066 -0.01181,0.97121 -0.06226,1.16488 -0.100183,0.38445 -0.373137,0.65507 -0.758907,0.75239 -0.115397,0.0291 -0.236196,0.0429 -0.453399,0.0515 -0.226062,0.009 -1.203287,0.009 -1.435537,-4.3e-4 z m 1.211963,-0.3521 c 0.383244,-0.008 0.487756,-0.0166 0.607315,-0.0511 0.131416,-0.0381 0.208109,-0.0813 0.297452,-0.16773 0.120467,-0.11644 0.184766,-0.25725 0.213181,-0.46658 0.03112,-0.22908 0.03112,-1.63212 0,-1.86121 -0.01946,-0.14356 -0.06355,-0.27407 -0.12206,-0.36127 -0.03601,-0.0537 -0.121186,-0.13961 -0.175069,-0.1766 -0.09324,-0.0642 -0.218867,-0.10772 -0.368725,-0.12801 -0.229076,-0.0312 -1.632124,-0.0312 -1.861199,0 -0.14985,0.0203 -0.275483,0.0639 -0.368734,0.12801 -0.05387,0.0371 -0.139046,0.12287 -0.175059,0.1766 -0.05852,0.0872 -0.10257,0.21771 -0.12206,0.36127 -0.03112,0.22909 -0.03112,1.63213 0,1.86121 0.0203,0.14986 0.06394,0.27548 0.127966,0.36874 0.03702,0.0539 0.12292,0.13904 0.17661,0.17505 0.08911,0.0598 0.218676,0.10296 0.369283,0.12299 0.16129,0.0214 0.823542,0.0303 1.401102,0.0188 z m -0.659546,-0.61631 c -0.416872,-0.0754 -0.746364,-0.40726 -0.819195,-0.82489 -0.01503,-0.0865 -0.01503,-0.26321 0,-0.3497 0.07332,-0.42062 0.404756,-0.75203 0.825382,-0.82538 0.0865,-0.0152 0.263207,-0.0152 0.349704,0 0.420626,0.0733 0.752033,0.40476 0.825381,0.82538 0.01503,0.0865 0.01503,0.26321 0,0.3497 -0.07332,0.42062 -0.404755,0.75202 -0.825381,0.82538 -0.08345,0.0146 -0.274309,0.0144 -0.355891,-4.4e-4 z m 0.334007,-0.36023 c 0.246359,-0.0646 0.421535,-0.23999 0.487133,-0.48782 0.01014,-0.0381 0.0142,-0.082 0.0142,-0.15168 0,-0.0696 -0.0045,-0.11362 -0.0142,-0.15169 -0.06576,-0.24849 -0.239942,-0.42266 -0.488423,-0.48842 -0.07394,-0.0196 -0.229419,-0.0196 -0.303356,0 -0.08276,0.022 -0.14454,0.0493 -0.213082,0.0949 -0.137011,0.0909 -0.230634,0.22467 -0.275332,0.39359 -0.01953,0.0739 -0.01953,0.22942 0,0.30337 0.06166,0.23315 0.223644,0.40573 0.447905,0.47732 0.09731,0.0311 0.249036,0.0357 0.345155,0.0103 z m 0.847196,-1.46221 c -0.06868,-0.0182 -0.124961,-0.0642 -0.158831,-0.1294 -0.01747,-0.0338 -0.02082,-0.0503 -0.02082,-0.10297 0,-0.0733 0.02023,-0.12145 0.07111,-0.16979 0.05006,-0.0475 0.09197,-0.0646 0.159534,-0.0648 0.09971,-4.5e-4 0.180052,0.0506 0.22111,0.14054 0.02618,0.0574 0.02479,0.14235 -0.003,0.1961 -0.02434,0.0469 -0.06806,0.0901 -0.114267,0.11324 -0.03677,0.0184 -0.116488,0.0272 -0.154598,0.0171 z"
-                     id="path858-4"
-                     inkscape:connector-curvature="0" />
-                </g>
-                <path
-                   inkscape:connector-curvature="0"
-                   id="path862-5"
-                   d="m 94.944382,276.09554 c -0.07576,0 -0.151415,0.003 -0.202692,0.0105 -0.315462,0.0433 -0.593975,0.16827 -0.833917,0.374 -0.258164,0.22136 -0.445088,0.53585 -0.514798,0.86601 -0.04446,0.21065 -0.04561,0.45177 -0.003,0.6612 0.04797,0.2357 0.1625,0.47755 0.318593,0.67296 0.0529,0.0662 0.172608,0.18594 0.238637,0.23864 0.191332,0.15265 0.415775,0.26118 0.651739,0.31508 l -1.76e-4,-1.7e-4 c 0.0799,0.0187 0.109573,0.0204 0.114673,0.007 0.0067,-0.0175 0.0042,-1.08738 -0.0026,-1.10008 -0.0011,-0.002 -0.0034,-0.004 -0.0058,-0.005 l -3.51e-4,-10e-4 h -0.0014 c -0.01319,-0.005 -0.05198,-0.005 -0.195505,-0.005 h -0.196907 v -0.2183 -0.21812 h 0.196907 c 0.182459,0 0.197118,-8.7e-4 0.202518,-0.0109 0.0032,-0.006 0.0068,-0.11457 0.0082,-0.24706 0.0023,-0.2155 0.0038,-0.2404 0.01543,-0.2851 0.03926,-0.1508 0.104627,-0.25085 0.209532,-0.32035 0.05835,-0.0387 0.106211,-0.0596 0.178321,-0.078 0.04795,-0.0122 0.06692,-0.0133 0.204446,-0.013 0.106485,3e-4 0.174786,0.004 0.229695,0.0107 0.04298,0.006 0.08039,0.0117 0.08329,0.0137 0.0029,0.002 0.0053,0.0846 0.0053,0.1841 v 0.18078 l -0.128874,0.003 c -0.08693,0.002 -0.138585,0.006 -0.159034,0.0119 -0.08925,0.0261 -0.146924,0.0842 -0.169554,0.17113 -0.01212,0.0467 -0.01392,0.35992 -0.0021,0.37172 0.0054,0.005 0.06231,0.007 0.218298,0.007 h 0.210934 l -3.51e-4,0.0137 c -1.5e-4,0.008 -0.01439,0.10503 -0.03174,0.21672 l -0.03156,0.20305 -0.184809,0.003 -0.184983,0.003 -0.0014,0.55635 c -0.0014,0.51076 -8.59e-4,0.55621 0.0082,0.56021 0.02368,0.009 0.21106,-0.0373 0.324204,-0.0801 0.08823,-0.0334 0.21929,-0.10029 0.29948,-0.15289 0.102823,-0.0675 0.181699,-0.13312 0.272829,-0.22672 0.239116,-0.24549 0.386688,-0.54665 0.437298,-0.89318 0.01476,-0.10107 0.01476,-0.3233 0,-0.42432 -0.02739,-0.18744 -0.07458,-0.33926 -0.155,-0.49954 -0.238005,-0.47437 -0.686064,-0.79251 -1.218964,-0.86531 -0.05151,-0.007 -0.127284,-0.0105 -0.203044,-0.0105 z"
-                   style="fill:#ffffff;fill-opacity:1;stroke-width:0.00606182" />
-              </g>
-            </g>
-            <text
-               id="text872-0"
-               y="397.50494"
-               x="-827.54688"
-               style="font-style:normal;font-weight:normal;font-size:2.69142px;line-height:3.17987px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0672854"
-               xml:space="preserve"><tspan
-                 style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.69145px;line-height:3.17987px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0672854"
-                 y="397.50494"
-                 x="-827.54688"
-                 sodipodi:role="line"
-                 id="tspan868-3">Jazaakumullahu Khairan </tspan><tspan
-                 style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.69145px;line-height:3.17987px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0672854"
-                 y="400.81326"
-                 x="-827.54688"
-                 sodipodi:role="line"
-                 id="tspan870-6">sudah dishare</tspan></text>
-          </g>
-          <g
-             transform="matrix(0.83454923,0,0,0.83454923,-955.50085,-131.2732)"
+             transform="matrix(0.83454923,0,0,0.83454923,-955.50085,-133.53049)"
              id="g1193-1">
             <g
                transform="matrix(0.91925179,0,0,0.91925179,72.355163,456.77186)"
@@ -7175,15 +7108,15 @@
                  id="text892-6"
                  y="189.95851"
                  x="27.71253"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.40372px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.0949522px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0949522px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.40372px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.0949522px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0949522px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  xml:space="preserve"><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;stroke-width:0.0949522px"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.0949522px"
                    y="189.95851"
                    x="27.71253"
                    id="tspan888-3"
                    sodipodi:role="line">SUPPORTED</tspan><tspan
                    id="tspan890-2"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;stroke-width:0.0949522px"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.0949522px"
                    y="194.21365"
                    x="27.807482"
                    sodipodi:role="line">BY</tspan></text>
@@ -8314,7 +8247,7 @@
             <path
                id="path1191-3"
                d="m 101.6195,625.7917 v 13.05224"
-               style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.369937;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+               style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.369937;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
           </g>
         </g>
         <g
@@ -8347,12 +8280,7 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.69742px;font-family:Metropolis;-inkscape-font-specification:Metropolis;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.142987">No. </tspan><tspan
                  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold'">852570628</tspan><tspan
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.69742px;font-family:Metropolis;-inkscape-font-specification:Metropolis;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.142987"> an. </tspan><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold'">Al-Istiqlal (Masjid)</tspan><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.69742px;font-family:Metropolis;-inkscape-font-specification:Metropolis;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.142987">
-</tspan></tspan><tspan
-               x="-727.09705"
-               y="301.26386"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.69742px;font-family:Metropolis;-inkscape-font-specification:Metropolis;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.142987">(Tambahkan Angka 42)</tspan></tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold'">Al-Istiqlal (Masjid)</tspan></tspan></text>
         </g>
         <g
            id="g4527"
@@ -8367,7 +8295,7 @@
                x="-726.8988"
                y="281.91022"
                style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:3.34611px;font-family:Metropolis;-inkscape-font-specification:'Metropolis Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0794589"
-               id="tspan4519">INFORMASI &amp; KONFIRMASI VIA WHATSAPP</tspan></text>
+               id="tspan4519">KONFIRMASI</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:4.69742px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:125.591;fill:#ffffff;fill-opacity:1;stroke-width:0.142987"
@@ -8380,17 +8308,14 @@
                  style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold'">0812-9895-1014 (tidak wajib)</tspan></tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.06642px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:125.591;fill:#ffffff;fill-opacity:1;stroke-width:0.142987"
+             style="font-size:3.48551px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:125.591;fill:#ffffff;fill-opacity:1;stroke-width:0.142987"
              x="-727.09705"
              y="289.51178"
              id="text18745"
              transform="translate(0,4.7232161)"><tspan
                x="-727.09705"
                y="289.51178"><tspan
-                 style="font-size:4.06642px">(Format: </tspan></tspan><tspan
-               x="-727.09705"
-               y="294.59481"><tspan
-                 style="font-size:4.06642px">infaqoperasionaldakwah#nama#asal#jumlahtransfer)</tspan></tspan></text>
+                 style="font-size:3.48551px">(Format: infaqoperasionaldakwah#nama#asal#jumlahtransfer)</tspan></tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -8401,11 +8326,15 @@
            transform="translate(2.4483955,28.611209)"><tspan
              x="-770.47321"
              y="260.21097"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25831px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.322825">Anda bisa berdakwah dan berjihad dengan harta yang Allah titipkan,</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25831px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.322825">Anda bisa berdakwah dan berjihad dengan harta yang Allah titipkan,</tspan><tspan></tspan><tspan
                y="260.21097"> </tspan></tspan><tspan
              x="-770.47321"
              y="268.03386"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25831px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.322825">dengan berinfak, berta`awwun untuk biaya operasional melalui:</tspan></tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25831px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.322825">dengan berinfak, berta`awwun untuk membantu biaya operasional</tspan><tspan
+               y="268.03386"> </tspan></tspan><tspan
+             x="-770.47321"
+             y="275.85674"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.25831px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.322825">dakwah melalui:</tspan></tspan></text>
         <g
            id="g18739"
            transform="matrix(0.88145621,0,0,0.88145621,-92.547507,23.317433)">
@@ -8457,6 +8386,116 @@
                  y="167.67422"
                  style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.118624"
                  id="tspan18707">masjid al-istiqlal tambun selatan</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g4380"
+           transform="translate(-27.316001,92.69957)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.89048px;line-height:1;font-family:Aganè;-inkscape-font-specification:'Aganè, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.136427px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.231241px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="-843.87878"
+             y="260.92743"
+             id="text2687"><tspan
+               sodipodi:role="line"
+               x="-843.87878"
+               y="260.92743"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.231241px"
+               id="tspan2685">Masjid Al-Istiqlal Tambun</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.18993px;line-height:1;font-family:Aganè;-inkscape-font-specification:'Aganè, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.0889877px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;inline-size:62.4972;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.150832px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="652.58478"
+             y="205.47769"
+             id="text2697"
+             transform="translate(-1495.7316,60.943791)"><tspan
+               x="652.58478"
+               y="205.47769"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Medium';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.150832px">Jl. Warung Asem, Kp Pulo,RT 04/036 </tspan></tspan><tspan
+               x="652.58478"
+               y="208.79814"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Medium';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.150832px">Desa Sumberjaya,Kec. Tambun Selatan</tspan></tspan></text>
+          <g
+             style="display:inline"
+             id="g2703"
+             transform="matrix(1.5192544,0,0,1.5192544,450.2994,261.30402)">
+            <image
+               y="-3.1646123"
+               x="-864.09277"
+               id="image2699"
+               xlink:href="data:image/png;base64,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 RK5CYII= "
+               preserveAspectRatio="none"
+               height="9.0760536"
+               width="9.0760536" />
+            <rect
+               rx="0.6153903"
+               ry="0.6153903"
+               y="-3.4366775"
+               x="-864.38123"
+               height="9.6080523"
+               width="9.6080523"
+               id="rect2701"
+               style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+          </g>
+        </g>
+        <text
+           id="text872-0"
+           y="354.40866"
+           x="-771.7525"
+           style="font-style:normal;font-weight:normal;font-size:5.45183px;line-height:6.44125px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.136296"
+           xml:space="preserve"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.4519px;line-height:6.44125px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.136296"
+             y="354.40866"
+             x="-771.7525"
+             sodipodi:role="line"
+             id="tspan868-3">Jazaakumullahu Khairan </tspan><tspan
+             style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.4519px;line-height:6.44125px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.136296"
+             y="361.11014"
+             x="-771.7525"
+             sodipodi:role="line"
+             id="tspan870-6">sudah dishare</tspan></text>
+        <g
+           id="g3833"
+           transform="matrix(1.2821598,0,0,1.2821598,257.80127,-372.34196)">
+          <g
+             transform="matrix(0.96571292,0,0,0.96571292,-787.45048,125.07906)"
+             id="g866-3"
+             style="fill:#ffffff;fill-opacity:1">
+            <g
+               style="fill:#ffffff;fill-opacity:1"
+               transform="matrix(1.6282481,0,0,1.6282481,-193.6836,-177.41362)"
+               id="g864-1">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-weight:normal;font-size:1.9633px;line-height:2.31961px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0490825"
+                 x="103.15938"
+                 y="278.2251"
+                 id="text854-9"><tspan
+                   id="tspan852-4"
+                   sodipodi:role="line"
+                   x="103.15938"
+                   y="278.2251"
+                   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.96331px;line-height:2.31961px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0490825">Masjid Al-Istiqlal Tambun</tspan></text>
+              <g
+                 style="fill:#ffffff;fill-opacity:1"
+                 transform="matrix(1.0252475,0,0,1.0252475,167.60807,-3.4056884)"
+                 id="g856-7" />
+              <g
+                 style="fill:#ffffff;fill-opacity:1"
+                 transform="matrix(0.78623741,0,0,0.78623741,138.90383,62.208929)"
+                 id="g860-8">
+                <path
+                   style="fill:#ffffff;fill-opacity:1;stroke-width:0.00784441"
+                   d="m -50.307899,275.89832 c -0.186919,-0.008 -0.31922,-0.0239 -0.433591,-0.0541 -0.383496,-0.10105 -0.653142,-0.37375 -0.750221,-0.75859 -0.04761,-0.18875 -0.05944,-0.41775 -0.05937,-1.15154 3.9e-5,-0.75499 0.01168,-0.97494 0.06226,-1.16884 0.100182,-0.38445 0.373136,-0.65504 0.758906,-0.75236 0.188759,-0.0476 0.417751,-0.0594 1.151555,-0.0594 0.754968,3e-5 0.974934,0.0115 1.168819,0.0623 0.384451,0.10015 0.655059,0.37313 0.752374,0.7589 0.04753,0.18847 0.05937,0.41859 0.05937,1.15548 0,0.75066 -0.01181,0.97121 -0.06226,1.16488 -0.100183,0.38445 -0.373137,0.65507 -0.758907,0.75239 -0.115397,0.0291 -0.236196,0.0429 -0.453399,0.0515 -0.226062,0.009 -1.203287,0.009 -1.435537,-4.3e-4 z m 1.211963,-0.3521 c 0.383244,-0.008 0.487756,-0.0166 0.607315,-0.0511 0.131416,-0.0381 0.208109,-0.0813 0.297452,-0.16773 0.120467,-0.11644 0.184766,-0.25725 0.213181,-0.46658 0.03112,-0.22908 0.03112,-1.63212 0,-1.86121 -0.01946,-0.14356 -0.06355,-0.27407 -0.12206,-0.36127 -0.03601,-0.0537 -0.121186,-0.13961 -0.175069,-0.1766 -0.09324,-0.0642 -0.218867,-0.10772 -0.368725,-0.12801 -0.229076,-0.0312 -1.632124,-0.0312 -1.861199,0 -0.14985,0.0203 -0.275483,0.0639 -0.368734,0.12801 -0.05387,0.0371 -0.139046,0.12287 -0.175059,0.1766 -0.05852,0.0872 -0.10257,0.21771 -0.12206,0.36127 -0.03112,0.22909 -0.03112,1.63213 0,1.86121 0.0203,0.14986 0.06394,0.27548 0.127966,0.36874 0.03702,0.0539 0.12292,0.13904 0.17661,0.17505 0.08911,0.0598 0.218676,0.10296 0.369283,0.12299 0.16129,0.0214 0.823542,0.0303 1.401102,0.0188 z m -0.659546,-0.61631 c -0.416872,-0.0754 -0.746364,-0.40726 -0.819195,-0.82489 -0.01503,-0.0865 -0.01503,-0.26321 0,-0.3497 0.07332,-0.42062 0.404756,-0.75203 0.825382,-0.82538 0.0865,-0.0152 0.263207,-0.0152 0.349704,0 0.420626,0.0733 0.752033,0.40476 0.825381,0.82538 0.01503,0.0865 0.01503,0.26321 0,0.3497 -0.07332,0.42062 -0.404755,0.75202 -0.825381,0.82538 -0.08345,0.0146 -0.274309,0.0144 -0.355891,-4.4e-4 z m 0.334007,-0.36023 c 0.246359,-0.0646 0.421535,-0.23999 0.487133,-0.48782 0.01014,-0.0381 0.0142,-0.082 0.0142,-0.15168 0,-0.0696 -0.0045,-0.11362 -0.0142,-0.15169 -0.06576,-0.24849 -0.239942,-0.42266 -0.488423,-0.48842 -0.07394,-0.0196 -0.229419,-0.0196 -0.303356,0 -0.08276,0.022 -0.14454,0.0493 -0.213082,0.0949 -0.137011,0.0909 -0.230634,0.22467 -0.275332,0.39359 -0.01953,0.0739 -0.01953,0.22942 0,0.30337 0.06166,0.23315 0.223644,0.40573 0.447905,0.47732 0.09731,0.0311 0.249036,0.0357 0.345155,0.0103 z m 0.847196,-1.46221 c -0.06868,-0.0182 -0.124961,-0.0642 -0.158831,-0.1294 -0.01747,-0.0338 -0.02082,-0.0503 -0.02082,-0.10297 0,-0.0733 0.02023,-0.12145 0.07111,-0.16979 0.05006,-0.0475 0.09197,-0.0646 0.159534,-0.0648 0.09971,-4.5e-4 0.180052,0.0506 0.22111,0.14054 0.02618,0.0574 0.02479,0.14235 -0.003,0.1961 -0.02434,0.0469 -0.06806,0.0901 -0.114267,0.11324 -0.03677,0.0184 -0.116488,0.0272 -0.154598,0.0171 z"
+                   id="path858-4"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path862-5"
+                 d="m 94.944382,276.09554 c -0.07576,0 -0.151415,0.003 -0.202692,0.0105 -0.315462,0.0433 -0.593975,0.16827 -0.833917,0.374 -0.258164,0.22136 -0.445088,0.53585 -0.514798,0.86601 -0.04446,0.21065 -0.04561,0.45177 -0.003,0.6612 0.04797,0.2357 0.1625,0.47755 0.318593,0.67296 0.0529,0.0662 0.172608,0.18594 0.238637,0.23864 0.191332,0.15265 0.415775,0.26118 0.651739,0.31508 l -1.76e-4,-1.7e-4 c 0.0799,0.0187 0.109573,0.0204 0.114673,0.007 0.0067,-0.0175 0.0042,-1.08738 -0.0026,-1.10008 -0.0011,-0.002 -0.0034,-0.004 -0.0058,-0.005 l -3.51e-4,-10e-4 h -0.0014 c -0.01319,-0.005 -0.05198,-0.005 -0.195505,-0.005 h -0.196907 v -0.2183 -0.21812 h 0.196907 c 0.182459,0 0.197118,-8.7e-4 0.202518,-0.0109 0.0032,-0.006 0.0068,-0.11457 0.0082,-0.24706 0.0023,-0.2155 0.0038,-0.2404 0.01543,-0.2851 0.03926,-0.1508 0.104627,-0.25085 0.209532,-0.32035 0.05835,-0.0387 0.106211,-0.0596 0.178321,-0.078 0.04795,-0.0122 0.06692,-0.0133 0.204446,-0.013 0.106485,3e-4 0.174786,0.004 0.229695,0.0107 0.04298,0.006 0.08039,0.0117 0.08329,0.0137 0.0029,0.002 0.0053,0.0846 0.0053,0.1841 v 0.18078 l -0.128874,0.003 c -0.08693,0.002 -0.138585,0.006 -0.159034,0.0119 -0.08925,0.0261 -0.146924,0.0842 -0.169554,0.17113 -0.01212,0.0467 -0.01392,0.35992 -0.0021,0.37172 0.0054,0.005 0.06231,0.007 0.218298,0.007 h 0.210934 l -3.51e-4,0.0137 c -1.5e-4,0.008 -0.01439,0.10503 -0.03174,0.21672 l -0.03156,0.20305 -0.184809,0.003 -0.184983,0.003 -0.0014,0.55635 c -0.0014,0.51076 -8.59e-4,0.55621 0.0082,0.56021 0.02368,0.009 0.21106,-0.0373 0.324204,-0.0801 0.08823,-0.0334 0.21929,-0.10029 0.29948,-0.15289 0.102823,-0.0675 0.181699,-0.13312 0.272829,-0.22672 0.239116,-0.24549 0.386688,-0.54665 0.437298,-0.89318 0.01476,-0.10107 0.01476,-0.3233 0,-0.42432 -0.02739,-0.18744 -0.07458,-0.33926 -0.155,-0.49954 -0.238005,-0.47437 -0.686064,-0.79251 -1.218964,-0.86531 -0.05151,-0.007 -0.127284,-0.0105 -0.203044,-0.0105 z"
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.00606182" />
+            </g>
           </g>
         </g>
       </g>
