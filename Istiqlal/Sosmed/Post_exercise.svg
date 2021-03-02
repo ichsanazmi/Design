@@ -5371,6 +5371,34 @@
        width="105.78418"
        height="70.143226"
        id="rect11149" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9317">
+      <rect
+         style="fill:#fb8c00;stroke-width:2.69999;stroke-linecap:round;stroke-linejoin:round"
+         id="rect9319"
+         width="427.96527"
+         height="427.96527"
+         x="362.48428"
+         y="883.99396"
+         ry="0.1562645" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9548">
+      <path
+         id="path9550"
+         style="opacity:0.675063;fill:#ffffff;stroke-width:2.69999;stroke-linecap:round;stroke-linejoin:round"
+         d="M 1114.3469,976.95123 861.88383,1170.4732 h 252.30657 c 0.087,0 0.1565,-0.069 0.1565,-0.156 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9734">
+      <path
+         style="opacity:1;fill:#cbbabc;fill-opacity:1;stroke:none;stroke-width:2.69999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 1123.6523,1099.6745 c 0,0 -44.3476,-32.0818 -44.3476,-76.8124 0,-44.73059 6.3138,-72.01577 6.3138,-72.01577 0,0 26.6402,-27.59628 64.8154,-17.36725 38.1753,10.229 45.152,20.67454 45.152,20.67454 0,0 13.2292,71.93358 -5.7878,117.40888 -19.0169,45.4753 -66.1458,28.112 -66.1458,28.112 z"
+         id="path9736" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -5379,9 +5407,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32"
-     inkscape:cx="-4335.7299"
-     inkscape:cy="1642.6428"
+     inkscape:zoom="0.08"
+     inkscape:cx="2921.1467"
+     inkscape:cy="4164.2507"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -5402,7 +5430,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
