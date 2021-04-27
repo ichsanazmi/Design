@@ -9,12 +9,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="Kutub_Baitul_Jannah.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    id="svg2476"
    version="1.1"
-   viewBox="0 0 4117.1935 1866.4105"
-   height="1866.4105mm"
-   width="4117.1934mm">
+   viewBox="0 0 3804.4535 3670.3613"
+   height="3670.3613mm"
+   width="3804.4534mm">
   <defs
      id="defs2470">
     <inkscape:path-effect
@@ -205,17 +205,17 @@
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="true"
      inkscape:window-maximized="1"
-     inkscape:window-y="52"
-     inkscape:window-x="27"
-     inkscape:window-height="666"
-     inkscape:window-width="1312"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="971"
+     inkscape:window-width="1280"
      inkscape:snap-global="false"
      showgrid="false"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="6641.3545"
-     inkscape:cx="3134.2"
-     inkscape:zoom="0.01"
+     inkscape:cy="6192.4235"
+     inkscape:cx="8503.9321"
+     inkscape:zoom="0.04"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -225,21 +225,29 @@
      showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="-10245.747,2268.3337"
+       position="-10402.117,4143.1703"
        orientation="0,-1"
        id="guide1225" />
     <sodipodi:guide
-       position="-10227.038,1993.6875"
+       position="-10383.408,3868.5241"
        orientation="0,-1"
        id="guide2323" />
     <sodipodi:guide
-       position="-10221.052,1853.7452"
+       position="-10377.422,3728.5818"
        orientation="0,-1"
        id="guide2325" />
     <sodipodi:guide
-       position="-10188.124,1861.9771"
+       position="-10344.494,3736.8137"
        orientation="0,-1"
        id="guide2327" />
+    <sodipodi:guide
+       position="3065.8595,812.86134"
+       orientation="0,-1"
+       id="guide834" />
+    <sodipodi:guide
+       position="2708.672,551.58529"
+       orientation="0,-1"
+       id="guide836" />
   </sodipodi:namedview>
   <metadata
      id="metadata2473">
@@ -254,34 +262,28 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-9903.8057,-1199.6998)"
+     transform="translate(-10060.176,-1270.5854)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      style="display:inline">
     <g
-       id="g13119">
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke-width:7.62274"
-         id="circle6825"
-         cx="13002.31"
-         cy="2132.905"
-         r="862.31958" />
+       id="g973">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.62019;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34755;stroke-miterlimit:4;stroke-dasharray:none;opacity:0"
          id="rect6659"
-         width="881.51758"
-         height="1387.9355"
-         x="10060.176"
-         y="1483.2126"
-         ry="20.475414" />
+         width="829.49792"
+         height="1306.0314"
+         x="10172.429"
+         y="1578.9619"
+         ry="19.26713" />
       <path
          id="path6636"
-         style="fill:#6bbe34;fill-opacity:1;stroke:none;stroke-width:0.153803"
-         d="m 10468.476,1596.3416 -80.032,80.0322 h -23.421 v 34.0355 h 375.386 v 511.9804 a 40.922991,40.922991 0 0 0 34.126,-46.742 v -113.1832 l 80.032,-80.0318 a 46.741982,46.741982 0 0 0 0,-66.1031 l -80.032,-80.0317 v -113.1822 a 46.741967,46.741967 0 0 0 -46.742,-46.7419 h -113.182 l -80.032,-80.0323 a 46.742048,46.742048 0 0 0 -66.103,10e-5 z m -239.956,126.7741 v 452.532 a 46.741967,46.741967 0 0 0 46.742,46.742 h 113.182 l 80.032,80.0317 a 46.742058,46.742058 0 0 0 66.103,10e-5 l 80.032,-80.0318 h 23.42 v -34.0356 h -34.126 v 34.0351 h -34.126 v -34.0351 h -34.126 v 34.0351 h -34.126 v -34.0351 h -238.881 v -511.9803 a 40.922991,40.922991 0 0 0 -34.126,46.7419 z m 68.252,-46.7419 v 34.0355 h 34.125 v -34.0355 z m 0,85.6243 v 170.177 h 204.755 v -34.0356 h -170.63 v -34.0346 h 102.379 v -34.0356 h -102.379 v -34.0356 h 136.505 v 68.0712 h 34.125 v -68.0712 h 34.126 v 68.0712 h 34.126 v -68.0712 h 102.379 v 34.0356 h -68.253 v 102.1058 h 102.377 v -170.177 z m -68.253,74.2998 -80.031,80.0317 a 46.742185,46.742185 0 0 0 0,66.1032 l 80.031,80.0317 z m 409.512,27.807 h 34.127 v 34.0346 h -34.127 z m -102.378,34.0346 v 34.0356 h 34.126 v -34.0356 z m -238.881,68.0706 v 34.0351 h 273.007 v -34.0351 z m 307.133,0 v 34.0351 h 34.126 v -34.0351 z m 68.253,0 v 34.0351 h 34.125 v -34.0351 z m -375.386,68.0707 v 102.1057 h 409.51 v -102.1057 h -34.124 v 68.0706 h -34.127 v -68.0706 h -34.127 v 68.0706 h -68.251 v -68.0706 h -34.126 v 68.0706 h -170.63 v -68.0706 z m 68.251,0 v 34.0356 h 34.127 v -34.0356 z m 68.253,0 v 34.0356 h 34.126 v -34.0356 z m 238.882,154.0733 v 34.0356 h 34.124 v -34.0356 z" />
+         style="fill:#6bbe34;fill-opacity:1;stroke:none;stroke-width:0.144727"
+         d="m 10556.635,1685.415 -75.309,75.3094 h -22.039 v 32.027 h 353.234 v 481.7677 a 38.508065,38.508065 0 0 0 32.112,-43.9837 v -106.5041 l 75.309,-75.309 a 43.983669,43.983669 0 0 0 0,-62.2023 l -75.309,-75.3089 v -106.5032 a 43.983655,43.983655 0 0 0 -43.984,-43.9835 h -106.503 l -75.309,-75.3095 a 43.983731,43.983731 0 0 0 -62.202,10e-5 z m -225.796,119.2929 v 425.8275 a 43.983655,43.983655 0 0 0 43.984,43.9837 h 106.503 l 75.309,75.3089 a 43.98374,43.98374 0 0 0 62.202,1e-4 l 75.309,-75.309 h 22.038 v -32.0272 h -32.112 v 32.0267 h -32.112 v -32.0267 h -32.112 v 32.0267 h -32.113 v -32.0267 h -224.784 v -481.7675 a 38.508065,38.508065 0 0 0 -32.112,43.9835 z m 64.224,-43.9835 v 32.027 h 32.112 v -32.027 z m 0,80.5714 v 160.1346 h 192.672 v -32.0271 h -160.56 v -32.0261 h 96.337 v -32.0271 h -96.337 v -32.0271 h 128.449 v 64.0542 h 32.111 v -64.0542 h 32.113 v 64.0542 h 32.112 v -64.0542 h 96.337 v 32.0271 h -64.225 v 96.0803 h 96.336 v -160.1346 z m -64.225,69.9153 -75.308,75.3089 a 43.98386,43.98386 0 0 0 0,62.2024 l 75.308,75.3089 z m 385.346,26.1661 h 32.113 v 32.0261 h -32.113 z m -96.336,32.0261 v 32.0271 h 32.112 v -32.0271 z m -224.785,64.0537 v 32.0266 h 256.897 v -32.0266 z m 289.009,0 v 32.0266 h 32.112 v -32.0266 z m 64.225,0 v 32.0266 h 32.112 v -32.0266 z m -353.234,64.0537 v 96.0803 h 385.345 v -96.0803 h -32.111 v 64.0537 h -32.113 v -64.0537 h -32.113 v 64.0537 h -64.223 v -64.0537 h -32.113 v 64.0537 h -160.56 v -64.0537 z m 64.224,0 v 32.0271 h 32.113 v -32.0271 z m 64.225,0 v 32.0271 h 32.112 v -32.0271 z m 224.785,144.9812 v 32.0272 h 32.111 v -32.0272 z" />
       <g
          id="g6657"
-         transform="matrix(0.8189205,0,0,0.8189205,6068.2179,246.98734)"
+         transform="matrix(0.7705948,0,0,0.7705948,6416.0425,415.68809)"
          style="fill:#6bbe34;fill-opacity:1">
         <text
            xml:space="preserve"
@@ -322,70 +324,79 @@
                style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold';text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.25134">JANNAH</tspan></text>
         </g>
       </g>
+    </g>
+    <g
+       id="g6838"
+       transform="matrix(0.86951166,0,0,0.86951166,1648.2707,335.72921)">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:4.99999;opacity:0"
+         id="path6661"
+         cx="11432.916"
+         cy="2132.905"
+         r="565.62183" />
       <g
-         id="g6838"
-         transform="matrix(0.92404066,0,0,0.92404066,1001.4486,162.01406)">
-        <circle
-           style="fill:#ffffff;fill-opacity:1;stroke-width:4.99999"
-           id="path6661"
-           cx="11432.916"
-           cy="2132.905"
-           r="565.62183" />
+         id="g6690"
+         transform="matrix(1.2263042,0,0,1.2263042,-2588.9583,-487.55987)">
+        <path
+           id="path6663"
+           style="fill:#6bbe34;fill-opacity:1;stroke:none;stroke-width:0.0604111"
+           d="m 11258.777,2015.7766 -31.436,31.4352 h -9.199 v 13.3685 h 147.445 v 201.0968 a 16.073823,16.073823 0 0 0 13.404,-18.3594 v -44.4564 l 31.435,-31.435 a 18.359419,18.359419 0 0 0 0,-25.9641 l -31.435,-31.4351 v -44.4559 a 18.359413,18.359413 0 0 0 -18.359,-18.3594 h -44.456 l -31.435,-31.4353 a 18.359445,18.359445 0 0 0 -25.964,10e-5 z m -94.25,49.7946 v 177.7465 a 18.359413,18.359413 0 0 0 18.359,18.3594 h 44.455 l 31.436,31.435 a 18.359448,18.359448 0 0 0 25.964,1e-4 l 31.435,-31.4351 h 9.199 v -13.3686 h -13.404 v 13.3684 h -13.404 v -13.3684 h -13.404 v 13.3684 h -13.404 v -13.3684 h -93.829 v -201.0967 a 16.073823,16.073823 0 0 0 -13.403,18.3594 z m 26.807,-18.3594 v 13.3685 h 13.405 v -13.3685 z m 0,33.6317 v 66.8425 h 80.425 v -13.3686 h -67.02 v -13.3682 h 40.212 v -13.3685 h -40.212 v -13.3686 h 53.616 v 26.7371 h 13.404 v -26.7371 h 13.404 v 26.7371 h 13.404 v -26.7371 h 40.213 v 13.3686 h -26.809 v 40.1053 h 40.212 v -66.8425 z m -26.808,29.1836 -31.434,31.435 a 18.359498,18.359498 0 0 0 0,25.9642 l 31.434,31.435 z m 160.849,10.9221 h 13.405 v 13.3682 h -13.405 z m -40.212,13.3682 v 13.3686 h 13.404 v -13.3686 z m -93.829,26.7369 v 13.3684 h 107.233 v -13.3684 z m 120.637,0 v 13.3684 h 13.404 v -13.3684 z m 26.809,0 v 13.3684 h 13.403 v -13.3684 z m -147.446,26.737 v 40.1053 h 160.849 v -40.1053 h -13.403 v 26.7369 h -13.405 v -26.7369 h -13.405 v 26.7369 h -26.807 v -26.7369 h -13.404 v 26.7369 h -67.02 v -26.7369 z m 26.808,0 v 13.3685 h 13.405 v -13.3685 z m 26.809,0 v 13.3685 h 13.404 v -13.3685 z m 93.829,60.5172 v 13.3686 h 13.403 v -13.3686 z" />
         <g
-           id="g6690"
-           transform="matrix(1.2263042,0,0,1.2263042,-2588.9583,-487.55987)">
-          <path
-             id="path6663"
-             style="fill:#6bbe34;fill-opacity:1;stroke:none;stroke-width:0.0604111"
-             d="m 11258.777,2015.7766 -31.436,31.4352 h -9.199 v 13.3685 h 147.445 v 201.0968 a 16.073823,16.073823 0 0 0 13.404,-18.3594 v -44.4564 l 31.435,-31.435 a 18.359419,18.359419 0 0 0 0,-25.9641 l -31.435,-31.4351 v -44.4559 a 18.359413,18.359413 0 0 0 -18.359,-18.3594 h -44.456 l -31.435,-31.4353 a 18.359445,18.359445 0 0 0 -25.964,10e-5 z m -94.25,49.7946 v 177.7465 a 18.359413,18.359413 0 0 0 18.359,18.3594 h 44.455 l 31.436,31.435 a 18.359448,18.359448 0 0 0 25.964,1e-4 l 31.435,-31.4351 h 9.199 v -13.3686 h -13.404 v 13.3684 h -13.404 v -13.3684 h -13.404 v 13.3684 h -13.404 v -13.3684 h -93.829 v -201.0967 a 16.073823,16.073823 0 0 0 -13.403,18.3594 z m 26.807,-18.3594 v 13.3685 h 13.405 v -13.3685 z m 0,33.6317 v 66.8425 h 80.425 v -13.3686 h -67.02 v -13.3682 h 40.212 v -13.3685 h -40.212 v -13.3686 h 53.616 v 26.7371 h 13.404 v -26.7371 h 13.404 v 26.7371 h 13.404 v -26.7371 h 40.213 v 13.3686 h -26.809 v 40.1053 h 40.212 v -66.8425 z m -26.808,29.1836 -31.434,31.435 a 18.359498,18.359498 0 0 0 0,25.9642 l 31.434,31.435 z m 160.849,10.9221 h 13.405 v 13.3682 h -13.405 z m -40.212,13.3682 v 13.3686 h 13.404 v -13.3686 z m -93.829,26.7369 v 13.3684 h 107.233 v -13.3684 z m 120.637,0 v 13.3684 h 13.404 v -13.3684 z m 26.809,0 v 13.3684 h 13.403 v -13.3684 z m -147.446,26.737 v 40.1053 h 160.849 v -40.1053 h -13.403 v 26.7369 h -13.405 v -26.7369 h -13.405 v 26.7369 h -26.807 v -26.7369 h -13.404 v 26.7369 h -67.02 v -26.7369 z m 26.808,0 v 13.3685 h 13.405 v -13.3685 z m 26.809,0 v 13.3685 h 13.404 v -13.3685 z m 93.829,60.5172 v 13.3686 h 13.403 v -13.3686 z" />
+           id="g6679"
+           transform="matrix(0.41827394,0,0,0.41827394,9334.1128,965.25346)"
+           style="fill:#6bbe34;fill-opacity:1">
+          <text
+             xml:space="preserve"
+             style="font-size:111.869px;line-height:0.1;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#6bbe34;fill-opacity:1;stroke-width:2.79673"
+             x="5114.0708"
+             y="2681.0842"
+             id="text6667"><tspan
+               sodipodi:role="line"
+               id="tspan6665"
+               x="5114.0708"
+               y="2681.0842"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:2.79673">KUTTAB</tspan></text>
           <g
-             id="g6679"
-             transform="matrix(0.41827394,0,0,0.41827394,9334.1128,965.25346)"
+             id="g6677"
+             transform="matrix(0.78716686,0,0,0.78716686,1148.8883,558.20429)"
              style="fill:#6bbe34;fill-opacity:1">
             <text
                xml:space="preserve"
-               style="font-size:111.869px;line-height:0.1;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#6bbe34;fill-opacity:1;stroke-width:2.79673"
-               x="5114.0708"
-               y="2681.0842"
-               id="text6667"><tspan
+               style="font-size:235.436px;line-height:0.1;font-family:sans-serif;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.8859"
+               x="5021.4312"
+               y="2925.0356"
+               id="text6671"><tspan
                  sodipodi:role="line"
-                 id="tspan6665"
-                 x="5114.0708"
-                 y="2681.0842"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:2.79673">KUTTAB</tspan></text>
-            <g
-               id="g6677"
-               transform="matrix(0.78716686,0,0,0.78716686,1148.8883,558.20429)"
-               style="fill:#6bbe34;fill-opacity:1">
-              <text
-                 xml:space="preserve"
-                 style="font-size:235.436px;line-height:0.1;font-family:sans-serif;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.8859"
+                 id="tspan6669"
                  x="5021.4312"
                  y="2925.0356"
-                 id="text6671"><tspan
-                   sodipodi:role="line"
-                   id="tspan6669"
-                   x="5021.4312"
-                   y="2925.0356"
-                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold';text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.8859">BAITUL</tspan></text>
-              <text
-                 xml:space="preserve"
-                 style="font-size:210.054px;line-height:0.1;font-family:sans-serif;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.25134"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold';text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.8859">BAITUL</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:210.054px;line-height:0.1;font-family:sans-serif;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.25134"
+               x="5018.0625"
+               y="3127.6631"
+               id="text6675"><tspan
+                 sodipodi:role="line"
+                 id="tspan6673"
                  x="5018.0625"
                  y="3127.6631"
-                 id="text6675"><tspan
-                   sodipodi:role="line"
-                   id="tspan6673"
-                   x="5018.0625"
-                   y="3127.6631"
-                   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold';text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.25134">JANNAH</tspan></text>
-            </g>
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold';text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.25134">JANNAH</tspan></text>
           </g>
         </g>
       </g>
+    </g>
+    <g
+       id="g947">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:7.17291;opacity:0"
+         id="circle6825"
+         cx="12940.943"
+         cy="2190.3149"
+         r="811.43286" />
       <g
          id="g6823"
-         transform="matrix(0.92404066,0,0,0.92404066,1202.853,162.01406)">
+         transform="matrix(0.86951166,0,0,0.86951166,1837.7899,335.72921)">
         <path
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="circle6692-6"
@@ -450,12 +461,224 @@
            d="m 12509.66,2673.7026 a 600.9787,600.9787 0 0 1 -329.529,-646.2147" />
       </g>
     </g>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:7.17291;opacity:0"
+       id="circle762"
+       cx="12940.943"
+       cy="4021.2173"
+       r="811.43286" />
+    <g
+       id="g897">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.65589;stroke-miterlimit:4;stroke-dasharray:none;opacity:0"
+         id="rect764"
+         width="829.49792"
+         height="1497.8542"
+         x="10172.429"
+         y="3409.8643"
+         ry="22.096983" />
+      <path
+         id="path766"
+         style="fill:#6bbe34;fill-opacity:1;stroke:none;stroke-width:0.144727"
+         d="m 10556.635,3516.3172 -75.309,75.3094 h -22.039 v 32.027 h 353.234 v 481.7677 a 38.508065,38.508065 0 0 0 32.112,-43.9837 v -106.5041 l 75.309,-75.309 a 43.983669,43.983669 0 0 0 0,-62.2022 l -75.309,-75.3089 v -106.5032 a 43.983655,43.983655 0 0 0 -43.984,-43.9836 h -106.503 l -75.309,-75.3095 a 43.983731,43.983731 0 0 0 -62.202,10e-5 z m -225.796,119.293 v 425.8274 a 43.983655,43.983655 0 0 0 43.984,43.9837 h 106.503 l 75.309,75.3089 a 43.98374,43.98374 0 0 0 62.202,1e-4 l 75.309,-75.309 h 22.038 v -32.0271 h -32.112 v 32.0266 h -32.112 v -32.0266 h -32.112 v 32.0266 h -32.113 v -32.0266 h -224.784 v -481.7676 a 38.508065,38.508065 0 0 0 -32.112,43.9836 z m 64.224,-43.9836 v 32.027 h 32.112 v -32.027 z m 0,80.5715 v 160.1346 h 192.672 v -32.0271 h -160.56 v -32.0262 h 96.337 v -32.0271 h -96.337 v -32.0271 h 128.449 v 64.0542 h 32.111 v -64.0542 h 32.113 v 64.0542 h 32.112 v -64.0542 h 96.337 v 32.0271 h -64.225 v 96.0804 h 96.336 v -160.1346 z m -64.225,69.9153 -75.308,75.3089 a 43.98386,43.98386 0 0 0 0,62.2023 l 75.308,75.3089 z m 385.346,26.166 h 32.113 v 32.0262 h -32.113 z m -96.336,32.0262 v 32.0271 h 32.112 v -32.0271 z m -224.785,64.0537 v 32.0266 h 256.897 v -32.0266 z m 289.009,0 v 32.0266 h 32.112 v -32.0266 z m 64.225,0 v 32.0266 h 32.112 v -32.0266 z m -353.234,64.0537 v 96.0803 h 385.345 v -96.0803 h -32.111 v 64.0537 h -32.113 v -64.0537 h -32.113 v 64.0537 h -64.223 v -64.0537 h -32.113 v 64.0537 h -160.56 v -64.0537 z m 64.224,0 v 32.0271 h 32.113 v -32.0271 z m 64.225,0 v 32.0271 h 32.112 v -32.0271 z m 224.785,144.9812 v 32.0271 h 32.111 v -32.0271 z" />
+      <g
+         id="g782"
+         transform="matrix(0.7705948,0,0,0.7705948,6402.8133,2246.5904)"
+         style="fill:#6bbe34;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:111.869px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#6bbe34;fill-opacity:1;stroke-width:2.79673"
+           x="5114.0708"
+           y="2681.0842"
+           id="text770"><tspan
+             sodipodi:role="line"
+             id="tspan768"
+             x="5114.0708"
+             y="2681.0842"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:2.79673">TAMAN</tspan><tspan
+             sodipodi:role="line"
+             x="5114.0708"
+             y="2797.5435"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:2.79673"
+             id="tspan838">PENDIDIKAN</tspan><tspan
+             sodipodi:role="line"
+             x="5114.0708"
+             y="2914.0024"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:2.79673"
+             id="tspan840">AL-QURAN</tspan></text>
+        <g
+           id="g780"
+           transform="matrix(0.78716686,0,0,0.78716686,1148.8883,558.20429)"
+           style="fill:#6bbe34;fill-opacity:1">
+          <text
+             xml:space="preserve"
+             style="font-size:235.436px;line-height:0.1;font-family:sans-serif;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.8859"
+             x="5021.4312"
+             y="3230.3643"
+             id="text774"><tspan
+               sodipodi:role="line"
+               id="tspan772"
+               x="5021.4312"
+               y="3230.3643"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold';text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.8859">BAITUL</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:210.054px;line-height:0.1;font-family:sans-serif;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.25134"
+             x="5018.0625"
+             y="3432.9917"
+             id="text778"><tspan
+               sodipodi:role="line"
+               id="tspan776"
+               x="5018.0625"
+               y="3432.9917"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold';text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:5.25134">JANNAH</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g806"
+       transform="matrix(0.86951166,0,0,0.86951166,1648.2707,2166.6315)">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:4.99999;opacity:0"
+         id="circle784"
+         cx="11432.916"
+         cy="2132.905"
+         r="565.62183" />
+      <g
+         id="g804"
+         transform="matrix(1.2263042,0,0,1.2263042,-2588.9583,-487.55987)">
+        <path
+           id="path786"
+           style="fill:#6bbe34;fill-opacity:1;stroke:none;stroke-width:0.0604111"
+           d="m 11258.777,2015.7766 -31.436,31.4352 h -9.199 v 13.3685 h 147.445 v 201.0968 a 16.073823,16.073823 0 0 0 13.404,-18.3594 v -44.4564 l 31.435,-31.435 a 18.359419,18.359419 0 0 0 0,-25.9641 l -31.435,-31.4351 v -44.4559 a 18.359413,18.359413 0 0 0 -18.359,-18.3594 h -44.456 l -31.435,-31.4353 a 18.359445,18.359445 0 0 0 -25.964,10e-5 z m -94.25,49.7946 v 177.7465 a 18.359413,18.359413 0 0 0 18.359,18.3594 h 44.455 l 31.436,31.435 a 18.359448,18.359448 0 0 0 25.964,1e-4 l 31.435,-31.4351 h 9.199 v -13.3686 h -13.404 v 13.3684 h -13.404 v -13.3684 h -13.404 v 13.3684 h -13.404 v -13.3684 h -93.829 v -201.0967 a 16.073823,16.073823 0 0 0 -13.403,18.3594 z m 26.807,-18.3594 v 13.3685 h 13.405 v -13.3685 z m 0,33.6317 v 66.8425 h 80.425 v -13.3686 h -67.02 v -13.3682 h 40.212 v -13.3685 h -40.212 v -13.3686 h 53.616 v 26.7371 h 13.404 v -26.7371 h 13.404 v 26.7371 h 13.404 v -26.7371 h 40.213 v 13.3686 h -26.809 v 40.1053 h 40.212 v -66.8425 z m -26.808,29.1836 -31.434,31.435 a 18.359498,18.359498 0 0 0 0,25.9642 l 31.434,31.435 z m 160.849,10.9221 h 13.405 v 13.3682 h -13.405 z m -40.212,13.3682 v 13.3686 h 13.404 v -13.3686 z m -93.829,26.7369 v 13.3684 h 107.233 v -13.3684 z m 120.637,0 v 13.3684 h 13.404 v -13.3684 z m 26.809,0 v 13.3684 h 13.403 v -13.3684 z m -147.446,26.737 v 40.1053 h 160.849 v -40.1053 h -13.403 v 26.7369 h -13.405 v -26.7369 h -13.405 v 26.7369 h -26.807 v -26.7369 h -13.404 v 26.7369 h -67.02 v -26.7369 z m 26.808,0 v 13.3685 h 13.405 v -13.3685 z m 26.809,0 v 13.3685 h 13.404 v -13.3685 z m 93.829,60.5172 v 13.3686 h 13.403 v -13.3686 z" />
+        <g
+           id="g802"
+           transform="matrix(0.28494117,0,0,0.28494117,10026.376,1297.6381)"
+           style="fill:#6bbe34;fill-opacity:1">
+          <text
+             xml:space="preserve"
+             style="font-size:152.569px;line-height:1;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#6bbe34;fill-opacity:1;stroke-width:3.81422"
+             x="5113.5825"
+             y="2673.3105"
+             id="text790"><tspan
+               sodipodi:role="line"
+               id="tspan788"
+               x="5113.5825"
+               y="2673.3105"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:3.81422">TAMAN</tspan><tspan
+               sodipodi:role="line"
+               x="5113.5825"
+               y="2832.1396"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:3.81422"
+               id="tspan842">PENDIDIKAN</tspan><tspan
+               sodipodi:role="line"
+               x="5113.5825"
+               y="2990.9688"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Muli;-inkscape-font-specification:Muli;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:3.81422"
+               id="tspan844">AL-QURAN</tspan></text>
+          <g
+             id="g800"
+             transform="matrix(0.78716686,0,0,0.78716686,1148.8883,558.20429)"
+             style="fill:#6bbe34;fill-opacity:1">
+            <text
+               xml:space="preserve"
+               style="font-size:296.769px;line-height:0.1;font-family:sans-serif;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:7.41922"
+               x="5022.3086"
+               y="3420.8857"
+               id="text794"><tspan
+                 sodipodi:role="line"
+                 id="tspan792"
+                 x="5022.3086"
+                 y="3420.8857"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold';text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:7.41922">BAITUL</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:264.774px;line-height:0.1;font-family:sans-serif;text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:6.61935"
+               x="5018.0625"
+               y="3676.2988"
+               id="text798"><tspan
+                 sodipodi:role="line"
+                 id="tspan796"
+                 x="5018.0625"
+                 y="3676.2988"
+                 style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold';text-align:start;text-anchor:start;fill:#6bbe34;fill-opacity:1;stroke-width:6.61935">JANNAH</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g830"
+       transform="matrix(0.86951166,0,0,0.86951166,1837.7899,2166.6315)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path808"
+         sodipodi:type="arc"
+         sodipodi:cx="12771.792"
+         sodipodi:cy="2132.905"
+         sodipodi:rx="600.9787"
+         sodipodi:ry="600.9787"
+         sodipodi:start="0.20319561"
+         sodipodi:end="0.73484297"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="m 13360.407,2254.1827 a 600.9787,600.9787 0 0 1 -142.727,281.6609" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke-width:5.67537"
+         id="circle810"
+         cx="-2410.54"
+         cy="-12722.313"
+         r="642.02344"
+         transform="matrix(-0.02177775,-0.99976284,-0.99976284,0.02177775,0,0)" />
+      <path
+         id="path812"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.195303"
+         d="m 12729.822,1673.5112 -101.629,101.6267 h -29.74 v 43.2188 h 476.676 v 650.1237 a 51.964885,51.964885 0 0 0 43.332,-59.3542 v -143.7224 l 101.626,-101.6259 a 59.353963,59.353963 0 0 0 0,-83.9391 l -101.626,-101.6262 v -143.7209 a 59.353942,59.353942 0 0 0 -59.353,-59.3538 h -143.721 l -101.625,-101.6269 a 59.354047,59.354047 0 0 0 -83.94,2e-4 z m -304.699,160.9805 v 574.6345 a 59.353942,59.353942 0 0 0 59.353,59.3542 h 143.717 l 101.629,101.6256 a 59.354055,59.354055 0 0 0 83.94,6e-4 l 101.625,-101.6262 h 29.741 v -43.2193 h -43.336 v 43.2185 h -43.332 v -43.2185 h -43.335 v 43.2185 h -43.333 v -43.2185 h -303.339 v -650.1232 a 51.964885,51.964885 0 0 0 -43.33,59.3538 z m 86.663,-59.3538 v 43.2188 h 43.337 v -43.2188 z m 0,108.7276 v 216.0942 h 260.006 v -43.2192 h -216.669 v -43.218 h 130.001 v -43.2188 h -130.001 v -43.2192 h 173.336 v 86.438 h 43.333 v -86.438 h 43.333 v 86.438 h 43.335 v -86.438 h 130.003 v 43.2192 h -86.671 v 129.656 h 130.001 v -216.0942 z m -86.665,94.3471 -101.624,101.6259 a 59.354219,59.354219 0 0 0 0,83.9394 l 101.624,101.6259 z m 520.007,35.3099 h 43.335 v 43.218 h -43.335 z m -130.003,43.218 v 43.2192 h 43.335 v -43.2192 z m -303.339,86.4374 v 43.2186 h 346.674 v -43.2186 z m 390.006,0 v 43.2186 h 43.336 v -43.2186 z m 86.671,0 v 43.2186 h 43.33 v -43.2186 z m -476.677,86.4378 v 129.656 h 520.007 v -129.656 h -43.33 v 86.4375 h -43.335 v -86.4375 h -43.338 v 86.4375 h -86.665 v -86.4375 h -43.333 v 86.4375 h -216.669 v -86.4375 z m 86.667,0 v 43.2188 h 43.339 v -43.2188 z m 86.671,0 v 43.2188 h 43.335 v -43.2188 z m 303.339,195.6454 v 43.2193 h 43.33 v -43.2193 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:109.884px;line-height:0.1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.74709"
+         id="text818"><textPath
+           xlink:href="#circle6727"
+           startOffset="50%"
+           id="textPath816"><tspan
+             id="tspan814"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';stroke-width:2.74709">TAMAN PENDIDIKAN AL-QURAN</tspan></textPath></text>
+      <circle
+         style="fill:none;fill-opacity:1;stroke-width:4.99999"
+         id="circle820"
+         cx="2132.905"
+         cy="-12771.792"
+         r="565.62183"
+         transform="rotate(90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:109.884px;line-height:0.1;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:2.74709"
+         id="text826"><textPath
+           xlink:href="#circle6692"
+           startOffset="50%"
+           id="textPath824"><tspan
+             id="tspan822"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';stroke-width:2.74709">BAITUL JANNAH</tspan></textPath></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path828"
+         sodipodi:type="arc"
+         sodipodi:cx="12771.792"
+         sodipodi:cy="2132.905"
+         sodipodi:rx="600.9787"
+         sodipodi:ry="600.9787"
+         sodipodi:start="2.378271"
+         sodipodi:end="2.9345755"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="m 12337.559,2548.3768 a 600.9787,600.9787 0 0 1 -153.914,-291.9456" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="residu"
-     style="display:none">
+     style="display:none"
+     transform="translate(-156.37008,-70.885649)">
     <rect
        style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:19.1898;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect7079"
