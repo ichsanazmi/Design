@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="loker_2020.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    id="svg11256"
    version="1.1"
    viewBox="0 0 210 297"
@@ -353,10 +353,10 @@
     <linearGradient
        gradientTransform="matrix(1.5882688,0,0,1.7772124,138.93263,-158.30829)"
        gradientUnits="userSpaceOnUse"
-       y2="163.87273"
-       x2="248.16592"
-       y1="163.87273"
-       x1="-266.59299"
+       y2="117.65228"
+       x2="-73.57531"
+       y1="318.99792"
+       x1="-186.07733"
        id="linearGradient10125"
        xlink:href="#linearGradient10123"
        inkscape:collect="always" />
@@ -570,24 +570,32 @@
          id="circle6438-3-9-5-9-5-4-6"
          style="opacity:0.25;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
     </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter1604">
+      <feColorMatrix
+         values="0.21 0.72 0.240964 0.180723 0 0.21 0.72 0.240964 0.180723 0 0.21 0.72 0.240964 0.180723 0 0 0 0 1 0 "
+         id="feColorMatrix1602" />
+    </filter>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:snap-global="false"
      showguides="false"
      inkscape:window-maximized="1"
-     inkscape:window-y="40"
-     inkscape:window-x="30"
-     inkscape:window-height="672"
-     inkscape:window-width="1306"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="971"
+     inkscape:window-width="1280"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="true"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="755.30137"
-     inkscape:cx="-1196.2475"
-     inkscape:zoom="0.23398615"
+     inkscape:cy="861.57803"
+     inkscape:cx="-50.492548"
+     inkscape:zoom="0.16545319"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -3945,7 +3953,7 @@
              id="image6315-7"
              x="-294.47562"
              y="23.184944"
-             style="display:inline" />
+             style="display:inline;filter:url(#filter1604)" />
           <rect
              style="opacity:1;fill:url(#linearGradient10125);fill-opacity:1;stroke:none;stroke-width:6.26323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              id="rect10117"
@@ -4534,24 +4542,24 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0247px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.250616">1. Muslim (diutamakan bermanhaj salaf)</tspan><tspan
              sodipodi:role="line"
              x="-416.2305"
-             y="129.44485"
+             y="129.45772"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0247px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.250616"
              id="tspan12003">2. S1 Pendidikan Bahasa Inggris (diutamakan S2)</tspan><tspan
              sodipodi:role="line"
              x="-416.2305"
-             y="142.23296"
+             y="142.25868"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0247px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.250616"
              id="tspan12007">3. Tinggal di daerah Tambun, Cibitung dan Sekitarnya</tspan><tspan
              sodipodi:role="line"
              x="-416.2305"
-             y="155.02106"
+             y="155.05965"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0247px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.250616"
              id="tspan12011">4. Berpengalaman min. 2 tahun di bidangnya</tspan><tspan
              sodipodi:role="line"
              x="-416.2305"
-             y="167.80914"
+             y="167.86061"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0247px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:0.250616"
-             id="tspan12009">5. Siap Kerja Fulltime</tspan></text>
+             id="tspan12009">5. Juni 2021 Siap Kerja Fulltime</tspan></text>
       </g>
       <g
          id="g7564"
