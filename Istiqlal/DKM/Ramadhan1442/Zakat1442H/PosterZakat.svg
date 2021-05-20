@@ -19,15 +19,27 @@
      id="defs18794">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1294">
+       id="linearGradient1428">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#2c7474;stop-opacity:1"
          offset="0"
-         id="stop1292" />
+         id="stop1424" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#3b9b9b;stop-opacity:0"
          offset="1"
-         id="stop1290" />
+         id="stop1426" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1414">
+      <stop
+         style="stop-color:#2c7474;stop-opacity:1"
+         offset="0"
+         id="stop1412" />
+      <stop
+         style="stop-color:#3b9b9b;stop-opacity:1;"
+         offset="1"
+         id="stop1410" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -220,10 +232,10 @@
       <rect
          style="fill:#008080;fill-opacity:1;stroke-width:3.48106;stroke-linecap:round;stroke-linejoin:round"
          id="rect10480"
-         width="145.06721"
-         height="205.74506"
+         width="87.291107"
+         height="129.8432"
          x="-118.84443"
-         y="564.25781"
+         y="708.13165"
          ry="7.9564385" />
     </clipPath>
     <clipPath
@@ -232,9 +244,9 @@
       <rect
          style="fill:#008080;fill-opacity:1;stroke-width:2.1442;stroke-linecap:round;stroke-linejoin:round"
          id="rect11376"
-         width="89.355797"
-         height="60.243874"
-         x="-17.180532"
+         width="76.79538"
+         height="60.243896"
+         x="-4.6201148"
          y="642.53833"
          ry="4.9008584" />
     </clipPath>
@@ -253,9 +265,9 @@
       <rect
          style="fill:#008080;fill-opacity:1;stroke-width:3.48106;stroke-linecap:round;stroke-linejoin:round"
          id="rect11420"
-         width="145.06721"
-         height="96.847473"
-         x="221.33812"
+         width="112.26633"
+         height="78.39698"
+         x="254.13901"
          y="645.68573"
          ry="7.9564385" />
     </clipPath>
@@ -266,7 +278,7 @@
          style="opacity:0.5;fill:#008080;fill-opacity:1;stroke-width:16.8907;stroke-linecap:round;stroke-linejoin:round"
          id="rect11465"
          width="703.88879"
-         height="865.01996"
+         height="689.12115"
          x="-499.61758"
          y="288.08408"
          ry="38.605881" />
@@ -277,9 +289,9 @@
       <rect
          style="opacity:0.5;fill:#008080;fill-opacity:1;stroke-width:2.1442;stroke-linecap:round;stroke-linejoin:round"
          id="rect11510"
-         width="101.45103"
-         height="61.098438"
-         x="-61.566826"
+         width="76.499512"
+         height="61.09845"
+         x="-36.615303"
          y="665.40961"
          ry="4.9008584" />
     </clipPath>
@@ -291,27 +303,122 @@
          values="0.21 0.72 0.072 0.04 0 0.21 0.72 0.072 0.04 0 0.21 0.72 0.072 0.04 0 0 0 0 1 0 "
          id="feColorMatrix1284" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1404">
+      <rect
+         style="fill:#008080;fill-opacity:1;stroke-width:2.32289;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1406"
+         width="96.802284"
+         height="79.839775"
+         x="-150.72404"
+         y="655.74841"
+         ry="5.3092728" />
+    </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1294"
-       id="linearGradient1296"
-       x1="210.60681"
-       y1="207.54768"
-       x2="-23.738434"
-       y2="735.20245"
+       xlink:href="#linearGradient1414"
+       id="linearGradient1416"
+       x1="-89.506287"
+       y1="782.07153"
+       x2="123.4513"
+       y2="482.66791"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1428"
+       id="linearGradient1422"
+       gradientUnits="userSpaceOnUse"
+       x1="-16.934858"
+       y1="605.50262"
+       x2="174.10011"
+       y2="96.971336"
+       gradientTransform="matrix(1,0,0,0.6036697,0,328.23464)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11508-4">
+      <rect
+         style="opacity:0.5;fill:#008080;fill-opacity:1;stroke-width:2.1442;stroke-linecap:round;stroke-linejoin:round"
+         id="rect11510-1"
+         width="76.499512"
+         height="61.09845"
+         x="-36.615303"
+         y="665.40961"
+         ry="4.9008584" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1576">
+      <rect
+         style="opacity:0.5;fill:#008080;fill-opacity:1;stroke-width:2.32289;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1578"
+         width="82.874611"
+         height="124.39846"
+         x="20.624611"
+         y="770.14215"
+         ry="5.3092723" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1587">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.848215,848.55653 -3.590774,47.05803 11.528274,0.94493 2.078865,-45.54609 z"
+         id="path1589" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1576-4">
+      <rect
+         style="opacity:0.5;fill:#008080;fill-opacity:1;stroke-width:2.32289;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1578-8"
+         width="82.874611"
+         height="124.39846"
+         x="20.624611"
+         y="770.14215"
+         ry="5.3092723" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1587-2">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.848215,848.55653 -3.590774,47.05803 11.528274,0.94493 2.078865,-45.54609 z"
+         id="path1589-4" />
+    </clipPath>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1354"
-       x="-0.16893649"
-       width="1.337873"
-       y="-0.14330474"
-       height="1.2866095">
+       id="filter1671"
+       x="-0.18107526"
+       width="1.3621505"
+       y="-0.084966093"
+       height="1.1699322">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="8.4940062"
-         id="feGaussianBlur1356" />
+         stdDeviation="7.8024041"
+         id="feGaussianBlur1673" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1732">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.35876px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 348.19587,692.77936 c 0,0 0.3624,-7.42923 7.42923,-9.60367 0,0 4.71123,0.90601 6.16084,5.61724 1.44961,4.71123 0.906,6.70443 0.906,6.70443 0,0 -0.7248,7.79165 -8.51644,6.34205 -7.79165,-1.44961 -5.97963,-9.06005 -5.97963,-9.06005 z"
+         id="path1734" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1772"
+       x="-0.021185762"
+       width="1.0423715"
+       y="-0.037663575"
+       height="1.0753272">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7245685"
+         id="feGaussianBlur1774" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -321,11 +428,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="138.19639"
-     inkscape:cy="1982.6972"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="-85.412145"
+     inkscape:cy="2081.2319"
      inkscape:document-units="mm"
-     inkscape:current-layer="g10033"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1280"
@@ -1868,13 +1975,13 @@
            style="display:inline;fill:#ffffff">
           <image
              sodipodi:absref="D:\Ichsan\design\Istiqlal\WhatsApp Image 2018-07-19 at 19.57.40.jpeg"
-             xlink:href="../../../WhatsApp%20Image%202018-07-19%20at%2019.57.40.jpeg"
-             width="168.0304"
-             height="168.0304"
-             preserveAspectRatio="none"
-             id="image796-3-7-6"
+             xlink:href="../../design/Istiqlal/WhatsApp%20Image%202018-07-19%20at%2019.57.40.jpeg"
+             y="360.51761"
              x="119.74146"
-             y="360.51761" />
+             id="image796-3-7-6"
+             preserveAspectRatio="none"
+             height="168.0304"
+             width="168.0304" />
         </g>
         <text
            xml:space="preserve"
@@ -1910,54 +2017,63 @@
     <g
        id="g10018"
        transform="translate(-29.934187,-86.595327)"
-       clip-path="url(#clipPath10022)">
+       clip-path="url(#clipPath10022)"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95">
       <image
-         sodipodi:absref="D:\Ichsan\design\Istiqlal\DKM\Ramadhan1442\Zakat1442H\20210510_152641.jpg"
+         sodipodi:absref="D:\Ichsan\temp Design\Zakat1442H\20210510_152641.jpg"
          xlink:href="20210510_152641.jpg"
-         style="filter:url(#filter1286)"
-         y="421.06747"
-         x="-426.7728"
-         id="image10427-8"
-         preserveAspectRatio="none"
+         width="735.64349"
          height="413.79953"
-         width="735.64349" />
+         preserveAspectRatio="none"
+         id="image10427-8"
+         x="-426.7728"
+         y="421.06747"
+         style="filter:url(#filter1286)" />
       <rect
-         style="opacity:1;fill:url(#linearGradient1296);stroke-width:0.264583;fill-opacity:1"
+         style="opacity:1;mix-blend-mode:normal;fill:url(#linearGradient1422);fill-opacity:1;stroke-width:0.205571"
+         id="rect1420"
+         width="341.69049"
+         height="375.70831"
+         x="-149.98248"
+         y="452.47626" />
+      <rect
+         style="opacity:1;mix-blend-mode:multiply;fill:url(#linearGradient1416);fill-opacity:1;stroke-width:0.264583"
          id="rect1288"
          width="341.69049"
          height="411.99402"
          x="-149.98248"
-         y="457.01199" />
+         y="416.19055" />
+      <rect
+         style="fill:#ff9955;fill-opacity:1;stroke-width:7.12899;stroke-linecap:round;stroke-linejoin:round"
+         id="rect10050"
+         width="168.97018"
+         height="168.97018"
+         x="40.0033"
+         y="571.90826"
+         ry="84.485092" />
       <g
-         id="g10033"
-         transform="matrix(0.54485909,0,0,0.54485909,-42.957041,326.94431)">
+         id="g1334"
+         transform="rotate(-90,-111.87232,558.25918)">
         <rect
-           style="fill:#ff9955;fill-opacity:1;stroke-width:13.0841;stroke-linecap:round;stroke-linejoin:round"
-           id="rect10050"
-           width="310.11722"
-           height="310.11722"
-           x="152.26018"
-           y="449.59137"
-           ry="155.05861" />
-        <rect
-           style="opacity:0.75;fill:#008080;fill-opacity:1;stroke-width:3.48106;stroke-linecap:round;stroke-linejoin:round"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.75942;stroke-linecap:round;stroke-linejoin:round"
            id="rect10039"
-           width="145.06721"
-           height="178.27538"
-           x="-205.6257"
-           y="760.38348"
-           ry="7.9564381" />
+           width="73.320801"
+           height="59.250408"
+           x="-131.93974"
+           y="565.95209"
+           ry="4.0213938" />
         <rect
-           style="fill:#ff9955;fill-opacity:1;stroke-width:11.3236;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:#ff9955;fill-opacity:1;stroke-width:5.72325;stroke-linecap:round;stroke-linejoin:round"
            id="rect10085-1"
-           width="268.38995"
-           height="268.38995"
-           x="-299.5257"
-           y="548.63916"
-           ry="134.19498" />
+           width="135.65138"
+           height="135.65138"
+           x="-98.055161"
+           y="489.55112"
+           ry="67.825691" />
         <g
            id="g3396-9"
-           transform="matrix(1.0008466,0,0,1.0008466,2744.9767,817.99336)">
+           transform="matrix(0.54532037,0,0,0.54532037,1468.5435,594.23067)">
           <g
              id="g3394-6"
              transform="translate(5.0470009)">
@@ -1966,122 +2082,178 @@
                id="rect3390-1"
                width="115.97538"
                height="86.247253"
-               x="-2992.1528"
-               y="-67.250381"
+               x="-3062.8518"
+               y="373.57828"
                ry="6.8263659" />
             <rect
                style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.950709;stroke-linecap:round;stroke-linejoin:round"
                id="rect3403-1"
                width="30.300646"
                height="22.533638"
-               x="-2906.478"
-               y="-98.575485"
+               x="-2977.177"
+               y="342.25317"
                ry="4.0344768" />
           </g>
         </g>
+        <rect
+           style="opacity:1;fill:#a7d2d2;fill-opacity:1;stroke-width:0.3018;stroke-linecap:round;stroke-linejoin:round"
+           id="rect1408"
+           width="12.576985"
+           height="10.163439"
+           x="-114.68063"
+           y="550.52478"
+           ry="0.68980438" />
+      </g>
+      <g
+         id="g1326"
+         transform="translate(11.339286)">
         <g
            id="g11337"
-           transform="matrix(1.6234785,0,0,1.6234785,102.68448,-482.81364)"
+           transform="matrix(1.0833352,0,0,1.0833352,43.904112,-102.32411)"
            clip-path="url(#clipPath11374)">
           <image
-             sodipodi:absref="D:\Ichsan\design\Istiqlal\DKM\Ramadhan1442\Zakat1442H\20210511_090657.jpg"
+             sodipodi:absref="D:\Ichsan\temp Design\Zakat1442H\20210511_090657.jpg"
              xlink:href="20210511_090657.jpg"
-             width="451.45013"
-             height="253.94072"
-             preserveAspectRatio="none"
+             transform="rotate(90)"
+             y="-154.97701"
+             x="501.83051"
              id="image11332"
-             x="478.33789"
-             y="-178.00444"
-             transform="rotate(90)" />
+             preserveAspectRatio="none"
+             height="207.88585"
+             width="369.57483" />
         </g>
         <g
            id="g11416"
            clip-path="url(#clipPath11418)"
-           transform="translate(-146.54586,24.526434)">
+           transform="matrix(0.73749468,0,0,0.73749468,-148.12787,189.59234)">
           <image
-             sodipodi:absref="D:\Ichsan\design\Istiqlal\DKM\Ramadhan1442\Zakat1442H\20210511_130519.jpg"
+             sodipodi:absref="D:\Ichsan\temp Design\Zakat1442H\20210511_130519.jpg"
              xlink:href="20210511_130519.jpg"
-             y="545.69897"
-             x="152.86082"
+             width="195.36537"
+             height="109.89303"
+             preserveAspectRatio="none"
              id="image11407"
-             preserveAspectRatio="none"
-             height="200.40292"
-             width="356.27185" />
-        </g>
-        <g
-           id="g10461"
-           clip-path="url(#clipPath10478)"
-           transform="translate(36.299192,-3.9242852)">
-          <image
-             sodipodi:absref="D:\Ichsan\design\Istiqlal\DKM\Ramadhan1442\Zakat1442H\20210510_152641.jpg"
-             xlink:href="20210510_152641.jpg"
-             width="503.823"
-             height="283.40048"
-             preserveAspectRatio="none"
-             id="image10427"
-             x="-281.26587"
-             y="487.08679" />
-        </g>
-        <g
-           id="g1361"
-           transform="translate(23.545422,-3.924237)">
-          <rect
-             style="opacity:0.235294;fill:#1a1a1a;stroke-width:0.4856;filter:url(#filter1354)"
-             id="rect1300"
-             width="155.00737"
-             height="191.30658"
-             x="-68.318245"
-             y="689.05884"
-             ry="13.73483" />
+             x="225.34123"
+             y="631.30054" />
           <g
-             id="g11437"
-             transform="matrix(0.20609394,0,0,0.20609394,38.001946,635.28017)"
-             clip-path="url(#clipPath11463)">
+             id="g1730"
+             clip-path="url(#clipPath1732)">
             <image
-               sodipodi:absref="D:\Ichsan\design\Istiqlal\DKM\Ramadhan1442\Zakat1442H\20210511_102839.jpg"
-               xlink:href="20210511_102839.jpg"
-               width="1360.988"
-               height="765.55579"
+               sodipodi:absref="D:\Ichsan\temp Design\Zakat1442H\20210511_130519.jpg"
+               xlink:href="20210511_130519.jpg"
+               style="filter:url(#filter1772)"
+               width="195.36537"
+               height="109.89303"
                preserveAspectRatio="none"
-               id="image11432"
-               x="79.02021"
-               y="-227.79381"
-               transform="rotate(90)" />
+               id="image1725"
+               x="225.34123"
+               y="631.30054" />
           </g>
         </g>
         <g
            id="g11482"
-           transform="matrix(1.6234785,0,0,1.6234785,-13.698732,-613.1453)"
+           transform="matrix(1.0833352,0,0,1.0833352,78.886158,14.9235)"
            clip-path="url(#clipPath11508)">
           <image
-             sodipodi:absref="D:\Ichsan\design\Istiqlal\DKM\Ramadhan1442\Zakat1442H\20210511_090342.jpg"
+             sodipodi:absref="D:\Ichsan\temp Design\Zakat1442H\20210511_090342.jpg"
              xlink:href="20210511_090342.jpg"
-             width="122.4465"
-             height="68.876152"
-             preserveAspectRatio="none"
+             y="656.43195"
+             x="-53.94244"
              id="image11477"
-             x="-64.304253"
-             y="657.85052" />
+             preserveAspectRatio="none"
+             height="76.647514"
+             width="136.26225" />
+        </g>
+        <g
+           id="g10461"
+           clip-path="url(#clipPath10478)"
+           transform="matrix(0.66729263,0,0,0.66729263,-57.056928,217.23523)">
+          <image
+             sodipodi:absref="D:\Ichsan\temp Design\Zakat1442H\20210510_152641.jpg"
+             xlink:href="20210510_152641.jpg"
+             y="569.50269"
+             x="-332.81122"
+             id="image10427"
+             preserveAspectRatio="none"
+             height="329.28152"
+             width="585.38928" />
+        </g>
+        <g
+           id="g11437"
+           transform="matrix(0.13752497,0,0,0.13752497,2.1509375,643.39466)"
+           clip-path="url(#clipPath11463)">
+          <image
+             sodipodi:absref="D:\Ichsan\temp Design\Zakat1442H\20210511_102839.jpg"
+             xlink:href="20210511_102839.jpg"
+             transform="rotate(90)"
+             y="-227.79381"
+             x="32.377998"
+             id="image11432"
+             preserveAspectRatio="none"
+             height="765.55579"
+             width="1360.988" />
+        </g>
+        <g
+           id="g1402"
+           clip-path="url(#clipPath1404)"
+           transform="translate(84.16509,-61.988103)">
+          <image
+             sodipodi:absref="D:\Ichsan\temp Design\Zakat1442H\WhatsApp Image 2021-05-17 at 21.20.01.jpeg"
+             xlink:href="WhatsApp%20Image%202021-05-17%20at%2021.20.01.jpeg"
+             width="257.93094"
+             height="145.21112"
+             preserveAspectRatio="none"
+             id="image1346"
+             x="-220.73962"
+             y="636.13861" />
+        </g>
+        <g
+           id="g1574"
+           clip-path="url(#clipPath1576-4)"
+           transform="matrix(0.70810752,0,0,0.70810752,-150.96538,48.416866)">
+          <image
+             sodipodi:absref="D:\Ichsan\temp Design\Zakat1442H\WhatsApp Image 2021-05-17 at 21.18.28.jpeg"
+             xlink:href="WhatsApp%20Image%202021-05-17%20at%2021.18.28.jpeg"
+             width="103.41429"
+             height="220.3911"
+             preserveAspectRatio="none"
+             id="image1464"
+             x="18.596447"
+             y="723.61987" />
+          <g
+             id="g1585"
+             clip-path="url(#clipPath1587-2)">
+            <image
+               sodipodi:absref="D:\Ichsan\temp Design\Zakat1442H\WhatsApp Image 2021-05-17 at 21.18.28.jpeg"
+               xlink:href="WhatsApp%20Image%202021-05-17%20at%2021.18.28.jpeg"
+               style="filter:url(#filter1671)"
+               width="103.41429"
+               height="220.3911"
+               preserveAspectRatio="none"
+               id="image1580"
+               x="18.596447"
+               y="723.61987" />
+          </g>
         </g>
       </g>
     </g>
     <g
        id="g3833-4-3-7-9"
        transform="matrix(1.8064188,0,0,1.8064188,1503.4927,-308.38718)"
-       style="fill:#4d4d4d;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        inkscape:export-xdpi="94"
        inkscape:export-ydpi="94">
       <g
          transform="matrix(0.96571292,0,0,0.96571292,-787.45048,125.07906)"
          id="g866-3-7-0-4-5"
-         style="fill:#4d4d4d;fill-opacity:1">
+         style="fill:#ffffff;fill-opacity:1">
         <g
-           style="fill:#4d4d4d;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            transform="matrix(1.6282481,0,0,1.6282481,-193.6836,-177.41362)"
            id="g864-1-8-3-1-3">
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:1.9633px;line-height:2.31961px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.0490825"
+             style="font-style:normal;font-weight:normal;font-size:1.9633px;line-height:2.31961px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0490825"
              x="103.15938"
              y="278.2251"
              id="text854-9-9-9-8-9"><tspan
@@ -2089,17 +2261,17 @@
                sodipodi:role="line"
                x="103.15938"
                y="278.2251"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.96331px;line-height:2.31961px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke-width:0.0490825">Masjid Al-Istiqlal Tambun</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.96331px;line-height:2.31961px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0490825">Masjid Al-Istiqlal Tambun</tspan></text>
           <g
-             style="fill:#4d4d4d;fill-opacity:1"
+             style="fill:#ffffff;fill-opacity:1"
              transform="matrix(1.0252475,0,0,1.0252475,167.60807,-3.4056884)"
              id="g856-7-9-4-9-2" />
           <g
-             style="fill:#4d4d4d;fill-opacity:1"
+             style="fill:#ffffff;fill-opacity:1"
              transform="matrix(0.78623741,0,0,0.78623741,138.90383,62.208929)"
              id="g860-8-8-1-7-5">
             <path
-               style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.00784441"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.00784441"
                d="m -50.307899,275.89832 c -0.186919,-0.008 -0.31922,-0.0239 -0.433591,-0.0541 -0.383496,-0.10105 -0.653142,-0.37375 -0.750221,-0.75859 -0.04761,-0.18875 -0.05944,-0.41775 -0.05937,-1.15154 3.9e-5,-0.75499 0.01168,-0.97494 0.06226,-1.16884 0.100182,-0.38445 0.373136,-0.65504 0.758906,-0.75236 0.188759,-0.0476 0.417751,-0.0594 1.151555,-0.0594 0.754968,3e-5 0.974934,0.0115 1.168819,0.0623 0.384451,0.10015 0.655059,0.37313 0.752374,0.7589 0.04753,0.18847 0.05937,0.41859 0.05937,1.15548 0,0.75066 -0.01181,0.97121 -0.06226,1.16488 -0.100183,0.38445 -0.373137,0.65507 -0.758907,0.75239 -0.115397,0.0291 -0.236196,0.0429 -0.453399,0.0515 -0.226062,0.009 -1.203287,0.009 -1.435537,-4.3e-4 z m 1.211963,-0.3521 c 0.383244,-0.008 0.487756,-0.0166 0.607315,-0.0511 0.131416,-0.0381 0.208109,-0.0813 0.297452,-0.16773 0.120467,-0.11644 0.184766,-0.25725 0.213181,-0.46658 0.03112,-0.22908 0.03112,-1.63212 0,-1.86121 -0.01946,-0.14356 -0.06355,-0.27407 -0.12206,-0.36127 -0.03601,-0.0537 -0.121186,-0.13961 -0.175069,-0.1766 -0.09324,-0.0642 -0.218867,-0.10772 -0.368725,-0.12801 -0.229076,-0.0312 -1.632124,-0.0312 -1.861199,0 -0.14985,0.0203 -0.275483,0.0639 -0.368734,0.12801 -0.05387,0.0371 -0.139046,0.12287 -0.175059,0.1766 -0.05852,0.0872 -0.10257,0.21771 -0.12206,0.36127 -0.03112,0.22909 -0.03112,1.63213 0,1.86121 0.0203,0.14986 0.06394,0.27548 0.127966,0.36874 0.03702,0.0539 0.12292,0.13904 0.17661,0.17505 0.08911,0.0598 0.218676,0.10296 0.369283,0.12299 0.16129,0.0214 0.823542,0.0303 1.401102,0.0188 z m -0.659546,-0.61631 c -0.416872,-0.0754 -0.746364,-0.40726 -0.819195,-0.82489 -0.01503,-0.0865 -0.01503,-0.26321 0,-0.3497 0.07332,-0.42062 0.404756,-0.75203 0.825382,-0.82538 0.0865,-0.0152 0.263207,-0.0152 0.349704,0 0.420626,0.0733 0.752033,0.40476 0.825381,0.82538 0.01503,0.0865 0.01503,0.26321 0,0.3497 -0.07332,0.42062 -0.404755,0.75202 -0.825381,0.82538 -0.08345,0.0146 -0.274309,0.0144 -0.355891,-4.4e-4 z m 0.334007,-0.36023 c 0.246359,-0.0646 0.421535,-0.23999 0.487133,-0.48782 0.01014,-0.0381 0.0142,-0.082 0.0142,-0.15168 0,-0.0696 -0.0045,-0.11362 -0.0142,-0.15169 -0.06576,-0.24849 -0.239942,-0.42266 -0.488423,-0.48842 -0.07394,-0.0196 -0.229419,-0.0196 -0.303356,0 -0.08276,0.022 -0.14454,0.0493 -0.213082,0.0949 -0.137011,0.0909 -0.230634,0.22467 -0.275332,0.39359 -0.01953,0.0739 -0.01953,0.22942 0,0.30337 0.06166,0.23315 0.223644,0.40573 0.447905,0.47732 0.09731,0.0311 0.249036,0.0357 0.345155,0.0103 z m 0.847196,-1.46221 c -0.06868,-0.0182 -0.124961,-0.0642 -0.158831,-0.1294 -0.01747,-0.0338 -0.02082,-0.0503 -0.02082,-0.10297 0,-0.0733 0.02023,-0.12145 0.07111,-0.16979 0.05006,-0.0475 0.09197,-0.0646 0.159534,-0.0648 0.09971,-4.5e-4 0.180052,0.0506 0.22111,0.14054 0.02618,0.0574 0.02479,0.14235 -0.003,0.1961 -0.02434,0.0469 -0.06806,0.0901 -0.114267,0.11324 -0.03677,0.0184 -0.116488,0.0272 -0.154598,0.0171 z"
                id="path858-4-7-5-5-5"
                inkscape:connector-curvature="0" />
@@ -2108,37 +2280,37 @@
              inkscape:connector-curvature="0"
              id="path862-5-5-8-3-7"
              d="m 94.944382,276.09554 c -0.07576,0 -0.151415,0.003 -0.202692,0.0105 -0.315462,0.0433 -0.593975,0.16827 -0.833917,0.374 -0.258164,0.22136 -0.445088,0.53585 -0.514798,0.86601 -0.04446,0.21065 -0.04561,0.45177 -0.003,0.6612 0.04797,0.2357 0.1625,0.47755 0.318593,0.67296 0.0529,0.0662 0.172608,0.18594 0.238637,0.23864 0.191332,0.15265 0.415775,0.26118 0.651739,0.31508 l -1.76e-4,-1.7e-4 c 0.0799,0.0187 0.109573,0.0204 0.114673,0.007 0.0067,-0.0175 0.0042,-1.08738 -0.0026,-1.10008 -0.0011,-0.002 -0.0034,-0.004 -0.0058,-0.005 l -3.51e-4,-10e-4 h -0.0014 c -0.01319,-0.005 -0.05198,-0.005 -0.195505,-0.005 h -0.196907 v -0.2183 -0.21812 h 0.196907 c 0.182459,0 0.197118,-8.7e-4 0.202518,-0.0109 0.0032,-0.006 0.0068,-0.11457 0.0082,-0.24706 0.0023,-0.2155 0.0038,-0.2404 0.01543,-0.2851 0.03926,-0.1508 0.104627,-0.25085 0.209532,-0.32035 0.05835,-0.0387 0.106211,-0.0596 0.178321,-0.078 0.04795,-0.0122 0.06692,-0.0133 0.204446,-0.013 0.106485,3e-4 0.174786,0.004 0.229695,0.0107 0.04298,0.006 0.08039,0.0117 0.08329,0.0137 0.0029,0.002 0.0053,0.0846 0.0053,0.1841 v 0.18078 l -0.128874,0.003 c -0.08693,0.002 -0.138585,0.006 -0.159034,0.0119 -0.08925,0.0261 -0.146924,0.0842 -0.169554,0.17113 -0.01212,0.0467 -0.01392,0.35992 -0.0021,0.37172 0.0054,0.005 0.06231,0.007 0.218298,0.007 h 0.210934 l -3.51e-4,0.0137 c -1.5e-4,0.008 -0.01439,0.10503 -0.03174,0.21672 l -0.03156,0.20305 -0.184809,0.003 -0.184983,0.003 -0.0014,0.55635 c -0.0014,0.51076 -8.59e-4,0.55621 0.0082,0.56021 0.02368,0.009 0.21106,-0.0373 0.324204,-0.0801 0.08823,-0.0334 0.21929,-0.10029 0.29948,-0.15289 0.102823,-0.0675 0.181699,-0.13312 0.272829,-0.22672 0.239116,-0.24549 0.386688,-0.54665 0.437298,-0.89318 0.01476,-0.10107 0.01476,-0.3233 0,-0.42432 -0.02739,-0.18744 -0.07458,-0.33926 -0.155,-0.49954 -0.238005,-0.47437 -0.686064,-0.79251 -1.218964,-0.86531 -0.05151,-0.007 -0.127284,-0.0105 -0.203044,-0.0105 z"
-             style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.00606182" />
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.00606182" />
         </g>
       </g>
     </g>
     <g
        id="g4380-5-0"
-       transform="matrix(1.1905922,0,0,1.1905922,1021.4294,386.56356)">
+       transform="matrix(1.1905922,0,0,1.1905922,877.10386,395.87213)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.89048px;line-height:1;font-family:Aganè;-inkscape-font-specification:'Aganè, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.136427px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.231241px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.89048px;line-height:1;font-family:Aganè;-inkscape-font-specification:'Aganè, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.136427px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.231241px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="-843.87878"
          y="260.92743"
          id="text2687-6-6"><tspan
            sodipodi:role="line"
            x="-843.87878"
            y="260.92743"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.231241px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.231241px;"
            id="tspan2685-2">Masjid Al-Istiqlal Tambun</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.18993px;line-height:1;font-family:Aganè;-inkscape-font-specification:'Aganè, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.0889877px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;inline-size:62.4972;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.150832px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.18993px;line-height:1;font-family:Aganè;-inkscape-font-specification:'Aganè, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.0889877px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;inline-size:62.4972;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.150832px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="652.58478"
          y="205.47769"
          id="text2697-29-2"
          transform="translate(-1495.7316,60.943791)"><tspan
            x="652.58478"
            y="205.47769"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Medium';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.150832px">Jl. Warung Asem, Kp Pulo,RT 04/036 </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Medium';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.150832px">Jl. Warung Asem, Kp Pulo,RT 04/036 </tspan></tspan><tspan
            x="652.58478"
            y="208.82928"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Medium';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.150832px">Desa Sumberjaya,Kec. Tambun Selatan</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Medium';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.150832px">Desa Sumberjaya,Kec. Tambun Selatan</tspan></tspan></text>
       <g
          style="display:inline"
          id="g2703-12-7"
@@ -2178,17 +2350,17 @@
            style="display:inline;fill:#ffffff">
           <image
              sodipodi:absref="D:\Ichsan\design\Istiqlal\WhatsApp Image 2018-07-19 at 19.57.40.jpeg"
-             xlink:href="../../../WhatsApp%20Image%202018-07-19%20at%2019.57.40.jpeg"
-             y="360.51761"
-             x="119.74146"
-             id="image796-3-7-6-6"
-             preserveAspectRatio="none"
+             xlink:href="../../design/Istiqlal/WhatsApp%20Image%202018-07-19%20at%2019.57.40.jpeg"
+             width="168.0304"
              height="168.0304"
-             width="168.0304" />
+             preserveAspectRatio="none"
+             id="image796-3-7-6-6"
+             x="119.74146"
+             y="360.51761" />
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:4.57759px;line-height:1.05;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.11444"
+           style="font-style:normal;font-weight:normal;font-size:4.57759px;line-height:1.05;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11444;"
            x="-29.873211"
            y="92.291946"
            id="text804-6-4-5-0"><tspan
@@ -2196,48 +2368,48 @@
              id="tspan800-1-1-3-0"
              x="-29.873211"
              y="92.291946"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.57759px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke-width:0.11444">DKM</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.57759px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.11444;">DKM</tspan><tspan
              id="tspan802-2-7-9-4"
              sodipodi:role="line"
              x="-29.873211"
              y="97.255554"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.57759px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke-width:0.11444">AL-ISTIQLAL</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.57759px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.11444;">AL-ISTIQLAL</tspan></text>
         <path
            id="path806-9-5-6-4"
            d="M -32.892079,87.050371 V 100.05184"
-           style="fill:none;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.368499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.368499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-size:26.3207px;line-height:1.05;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:281.063;fill:#333333;fill-opacity:1;stroke-width:0.658018"
+       style="font-size:26.3207px;line-height:1.05;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:281.063;fill:#ffffff;fill-opacity:1;stroke-width:0.658018"
        x="-163.78578"
        y="449.47229"
        id="text2204-7-0-9-4"
-       transform="matrix(0.52342084,0,0,0.52342084,-62.100616,203.57695)"><tspan
+       transform="matrix(0.57331099,0,0,0.57331099,30.310546,178.367)"><tspan
          x="-163.78578"
          y="449.47229"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.658018">Dokumentasi </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.658018">Dokumentasi </tspan></tspan><tspan
          x="-163.78578"
          y="477.28548"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.658018">Pembagian </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.658018">Zakat </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.658018">Pembagian </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.658018">Zakat </tspan></tspan><tspan
          x="-163.78578"
          y="505.09865"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.658018">Fithroh </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.658018">1442 H</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.658018">Fithroh </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.658018">1442 H</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12.3341px;line-height:1.05;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:202.83;fill:#333333;fill-opacity:1;stroke-width:0.658018"
+       style="font-size:12.3341px;line-height:1.05;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:202.83;fill:#d3e9e9;fill-opacity:1;stroke-width:0.658018"
        x="-163.78578"
        y="449.47229"
        id="text3402"
-       transform="matrix(0.5976717,0,0,0.5976717,-50.244853,215.25105)"><tspan
+       transform="matrix(0.5976717,0,0,0.5976717,35.177765,210.71534)"><tspan
          x="-163.78578"
          y="449.47229"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3341px;font-family:Muli;-inkscape-font-specification:Muli;text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.658018">Penerimaan &amp; Penyaluran Zakat, </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3341px;font-family:Muli;-inkscape-font-specification:Muli;text-align:start;text-anchor:start;fill:#d3e9e9;fill-opacity:1;stroke-width:0.658018">Penerimaan &amp; Penyaluran Zakat, </tspan></tspan><tspan
          x="-163.78578"
          y="462.50577"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold'">Total 1.818Kg (606 Jiwa)</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Muli;-inkscape-font-specification:'Muli Ultra-Bold';fill:#d3e9e9;fill-opacity:1">Total 1.818Kg (606 Jiwa)</tspan></tspan></text>
   </g>
 </svg>
