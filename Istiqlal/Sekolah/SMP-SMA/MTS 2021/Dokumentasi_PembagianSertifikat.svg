@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.084252897"
-     inkscape:cx="1904.979"
-     inkscape:cy="2949.4535"
+     inkscape:zoom="0.11915159"
+     inkscape:cx="-1405.7723"
+     inkscape:cy="2052.0079"
      inkscape:current-layer="layer1"
      showguides="false" />
   <defs
@@ -1537,6 +1537,17 @@
          stdDeviation="152.175"
          id="feGaussianBlur11497" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath624">
+      <rect
+         style="fill:#333333;stroke-width:0.4838;stroke-linecap:round;stroke-linejoin:round"
+         id="rect626"
+         width="188.80721"
+         height="94.403603"
+         x="1593.5277"
+         y="1440.9265" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -1664,14 +1675,14 @@
            transform="matrix(1.8106376,0,0,1.8106376,754.28003,-897.08924)"><tspan
              x="-788.52606"
              y="595.89258"
-             id="tspan6483"><tspan
+             id="tspan1652"><tspan
                style="font-weight:800;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold'"
-               id="tspan6481">Pembagian </tspan></tspan><tspan
+               id="tspan1650">Pembagian </tspan></tspan><tspan
              x="-788.52606"
              y="629.93521"
-             id="tspan6487"><tspan
+             id="tspan1656"><tspan
                style="font-weight:800;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold'"
-               id="tspan6485">Sertifikat</tspan></tspan></text>
+               id="tspan1654">Sertifikat</tspan></tspan></text>
         <g
            id="g1334"
            style="opacity:0.75;fill:#ffffff;fill-opacity:1"
@@ -1685,9 +1696,9 @@
              transform="matrix(0.56073806,0,0,0.56073806,-326.38939,233.53896)"><tspan
                x="-788.52606"
                y="251.70564"
-               id="tspan6491"><tspan
+               id="tspan1660"><tspan
                  style="font-family:'El Messiri';-inkscape-font-specification:'El Messiri'"
-                 id="tspan6489">TP. 2021/2022</tspan></tspan></text>
+                 id="tspan1658">TP. 2021/2022</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;font-size:38.456px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:469.174;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.961399"
@@ -1697,9 +1708,9 @@
              transform="matrix(0.7252028,0,0,0.7252028,-196.96408,166.31634)"><tspan
                x="-788.52606"
                y="251.70564"
-               id="tspan6495"><tspan
+               id="tspan1664"><tspan
                  style="font-weight:bold;font-family:'El Messiri';-inkscape-font-specification:'El Messiri Bold'"
-                 id="tspan6493">Masa Ta'aruf Siswa</tspan></tspan></text>
+                 id="tspan1662">Masa Ta'aruf Siswa</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -2073,26 +2084,48 @@
            clip-path="url(#clipPath38899-0)"
            transform="matrix(0.54669023,0,0,0.54669023,-1317.2848,225.11544)">
           <image
-             width="1456.2667"
-             height="819.15002"
+             width="1387.6014"
+             height="780.52582"
              preserveAspectRatio="none"
-             xlink:href="Pembagian%20Sertifikat/20210803_133255.jpg"
+             xlink:href="Pembagian%20Sertifikat/20210803_133309.jpg"
              id="image38164"
-             x="724.37939"
-             y="435.26614" />
+             x="783.65485"
+             y="360.63083"
+             transform="rotate(2.7515505)" />
         </g>
         <g
            id="g38564"
            clip-path="url(#clipPath38566-3)"
            transform="matrix(0.60966192,0,0,0.60966192,-1674.1426,-464.72937)">
           <image
-             width="1456.2667"
-             height="819.15002"
+             width="674.64545"
+             height="379.48807"
              preserveAspectRatio="none"
              xlink:href="Pembagian%20Sertifikat/20210803_134508.jpg"
              id="image38188"
-             x="1559.0983"
-             y="1099.7413" />
+             x="1565.1888"
+             y="1227.6429" />
+          <g
+             id="g622"
+             clip-path="url(#clipPath624)"
+             transform="matrix(1.2795699,0,0,1.2795699,-476.97024,-387.61329)">
+            <image
+               width="297.21603"
+               height="167.18401"
+               preserveAspectRatio="none"
+               xlink:href="Pembagian%20Sertifikat/20210803_133553.jpg"
+               id="image513"
+               x="1548.2335"
+               y="1422.9983" />
+          </g>
+          <image
+             width="851.90771"
+             height="479.19809"
+             preserveAspectRatio="none"
+             xlink:href="Pembagian%20Sertifikat/20210803_134943.jpg"
+             id="image501"
+             x="2163.9917"
+             y="1199.2974" />
         </g>
       </g>
       <g
@@ -3129,20 +3162,20 @@
        transform="matrix(1.5202397,0,0,1.5202397,1657.0675,214.24731)"><tspan
          x="-788.52606"
          y="251.70564"
-         id="tspan6499"><tspan
+         id="tspan1668"><tspan
            style="font-weight:800;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold'"
-           id="tspan6497">Dokumentasi </tspan></tspan><tspan
+           id="tspan1666">Dokumentasi </tspan></tspan><tspan
          x="-788.52606"
          y="301.13062"
-         id="tspan6505"><tspan
+         id="tspan1674"><tspan
            style="font-weight:800;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold'"
-           id="tspan6501">Masa </tspan><tspan
+           id="tspan1670">Masa </tspan><tspan
            style="font-weight:800;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold'"
-           id="tspan6503">Ta'aruf Siswa </tspan></tspan><tspan
+           id="tspan1672">Ta'aruf Siswa </tspan></tspan><tspan
          x="-788.52606"
          y="350.55561"
-         id="tspan6509"><tspan
+         id="tspan1678"><tspan
            style="font-weight:800;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold'"
-           id="tspan6507">(MTS)</tspan></tspan></text>
+           id="tspan1676">(MTS)</tspan></tspan></text>
   </g>
 </svg>

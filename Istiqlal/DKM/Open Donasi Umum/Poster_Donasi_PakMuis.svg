@@ -19,6 +19,18 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient29380">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop29376" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop29378" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient197474">
       <stop
          style="stop-color:#e6e6e6;stop-opacity:1;"
@@ -1803,6 +1815,52 @@
        y2="-177.51701"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1440706,0,0,1.1440706,626.80857,37.632492)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath29198">
+      <rect
+         style="fill:url(#linearGradient29202);fill-opacity:1;stroke:none;stroke-width:25.5423;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:11.5654;stroke-opacity:1"
+         id="rect29200"
+         width="303.34799"
+         height="303.34802"
+         x="-1242.1171"
+         y="-240.6825"
+         inkscape:export-xdpi="90.347054"
+         inkscape:export-ydpi="90.347054"
+         inkscape:export-filename="/run/media/ichsan/Share/Document/Design/Istiqlal/DKM/Donasi Covid/Poster_Donasi_Covid.png" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient197474"
+       id="linearGradient29202"
+       gradientUnits="userSpaceOnUse"
+       x1="-1099.7063"
+       y1="-223.31288"
+       x2="-916.08459"
+       y2="-39.691158"
+       gradientTransform="translate(-4.5833335e-6)" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter29272"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="0.21 0.72 0.072 -0.02 0 0.21 0.72 0.072 -0.02 0 0.21 0.72 0.072 -0.02 0 0 0 0 1 0 "
+         id="feColorMatrix29270" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient29380"
+       id="linearGradient29382"
+       x1="-1172.2865"
+       y1="-74.430405"
+       x2="-955.1662"
+       y2="-273.5607"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.97368421,0,0,1,-33.020848,0)" />
   </defs>
   <sodipodi:namedview
      inkscape:guide-bbox="true"
@@ -1818,9 +1876,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="817.0951"
-     inkscape:cx="-345.82935"
-     inkscape:zoom="0.42651094"
+     inkscape:cy="368.1031"
+     inkscape:cx="611.9421"
+     inkscape:zoom="0.21325547"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -2156,15 +2214,15 @@
              transform="matrix(0.8335228,0,0,0.8335228,-7.7765087,12.46957)"><tspan
                x="-54.142475"
                y="125.41069"
-               id="tspan225993"><tspan
+               id="tspan34256"><tspan
                  style="font-weight:800;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-                 id="tspan225991">Investasi
+                 id="tspan34254">Investasi
 </tspan></tspan><tspan
                x="-54.142475"
                y="133.19543"
-               id="tspan225997"><tspan
+               id="tspan34260"><tspan
                  style="font-weight:800;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-                 id="tspan225995">Akhirat</tspan></tspan></text>
+                 id="tspan34258">Akhirat</tspan></tspan></text>
         </g>
         <g
            id="g998"
@@ -4099,15 +4157,15 @@
              id="text7050"><tspan
                x="-54.142475"
                y="125.41069"
-               id="tspan226001"><tspan
+               id="tspan34264"><tspan
                  style="font-weight:800;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-                 id="tspan225999">Investasi
+                 id="tspan34262">Investasi
 </tspan></tspan><tspan
                x="-54.142475"
                y="133.19543"
-               id="tspan226005"><tspan
+               id="tspan34268"><tspan
                  style="font-weight:800;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-                 id="tspan226003">Akhirat</tspan></tspan></text>
+                 id="tspan34266">Akhirat</tspan></tspan></text>
         </g>
         <g
            transform="matrix(0.75441017,0,0,0.75441017,-29.52607,35.797583)"
@@ -4121,19 +4179,19 @@
              id="text7056"><tspan
                x="-29.959242"
                y="119.09438"
-               id="tspan226009"><tspan
+               id="tspan34272"><tspan
                  style="font-weight:bold;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
-                 id="tspan226007">Infaq Renovasi </tspan></tspan><tspan
+                 id="tspan34270">Infaq Renovasi </tspan></tspan><tspan
                x="-29.959242"
                y="139.72922"
-               id="tspan226013"><tspan
+               id="tspan34276"><tspan
                  style="font-weight:bold;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
-                 id="tspan226011">Toilet &amp; Tempat </tspan></tspan><tspan
+                 id="tspan34274">Toilet &amp; Tempat </tspan></tspan><tspan
                x="-29.959242"
                y="160.36406"
-               id="tspan226017"><tspan
+               id="tspan34280"><tspan
                  style="font-weight:bold;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
-                 id="tspan226015">Wudhu</tspan></tspan></text>
+                 id="tspan34278">Wudhu</tspan></tspan></text>
           <text
              id="text7062"
              y="172.6577"
@@ -5929,15 +5987,15 @@
              id="text826"><tspan
                x="-54.142475"
                y="125.41069"
-               id="tspan226021"><tspan
+               id="tspan34284"><tspan
                  style="font-weight:800;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-                 id="tspan226019">Investasi
+                 id="tspan34282">Investasi
 </tspan></tspan><tspan
                x="-54.142475"
                y="133.19543"
-               id="tspan226025"><tspan
+               id="tspan34288"><tspan
                  style="font-weight:800;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-                 id="tspan226023">Akhirat</tspan></tspan></text>
+                 id="tspan34286">Akhirat</tspan></tspan></text>
         </g>
         <g
            transform="matrix(0.75441017,0,0,0.75441017,46.65456,34.698495)"
@@ -5952,23 +6010,23 @@
              transform="matrix(0.75694543,0,0,0.75694543,-10.713714,25.9128)"><tspan
                x="-29.959242"
                y="119.09438"
-               id="tspan226031"><tspan
+               id="tspan34294"><tspan
                  style="font-weight:bold;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
-                 id="tspan226027">Infaq </tspan><tspan
+                 id="tspan34290">Infaq </tspan><tspan
                  style="font-weight:bold;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
-                 id="tspan226029">Renovasi </tspan></tspan><tspan
+                 id="tspan34292">Renovasi </tspan></tspan><tspan
                x="-29.959242"
                y="143.95771"
-               id="tspan226035"><tspan
+               id="tspan34298"><tspan
                  style="font-weight:bold;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
-                 id="tspan226033">Toilet &amp; </tspan></tspan><tspan
+                 id="tspan34296">Toilet &amp; </tspan></tspan><tspan
                x="-29.959242"
                y="168.82104"
-               id="tspan226041"><tspan
+               id="tspan34304"><tspan
                  style="font-weight:bold;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
-                 id="tspan226037">Tempat </tspan><tspan
+                 id="tspan34300">Tempat </tspan><tspan
                  style="font-weight:bold;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
-                 id="tspan226039">Wudhu</tspan></tspan></text>
+                 id="tspan34302">Wudhu</tspan></tspan></text>
           <text
              id="text846"
              y="168.95627"
@@ -9064,29 +9122,29 @@
          transform="translate(0,-1.6246646)"><tspan
            x="-727.09705"
            y="289.51178"
-           id="tspan226045"><tspan
+           id="tspan34308"><tspan
              style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-             id="tspan226043">Bank BNI Syari'ah (427) Cabang Tambun
+             id="tspan34306">Bank BNI Syari'ah (427) Cabang Tambun
 </tspan></tspan><tspan
            x="-727.09705"
            y="295.38782"
-           id="tspan226057"><tspan
+           id="tspan34320"><tspan
              style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-             id="tspan226047">No. </tspan><tspan
+             id="tspan34310">No. </tspan><tspan
              style="font-weight:bold;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold'"
-             id="tspan226049">852570628</tspan><tspan
+             id="tspan34312">852570628</tspan><tspan
              style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-             id="tspan226051"> an. </tspan><tspan
+             id="tspan34314"> an. </tspan><tspan
              style="font-weight:bold;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold'"
-             id="tspan226053">Al-Istiqlal (Masjid)</tspan><tspan
+             id="tspan34316">Al-Istiqlal (Masjid)</tspan><tspan
              style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-             id="tspan226055">
+             id="tspan34318">
 </tspan></tspan><tspan
            x="-727.09705"
            y="301.26386"
-           id="tspan226061"><tspan
+           id="tspan34324"><tspan
              style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-             id="tspan226059">(Tambahkan Angka 42)</tspan></tspan></text>
+             id="tspan34322">(Tambahkan Angka 42)</tspan></tspan></text>
     </g>
     <g
        id="g2705"
@@ -9111,9 +9169,9 @@
          transform="translate(0,-1.6246646)"><tspan
            x="-727.09705"
            y="289.51178"
-           id="tspan226065"><tspan
+           id="tspan34328"><tspan
              style="font-weight:bold;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold'"
-             id="tspan226063">0812-9895-1014</tspan></tspan></text>
+             id="tspan34326">0812-9895-1014</tspan></tspan></text>
     </g>
     <g
        id="g2715"
@@ -10975,36 +11033,36 @@
          transform="matrix(0.73508139,0,0,0.73508139,-317.11558,6.8709839)"><tspan
            x="-1211.2545"
            y="-146.33141"
-           id="tspan226069"><tspan
+           id="tspan34332"><tspan
              style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-             id="tspan226067">    Qadarullah pada hari ini sedang Allah uji dengan sakit salah satu dari jama'ah </tspan></tspan><tspan
+             id="tspan34330">    Qadarullah pada hari ini sedang Allah uji dengan sakit salah satu dari jama'ah </tspan></tspan><tspan
            x="-1211.2545"
            y="-135.49903"
-           id="tspan226073"><tspan
+           id="tspan34336"><tspan
              style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-             id="tspan226071">Masjid Al-Istiqlal Tambun yang sekaligus juga merupakan wali murid dari siswa </tspan></tspan><tspan
+             id="tspan34334">Masjid Al-Istiqlal Tambun yang sekaligus juga merupakan wali murid dari siswa </tspan></tspan><tspan
            x="-1211.2545"
            y="-124.66667"
-           id="tspan226077"><tspan
+           id="tspan34340"><tspan
              style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-             id="tspan226075">Sekolah Islam Istiqlal.
+             id="tspan34338">Sekolah Islam Istiqlal.
 </tspan></tspan><tspan
            x="-1211.2545"
            y="-113.8343"
-           id="tspan226081"><tspan
+           id="tspan34344"><tspan
              style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-             id="tspan226079">    Beliau Allah uji dengan infeksi gigi dan saluran pernapasan dan memerlukan </tspan></tspan><tspan
+             id="tspan34342">    Beliau Allah uji dengan infeksi gigi dan saluran pernapasan dan memerlukan </tspan></tspan><tspan
            x="-1211.2545"
            y="-103.00193"
-           id="tspan226085"><tspan
+           id="tspan34348"><tspan
              style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-             id="tspan226083">operasi secepatnya.
+             id="tspan34346">operasi secepatnya.
 </tspan></tspan><tspan
            x="-1211.2545"
            y="-92.169566"
-           id="tspan226089"><tspan
+           id="tspan34352"><tspan
              style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-             id="tspan226087">    Mari bantu saudara kita dengan berdonasi melalui :</tspan></tspan></text>
+             id="tspan34350">    Mari bantu saudara kita dengan berdonasi melalui :</tspan></tspan></text>
       <g
          id="g245073"
          transform="matrix(1.0033445,0,0,1.0033444,-13.390538,-1.5219767)"
@@ -11024,17 +11082,17 @@
              transform="matrix(0.91357332,0,0,0.91357332,-58.350671,16.292132)"><tspan
                x="-727.09705"
                y="289.51178"
-               id="tspan226101"><tspan
+               id="tspan34364"><tspan
    style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-   id="tspan226091">Bank BNI Syari'ah (427) Cabang Tambun No. </tspan><tspan
+   id="tspan34354">Bank BNI Syari'ah (427) Cabang Tambun No. </tspan><tspan
    style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
-   id="tspan226093">852570628 </tspan><tspan
+   id="tspan34356">852570628 </tspan><tspan
    style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-   id="tspan226095">an. </tspan>Al-Istiqlal (Masjid) <tspan
+   id="tspan34358">an. </tspan>Al-Istiqlal (Masjid) <tspan
    style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-   id="tspan226097">tambahkan nominal </tspan><tspan
+   id="tspan34360">tambahkan nominal </tspan><tspan
    style="font-weight:bold;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold'"
-   id="tspan226099">12</tspan></tspan></text>
+   id="tspan34362">12</tspan></tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -11047,9 +11105,9 @@
            inkscape:export-ydpi="94"><tspan
              x="-770.47321"
              y="260.21097"
-             id="tspan226105"><tspan
+             id="tspan34368"><tspan
                style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-               id="tspan226103">Via Transfer Bank</tspan></tspan></text>
+               id="tspan34366">Via Transfer Bank</tspan></tspan></text>
       </g>
       <g
          id="g4380"
@@ -11076,14 +11134,14 @@
            transform="translate(-1490.0091,67.141923)"><tspan
              x="652.58478"
              y="205.47769"
-             id="tspan226109"><tspan
+             id="tspan34372"><tspan
                style="font-weight:500;font-family:Raleway;-inkscape-font-specification:'Raleway Medium'"
-               id="tspan226107">Jl. Warung Asem, Kp Pulo,RT 04/036 </tspan></tspan><tspan
+               id="tspan34370">Jl. Warung Asem, Kp Pulo,RT 04/036 </tspan></tspan><tspan
              x="652.58478"
              y="208.82928"
-             id="tspan226113"><tspan
+             id="tspan34376"><tspan
                style="font-weight:500;font-family:Raleway;-inkscape-font-specification:'Raleway Medium'"
-               id="tspan226111">Desa Sumberjaya,Kec. Tambun Selatan</tspan></tspan></text>
+               id="tspan34374">Desa Sumberjaya,Kec. Tambun Selatan</tspan></tspan></text>
         <g
            style="display:inline"
            id="g2703"
@@ -11112,9 +11170,9 @@
            transform="matrix(1.2660973,0,0,1.2660973,317.20947,-34.986827)"><tspan
              x="-1154.303"
              y="46.321606"
-             id="tspan226117"><tspan
+             id="tspan34380"><tspan
                style="font-style:italic;font-weight:500;font-size:4.92186px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
-               id="tspan226115">Jazaakumullahu Khairan sudah dishare</tspan></tspan></text>
+               id="tspan34378">Jazaakumullahu Khairan sudah dishare</tspan></tspan></text>
         <g
            id="g221671"
            transform="translate(-2.7304745)">
@@ -11152,9 +11210,9 @@
              transform="matrix(1.122756,0,0,1.122756,147.85218,-21.045288)"><tspan
                x="-1204.2874"
                y="-184.8828"
-               id="tspan226121"><tspan
+               id="tspan34384"><tspan
                  style="font-weight:900;-inkscape-font-specification:'Montserrat Heavy'"
-                 id="tspan226119">Al-Istiqlal Peduli</tspan></tspan></text>
+                 id="tspan34382">Al-Istiqlal Peduli</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -11172,9 +11230,9 @@
            inkscape:export-ydpi="94"><tspan
              x="-770.47321"
              y="260.21097"
-             id="tspan226125"><tspan
+             id="tspan34388"><tspan
                style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
-               id="tspan226123">Open Donasi</tspan></tspan></text>
+               id="tspan34386">Open Donasi</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-size:6.25831px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:273.466;fill:#753422;fill-opacity:1;stroke-width:0.322825"
@@ -11186,11 +11244,11 @@
            inkscape:export-ydpi="94"><tspan
              x="-770.47321"
              y="260.21097"
-             id="tspan226129"><tspan
+             id="tspan34392"><tspan
    style="font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display'"
-   id="tspan226127">Operasi Infeksi</tspan><tspan
+   id="tspan34390">Operasi Infeksi</tspan><tspan
    y="260.21097"
-   id="tspan226131"> </tspan></tspan></text>
+   id="tspan34394"> </tspan></tspan></text>
       </g>
       <g
          id="g253552"
@@ -11211,14 +11269,14 @@
              transform="matrix(0.91357332,0,0,0.91357332,-58.350671,16.292132)"><tspan
                x="-727.09705"
                y="289.51178"
-               id="tspan226135"><tspan
+               id="tspan34398"><tspan
                  style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-                 id="tspan226133">0857-1845-6740 (Ustadz Ahmad Fathurrahman, Lc) </tspan></tspan><tspan
+                 id="tspan34396">0857-1845-6740 (Ustadz Ahmad Fathurrahman, Lc) </tspan></tspan><tspan
                x="-727.09705"
                y="294.94387"
-               id="tspan226139"><tspan
+               id="tspan34402"><tspan
                  style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-                 id="tspan226137">0852-7364-4007  (Pak Rahmat Sagita)</tspan></tspan></text>
+                 id="tspan34400">0852-7364-4007  (Pak Rahmat Sagita)</tspan></tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -11231,9 +11289,9 @@
            inkscape:export-ydpi="94"><tspan
              x="-770.47321"
              y="260.21097"
-             id="tspan226143"><tspan
+             id="tspan34406"><tspan
                style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-               id="tspan226141">Konfirmasi</tspan></tspan></text>
+               id="tspan34404">Konfirmasi</tspan></tspan></text>
       </g>
       <g
          id="g290828"
@@ -11254,21 +11312,21 @@
              transform="matrix(0.91357332,0,0,0.91357332,-58.412355,16.292132)"><tspan
                x="-727.09705"
                y="289.51178"
-               id="tspan226147"><tspan
+               id="tspan34410"><tspan
                  style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-                 id="tspan226145">- Aryo Priambodho (0856-1100-956)
+                 id="tspan34408">- Aryo Priambodho (0856-1100-956)
 </tspan></tspan><tspan
                x="-727.09705"
                y="294.94387"
-               id="tspan226151"><tspan
+               id="tspan34414"><tspan
                  style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-                 id="tspan226149">- Sukandar (0857-4193-0008)
+                 id="tspan34412">- Sukandar (0857-4193-0008)
 </tspan></tspan><tspan
                x="-727.09705"
                y="300.37597"
-               id="tspan226155"><tspan
+               id="tspan34418"><tspan
                  style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-                 id="tspan226153">- Muhamad Fajri (0878-8827-5800)</tspan></tspan></text>
+                 id="tspan34416">- Muhamad Fajri (0878-8827-5800)</tspan></tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -11281,9 +11339,9 @@
            inkscape:export-ydpi="94"><tspan
              x="-770.47321"
              y="260.21097"
-             id="tspan226159"><tspan
+             id="tspan34422"><tspan
                style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-               id="tspan226157">Via Kepala Sekolah</tspan></tspan></text>
+               id="tspan34420">Via Kepala Sekolah</tspan></tspan></text>
       </g>
       <g
          id="g89476"
@@ -11359,9 +11417,9 @@
            transform="matrix(0.82044433,0,0,0.82044433,-162.42419,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226163"><tspan
+             id="tspan34426"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
-               id="tspan226161">Rp. 1.300.000,-</tspan></tspan></text>
+               id="tspan34424">Rp. 1.300.000,-</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-size:7.4706px;line-height:1.45;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:323.754;fill:#753422;fill-opacity:1;stroke-width:0.186765"
@@ -11371,7 +11429,7 @@
            transform="matrix(0.82044433,0,0,0.82044433,-219.10075,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226165">Dana Terkumpul :</tspan></text>
+             id="tspan34428">Dana Terkumpul :</tspan></text>
         <circle
            style="opacity:1;fill:#753422;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
            id="path116613"
@@ -11391,9 +11449,9 @@
            transform="matrix(0.82044433,0,0,0.82044433,-190.33965,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226169"><tspan
+             id="tspan34432"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
-               id="tspan226167">3 Agustus 2021</tspan></tspan></text>
+               id="tspan34430">3 Agustus 2021</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-size:7.4706px;line-height:1.45;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:323.754;fill:#753422;fill-opacity:1;stroke-width:0.186765"
@@ -11403,7 +11461,7 @@
            transform="matrix(0.82044433,0,0,0.82044433,-219.10075,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226171">Update : </tspan></text>
+             id="tspan34434">Update : </tspan></text>
       </g>
       <g
          id="g117936">
@@ -11416,9 +11474,9 @@
            transform="matrix(0.82044433,0,0,0.82044433,-28.270818,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226175"><tspan
+             id="tspan34438"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
-               id="tspan226173">Rp. 200.000.000,-</tspan></tspan></text>
+               id="tspan34436">Rp. 200.000.000,-</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-size:7.4706px;line-height:1.45;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:323.754;fill:#753422;fill-opacity:1;stroke-width:0.186765"
@@ -11428,7 +11486,7 @@
            transform="matrix(0.82044433,0,0,0.82044433,-88.26449,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226177">Dana Dibutuhkan :</tspan></text>
+             id="tspan34440">Dana Dibutuhkan :</tspan></text>
         <circle
            style="opacity:1;fill:#ffe6d5;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
            id="circle116695"
@@ -11446,20 +11504,41 @@
       <rect
          style="fill:url(#linearGradient197476);fill-opacity:1;stroke:none;stroke-width:25.5423;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:11.5654;stroke-opacity:1"
          id="rect120926"
-         width="303.34802"
+         width="303.34799"
          height="303.34802"
          x="-1242.1171"
          y="-240.6825"
          inkscape:export-xdpi="90.347054"
          inkscape:export-ydpi="90.347054"
          inkscape:export-filename="/run/media/ichsan/Share/Document/Design/Istiqlal/DKM/Donasi Covid/Poster_Donasi_Covid.png" />
+      <g
+         id="g29194"
+         clip-path="url(#clipPath29198)">
+        <image
+           width="360.92432"
+           height="240.6162"
+           preserveAspectRatio="none"
+           xlink:href="file:///C:/Users/SERVER%20ISTIQLAL/Downloads/medical-563427_1920.jpg"
+           id="image24247"
+           x="-1293.8284"
+           y="-129.4865"
+           transform="rotate(9.7888612,3.2349021,310.69775)"
+           style="filter:url(#filter29272);opacity:0.5" />
+        <rect
+           style="fill:url(#linearGradient29382);fill-opacity:1;stroke-width:0.261078;stroke-linecap:round;stroke-linejoin:round"
+           id="rect29314"
+           width="321.33795"
+           height="204.71339"
+           x="-1254.7921"
+           y="-254.33006" />
+      </g>
       <rect
-         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:16.2198;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:11.5654;stroke-opacity:1"
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:16.626;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:11.5654;stroke-opacity:1"
          id="rect120928"
          width="303.34802"
-         height="122.32575"
+         height="128.52919"
          x="-1242.1171"
-         y="-59.660213"
+         y="-65.863647"
          inkscape:export-xdpi="90.347054"
          inkscape:export-ydpi="90.347054"
          inkscape:export-filename="/run/media/ichsan/Share/Document/Design/Istiqlal/DKM/Donasi Covid/Poster_Donasi_Covid.png" />
@@ -11540,12 +11619,12 @@
         </g>
       </g>
       <rect
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:4.04952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:11.5654;stroke-opacity:1;opacity:0.5"
+         style="opacity:0.5;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:4.15093;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:11.5654;stroke-opacity:1"
          id="rect120960"
          width="303.34802"
-         height="7.6248913"
+         height="8.0115681"
          x="-1242.1171"
-         y="-59.660213"
+         y="-65.863647"
          inkscape:export-xdpi="90.347054"
          inkscape:export-ydpi="90.347054"
          inkscape:export-filename="/run/media/ichsan/Share/Document/Design/Istiqlal/DKM/Donasi Covid/Poster_Donasi_Covid.png" />
@@ -12754,34 +12833,49 @@
       </g>
       <g
          id="g121336"
-         transform="matrix(1.0033445,0,0,1.0033444,-13.390538,-1.5219767)"
+         transform="matrix(1.0033445,0,0,1.0033444,-13.390538,-14.799849)"
          style="fill:#ffffff">
         <g
            id="g121328"
-           transform="matrix(1.1521443,0,0,1.1521443,-357.32419,-345.45555)"
+           transform="matrix(1.5833414,0,0,1.5833414,-45.798633,-465.21642)"
            style="fill:#ffffff;fill-opacity:1"
            inkscape:export-xdpi="94"
            inkscape:export-ydpi="94">
           <text
              xml:space="preserve"
-             style="font-size:4.67659px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:244.245;opacity:0.85;fill:#ffffff;fill-opacity:1;stroke-width:0.142987"
+             style="font-size:4.67659px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:125.869;opacity:0.85;fill:#ffffff;fill-opacity:1;stroke-width:0.142987"
              x="-727.09705"
              y="289.51178"
              id="text121326"
-             transform="matrix(0.91357332,0,0,0.91357332,-58.350671,16.292132)"><tspan
+             transform="matrix(0.91357332,0,0,0.91357332,-58.350671,16.958322)"><tspan
                x="-727.09705"
                y="289.51178"
-               id="tspan226189"><tspan
+               id="tspan34450"><tspan
+                 style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+                 id="tspan34442">Bank BNI Syari'ah (427) Cabang Tambun No.</tspan><tspan
+                 style="font-size:5.10449px"
+                 id="tspan34444"> </tspan><tspan
+                 style="font-size:5.10449px"
+                 id="tspan34446">852570628</tspan><tspan
+                 style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
+                 id="tspan34448"> </tspan></tspan><tspan
+               x="-727.09705"
+               y="295.50336"
+               id="tspan34458"><tspan
    style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-   id="tspan226179">Bank BNI Syari'ah (427) Cabang Tambun No. </tspan><tspan
-   style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
-   id="tspan226181">852570628 </tspan><tspan
+   id="tspan34452">an. </tspan>Al-Istiqlal (Masjid) <tspan
    style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-   id="tspan226183">an. </tspan>Al-Istiqlal (Masjid) <tspan
-   style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-   id="tspan226185">tambahkan nominal </tspan><tspan
+   id="tspan34454">tambahkan nominal </tspan><tspan
    style="font-weight:bold;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold'"
-   id="tspan226187">12</tspan></tspan></text>
+   id="tspan34456">12
+</tspan></tspan><tspan
+               x="-727.09705"
+               y="301.35334"
+               id="tspan34464"><tspan
+                 style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+                 id="tspan34460">atau tunai melalui </tspan><tspan
+                 style="font-weight:bold;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold'"
+                 id="tspan34462">Kepala SDI, SMPI &amp; SMAM Istiqlal</tspan></tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -12789,14 +12883,16 @@
            x="-770.47321"
            y="260.21097"
            id="text121334"
-           transform="matrix(1.0192269,0,0,1.0192269,-374.09683,-293.95504)"
+           transform="matrix(1.0192269,0,0,1.0192269,-347.62098,-293.95504)"
            inkscape:export-xdpi="94"
            inkscape:export-ydpi="94"><tspan
              x="-770.47321"
              y="260.21097"
-             id="tspan226193"><tspan
+             id="tspan34468"><tspan
                style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-               id="tspan226191">Via Transfer Bank</tspan></tspan></text>
+               id="tspan34466">Donasi Dapat Disalurkan Melalui :</tspan><tspan
+               y="260.21097"
+               id="tspan34470"> </tspan></tspan></text>
       </g>
       <g
          id="g121356"
@@ -12823,14 +12919,14 @@
            transform="translate(-1490.0091,67.141923)"><tspan
              x="652.58478"
              y="205.47769"
-             id="tspan226197"><tspan
+             id="tspan34474"><tspan
                style="font-weight:500;font-family:Raleway;-inkscape-font-specification:'Raleway Medium'"
-               id="tspan226195">Jl. Warung Asem, Kp Pulo,RT 04/036 </tspan></tspan><tspan
+               id="tspan34472">Jl. Warung Asem, Kp Pulo,RT 04/036 </tspan></tspan><tspan
              x="652.58478"
              y="208.82928"
-             id="tspan226201"><tspan
+             id="tspan34478"><tspan
                style="font-weight:500;font-family:Raleway;-inkscape-font-specification:'Raleway Medium'"
-               id="tspan226199">Desa Sumberjaya,Kec. Tambun Selatan</tspan></tspan></text>
+               id="tspan34476">Desa Sumberjaya,Kec. Tambun Selatan</tspan></tspan></text>
         <g
            style="display:inline"
            id="g121354"
@@ -12859,9 +12955,9 @@
            transform="matrix(1.2660973,0,0,1.2660973,317.20947,-34.986827)"><tspan
              x="-1154.303"
              y="46.321606"
-             id="tspan226205"><tspan
+             id="tspan34482"><tspan
                style="font-style:italic;font-weight:500;font-size:4.92186px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
-               id="tspan226203">Jazaakumullahu Khairan sudah dishare</tspan></tspan></text>
+               id="tspan34480">Jazaakumullahu Khairan sudah dishare</tspan></tspan></text>
         <g
            id="g121368"
            transform="translate(-2.7304745)">
@@ -12899,7 +12995,7 @@
              transform="matrix(0.95493638,0,0,0.95493638,-30.860997,-56.812539)"><tspan
                x="-1204.2874"
                y="-184.8828"
-               id="tspan226207">Al-Istiqlal Peduli</tspan></text>
+               id="tspan34484">Al-Istiqlal Peduli</tspan></text>
         </g>
       </g>
       <g
@@ -12917,16 +13013,16 @@
            inkscape:export-ydpi="94"><tspan
              x="-743.10254"
              y="260.21097"
-             id="tspan226211"><tspan
-               style="font-weight:800;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Ultra-Bold'"
-               id="tspan226209">Donasi Pelunasan</tspan><tspan
-               y="260.21097"
-               id="tspan226213"> </tspan></tspan><tspan
+             id="tspan34488"><tspan
+   style="font-weight:800;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Ultra-Bold'"
+   id="tspan34486">Donasi Pelunasan</tspan><tspan
+   y="260.21097"
+   id="tspan34490"> </tspan></tspan><tspan
              x="-743.10254"
              y="266.89241"
-             id="tspan226217"><tspan
+             id="tspan34494"><tspan
                style="font-weight:800;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Ultra-Bold'"
-               id="tspan226215">Biaya Rumah Sakit</tspan></tspan></text>
+               id="tspan34492">Biaya Rumah Sakit</tspan></tspan></text>
       </g>
       <g
          id="g214227"
@@ -12940,9 +13036,9 @@
            transform="matrix(2.4918756,0,0,2.4918756,-816.67959,-414.46043)"><tspan
              x="-77.930717"
              y="106.37408"
-             id="tspan226221"><tspan
+             id="tspan34498"><tspan
                style="font-style:italic;font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold Italic'"
-               id="tspan226219">Bpk. Sahabuddin Muis Abu Al-Fatih</tspan></tspan></text>
+               id="tspan34496">Bpk. Sahabuddin Muis Abu Al-Fatih</tspan></tspan></text>
         <g
            id="g68194"
            transform="matrix(1.5521314,0,0,1.5521314,-934.18135,-324.42301)"
@@ -12956,9 +13052,9 @@
              transform="matrix(1.8730022,0,0,1.8730022,115.69642,-83.019668)"><tspan
                x="-77.930717"
                y="106.37408"
-               id="tspan226225"><tspan
+               id="tspan34502"><tspan
                  style="font-family:Lateef;-inkscape-font-specification:Lateef"
-                 id="tspan226223">رحمه الله</tspan></tspan></text>
+                 id="tspan34500">رحمه الله</tspan></tspan></text>
           <rect
              style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1.65308;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
              id="rect68024"
@@ -12979,7 +13075,7 @@
       </g>
       <g
          id="g121416"
-         transform="matrix(1.0033445,0,0,1.0033444,-13.390538,22.410512)"
+         transform="matrix(1.0033445,0,0,1.0033444,-13.390538,26.177319)"
          style="fill:#ffffff">
         <g
            id="g121408"
@@ -12996,14 +13092,14 @@
              transform="matrix(0.91357332,0,0,0.91357332,-58.350671,16.292132)"><tspan
                x="-727.09705"
                y="289.51178"
-               id="tspan226229"><tspan
+               id="tspan34506"><tspan
                  style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-                 id="tspan226227">0857-1845-6740 (Ustadz Ahmad Fathurrahman, Lc) </tspan></tspan><tspan
+                 id="tspan34504">0857-1845-6740 (Ustadz Ahmad Fathurrahman, Lc) </tspan></tspan><tspan
                x="-727.09705"
                y="294.94387"
-               id="tspan226233"><tspan
+               id="tspan34510"><tspan
                  style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-                 id="tspan226231">0852-7364-4007  (Pak Rahmat Sagita)</tspan></tspan></text>
+                 id="tspan34508">0852-7364-4007  (Pak Rahmat Sagita)</tspan></tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -13011,64 +13107,14 @@
            x="-770.47321"
            y="260.21097"
            id="text121414"
-           transform="matrix(1.0192269,0,0,1.0192269,-386.0671,-293.95504)"
+           transform="matrix(1.0192269,0,0,1.0192269,-365.62681,-293.95504)"
            inkscape:export-xdpi="94"
            inkscape:export-ydpi="94"><tspan
              x="-770.47321"
              y="260.21097"
-             id="tspan226237"><tspan
+             id="tspan34514"><tspan
                style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-               id="tspan226235">Konfirmasi</tspan></tspan></text>
-      </g>
-      <g
-         id="g121440"
-         transform="matrix(1.0033445,0,0,1.0033444,42.14708,62.786826)"
-         style="fill:#ffffff">
-        <g
-           id="g121432"
-           transform="matrix(1.1521443,0,0,1.1521443,-258.61319,-385.69727)"
-           style="fill:#ffffff;fill-opacity:1"
-           inkscape:export-xdpi="94"
-           inkscape:export-ydpi="94">
-          <text
-             xml:space="preserve"
-             style="font-size:4.34254px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:125.591;opacity:0.85;fill:#ffffff;fill-opacity:1;stroke-width:0.142987"
-             x="-727.09705"
-             y="289.51178"
-             id="text121430"
-             transform="matrix(0.91357332,0,0,0.91357332,-58.412355,16.292132)"><tspan
-               x="-727.09705"
-               y="289.51178"
-               id="tspan226241"><tspan
-                 style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-                 id="tspan226239">- Aryo Priambodho (0856-1100-956)
-</tspan></tspan><tspan
-               x="-727.09705"
-               y="294.94387"
-               id="tspan226245"><tspan
-                 style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-                 id="tspan226243">- Sukandar (0857-4193-0008)
-</tspan></tspan><tspan
-               x="-727.09705"
-               y="300.37597"
-               id="tspan226249"><tspan
-                 style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
-                 id="tspan226247">- Muhamad Fajri (0878-8827-5800)</tspan></tspan></text>
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-size:6.25831px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:273.466;fill:#ffffff;fill-opacity:1;stroke-width:0.322825"
-           x="-770.47321"
-           y="260.21097"
-           id="text121438"
-           transform="matrix(1.0192269,0,0,1.0192269,-273.20752,-334.19677)"
-           inkscape:export-xdpi="94"
-           inkscape:export-ydpi="94"><tspan
-             x="-770.47321"
-             y="260.21097"
-             id="tspan226253"><tspan
-               style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-               id="tspan226251">Via Kepala Sekolah</tspan></tspan></text>
+               id="tspan34512">Informasi &amp; Konfirmasi</tspan></tspan></text>
       </g>
       <rect
          style="opacity:0.521236;fill:#ab9786;fill-opacity:1;stroke-width:2.69503;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter122105)"
@@ -13108,7 +13154,7 @@
         <rect
            style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.564134;stroke-linecap:round;stroke-linejoin:round"
            id="rect131337"
-           width="24.010401"
+           width="29.593468"
            height="14.212296"
            x="-1210.473"
            y="-148.39589"
@@ -13127,9 +13173,9 @@
            transform="matrix(0.82044433,0,0,0.82044433,-162.42419,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226257"><tspan
+             id="tspan34518"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
-               id="tspan226255">Rp. 9.135.000,-</tspan></tspan></text>
+               id="tspan34516">Rp. 12.535.000,-</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-size:7.4706px;line-height:1.45;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:323.754;fill:#31392b;fill-opacity:1;stroke-width:0.186765"
@@ -13139,13 +13185,28 @@
            transform="matrix(0.82044433,0,0,0.82044433,-219.10075,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226259">Dana Terkumpul :</tspan></text>
+             id="tspan34520">Dana Terkumpul :</tspan></text>
         <circle
            style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
            id="circle121468"
            cx="-1216.3464"
            cy="-130.85278"
            r="1.2062852" />
+      </g>
+      <g
+         id="g121470-6"
+         transform="matrix(0.94459264,0,0,0.94459264,-48.718808,52.598472)"
+         style="fill:#31392b;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:7.4706px;line-height:1.45;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:323.754;fill:#31392b;fill-opacity:1;stroke-width:0.186765"
+           x="-1211.2545"
+           y="-146.33141"
+           id="text121466-7"
+           transform="matrix(1.0068123,0,0,1.0068123,6.645163,14.31198)"><tspan
+             x="-1211.2545"
+             y="-146.33141"
+             id="tspan34522">Jika ada kelebihan akan diserahkan kepada keluarga beliau</tspan></text>
       </g>
       <g
          id="g121482"
@@ -13159,9 +13220,9 @@
            transform="matrix(0.82044433,0,0,0.82044433,-190.33965,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226263"><tspan
+             id="tspan34526"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
-               id="tspan226261">5 Agustus 2021</tspan></tspan></text>
+               id="tspan34524">6 Agustus 2021</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-size:7.4706px;line-height:1.45;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:323.754;fill:#753422;fill-opacity:1;stroke-width:0.186765"
@@ -13171,7 +13232,7 @@
            transform="matrix(0.82044433,0,0,0.82044433,-219.10075,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226265">Update : </tspan></text>
+             id="tspan34528">Update : </tspan></text>
       </g>
       <g
          id="g121496"
@@ -13186,9 +13247,9 @@
            transform="matrix(0.82044433,0,0,0.82044433,-28.270818,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226269"><tspan
+             id="tspan34532"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Montserrat Bold'"
-               id="tspan226267">Rp. 100.000.000,-</tspan></tspan></text>
+               id="tspan34530">Rp. 100.000.000,-</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-size:7.4706px;line-height:1.45;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:323.754;fill:#31392b;fill-opacity:1;stroke-width:0.186765"
@@ -13198,7 +13259,7 @@
            transform="matrix(0.82044433,0,0,0.82044433,-88.26449,-9.1166005)"><tspan
              x="-1211.2545"
              y="-146.33141"
-             id="tspan226271">Dana Dibutuhkan :</tspan></text>
+             id="tspan34534">Dana Dibutuhkan :</tspan></text>
         <circle
            style="opacity:1;fill:#ffb380;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
            id="circle121494"
@@ -13235,35 +13296,35 @@
        transform="matrix(0.73508139,0,0,0.73508139,-1011.6322,20.469108)"><tspan
          x="-1211.2545"
          y="-146.33141"
-         id="tspan226275"><tspan
+         id="tspan34538"><tspan
            style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-           id="tspan226273">    Qadarullah pada hari ini sedang Allah uji dengan sakit salah satu dari jama'ah </tspan></tspan><tspan
+           id="tspan34536">    Qadarullah pada hari ini sedang Allah uji dengan sakit salah satu dari jama'ah </tspan></tspan><tspan
          x="-1211.2545"
          y="-135.49903"
-         id="tspan226279"><tspan
+         id="tspan34542"><tspan
            style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-           id="tspan226277">Masjid Al-Istiqlal Tambun yang sekaligus juga merupakan wali murid dari siswa </tspan></tspan><tspan
+           id="tspan34540">Masjid Al-Istiqlal Tambun yang sekaligus juga merupakan wali murid dari siswa </tspan></tspan><tspan
          x="-1211.2545"
          y="-124.66667"
-         id="tspan226283"><tspan
+         id="tspan34546"><tspan
            style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-           id="tspan226281">Sekolah Islam Istiqlal.
+           id="tspan34544">Sekolah Islam Istiqlal.
 </tspan></tspan><tspan
          x="-1211.2545"
          y="-113.8343"
-         id="tspan226287"><tspan
+         id="tspan34550"><tspan
            style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-           id="tspan226285">    Beliau Allah uji dengan infeksi gigi dan saluran pernapasan dan memerlukan </tspan></tspan><tspan
+           id="tspan34548">    Beliau Allah uji dengan infeksi gigi dan saluran pernapasan dan memerlukan </tspan></tspan><tspan
          x="-1211.2545"
          y="-103.00193"
-         id="tspan226291"><tspan
+         id="tspan34554"><tspan
            style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-           id="tspan226289">operasi secepatnya.
+           id="tspan34552">operasi secepatnya.
 </tspan></tspan><tspan
          x="-1211.2545"
          y="-92.169566"
-         id="tspan226295"><tspan
+         id="tspan34558"><tspan
            style="font-weight:500;-inkscape-font-specification:'Montserrat Medium'"
-           id="tspan226293">    Mari bantu saudara kita dengan berdonasi melalui :</tspan></tspan></text>
+           id="tspan34556">    Mari bantu saudara kita dengan berdonasi melalui :</tspan></tspan></text>
   </g>
 </svg>
