@@ -29,9 +29,9 @@
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:zoom="0.42894571"
-     inkscape:cx="376.50453"
-     inkscape:cy="761.16859"
-     inkscape:current-layer="g6364" />
+     inkscape:cx="1092.2128"
+     inkscape:cy="618.95945"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2845">
     <clipPath
@@ -5429,7 +5429,8 @@
      transform="translate(-239.77217,-34.079315)"
      style="display:inline">
     <g
-       id="g6860">
+       id="g6860"
+       style="opacity:0.5">
       <g
          id="g6390"
          transform="translate(0,-9.1593458)">
@@ -5438,7 +5439,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6366"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,12.055325)"
            width="100%"
            height="100%" />
         <use
@@ -5446,7 +5447,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6368"
-           transform="translate(256.75245,10.467824)"
+           transform="translate(256.75245,12.055325)"
            width="100%"
            height="100%" />
         <use
@@ -5454,7 +5455,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6370"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,12.055325)"
            width="100%"
            height="100%" />
         <use
@@ -5462,7 +5463,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6372"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,12.055325)"
            width="100%"
            height="100%" />
         <use
@@ -5470,7 +5471,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6374"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,19.906193)"
            width="100%"
            height="100%" />
         <use
@@ -5478,7 +5479,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6376"
-           transform="translate(214.00883,18.318692)"
+           transform="translate(214.00883,19.906193)"
            width="100%"
            height="100%" />
         <use
@@ -5486,7 +5487,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6378"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,19.906193)"
            width="100%"
            height="100%" />
         <use
@@ -5494,7 +5495,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6380"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,19.906193)"
            width="100%"
            height="100%" />
       </g>
@@ -5506,7 +5507,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6392"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5522,7 +5523,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6396"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5530,7 +5531,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6398"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5538,7 +5539,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6400"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5554,7 +5555,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6404"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5562,7 +5563,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6406"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -5574,7 +5575,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6410"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5590,7 +5591,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6414"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5598,7 +5599,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6416"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5606,7 +5607,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6418"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5622,7 +5623,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6422"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5630,7 +5631,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6424"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -5642,7 +5643,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6428"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5658,7 +5659,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6432"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5666,7 +5667,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6434"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5674,7 +5675,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6436"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5690,7 +5691,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6440"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5698,7 +5699,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6442"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -5710,7 +5711,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6446"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5726,7 +5727,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6450"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5734,7 +5735,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6452"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5742,7 +5743,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6454"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5758,7 +5759,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6458"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5766,7 +5767,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6460"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -5778,7 +5779,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6464"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5794,7 +5795,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6468"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5802,7 +5803,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6470"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5810,7 +5811,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6472"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5826,7 +5827,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6476"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5834,7 +5835,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6478"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -5846,7 +5847,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6482"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5862,7 +5863,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6486"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5870,7 +5871,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6488"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5878,7 +5879,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6490"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5894,7 +5895,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6494"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5902,7 +5903,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6496"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -5914,7 +5915,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6500"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5930,7 +5931,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6504"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5938,7 +5939,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6506"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5946,7 +5947,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6508"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -5970,7 +5971,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6514"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -5982,7 +5983,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6518"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -5998,7 +5999,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6522"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(321.8129,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6006,7 +6007,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6524"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6014,7 +6015,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6526"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6038,7 +6039,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6532"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -6050,7 +6051,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6536"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6066,7 +6067,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6540"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(321.8129,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6074,7 +6075,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6542"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6082,7 +6083,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6544"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6106,7 +6107,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6550"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -6118,7 +6119,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6554"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6134,7 +6135,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6558"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(321.8129,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6142,7 +6143,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6560"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6150,7 +6151,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6562"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6174,7 +6175,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6568"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -6186,7 +6187,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6572"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6202,7 +6203,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6576"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(322.46714,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6210,7 +6211,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6578"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6218,7 +6219,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6580"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6242,7 +6243,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6586"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -6254,7 +6255,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6590"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6270,7 +6271,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6594"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6278,7 +6279,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6596"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6286,7 +6287,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6598"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6302,7 +6303,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6602"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6310,7 +6311,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6604"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -6322,7 +6323,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6608"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6338,7 +6339,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6612"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6346,7 +6347,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6614"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6354,7 +6355,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6616"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6370,7 +6371,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6620"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6378,7 +6379,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6622"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -6390,7 +6391,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6626"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,9.9386573)"
            width="100%"
            height="100%" />
         <use
@@ -6398,7 +6399,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6628"
-           transform="translate(256.75245,10.467824)"
+           transform="translate(256.75245,9.9386573)"
            width="100%"
            height="100%" />
         <use
@@ -6406,7 +6407,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6630"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,9.9386573)"
            width="100%"
            height="100%" />
         <use
@@ -6414,7 +6415,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6632"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,9.9386573)"
            width="100%"
            height="100%" />
         <use
@@ -6422,7 +6423,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6634"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6438,7 +6439,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6638"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6446,7 +6447,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6640"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -6458,7 +6459,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6644"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,9.4094906)"
            width="100%"
            height="100%" />
         <use
@@ -6466,7 +6467,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6646"
-           transform="translate(256.75245,10.467824)"
+           transform="translate(256.75245,9.4094906)"
            width="100%"
            height="100%" />
         <use
@@ -6474,7 +6475,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6648"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,9.4094906)"
            width="100%"
            height="100%" />
         <use
@@ -6482,7 +6483,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6650"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,9.4094906)"
            width="100%"
            height="100%" />
         <use
@@ -6490,7 +6491,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6652"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6506,7 +6507,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6656"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6514,7 +6515,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6658"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -6526,7 +6527,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6662"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6542,7 +6543,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6666"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6550,7 +6551,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6668"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6558,7 +6559,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6670"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6574,7 +6575,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6674"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6582,7 +6583,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6676"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
@@ -6594,7 +6595,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6680"
-           transform="translate(184.49539,10.467824)"
+           transform="translate(193.76511,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6610,7 +6611,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6684"
-           transform="translate(329.00953,10.467824)"
+           transform="translate(320.99084,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6618,7 +6619,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6686"
-           transform="translate(401.2666,10.467824)"
+           transform="translate(385.22922,10.467824)"
            width="100%"
            height="100%" />
         <use
@@ -6626,7 +6627,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6688"
-           transform="translate(141.75178,18.318692)"
+           transform="translate(150.80209,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6642,7 +6643,7 @@
            y="0"
            xlink:href="#g6364"
            id="use6692"
-           transform="translate(286.26588,18.318692)"
+           transform="translate(278.24719,18.318692)"
            width="100%"
            height="100%" />
         <use
@@ -6650,34 +6651,146 @@
            y="0"
            xlink:href="#g6364"
            id="use6694"
-           transform="translate(358.52294,18.318692)"
+           transform="translate(342.48556,18.318692)"
            width="100%"
            height="100%" />
       </g>
-    </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#text5058"
-       id="use12126"
-       transform="matrix(0.80100018,0,0,0.80100018,459.92719,2.491863)"
-       width="100%"
-       height="100%" />
-    <g
-       id="g6364"
-       transform="translate(-84.614909,-10.467824)"
-       style="fill:#9bebff;fill-opacity:0.93333334">
-      <text
-         xml:space="preserve"
-         style="font-size:5.76904px;line-height:1.05;font-family:sans-serif;opacity:1;stroke-width:0.144226;fill:#9bebff;fill-opacity:0.93333334"
-         x="126.22215"
-         y="50.624947"
-         id="text5058"><tspan
-           sodipodi:role="line"
-           id="tspan5056"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76904px;font-family:Cairo;-inkscape-font-specification:Cairo;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.144226;fill:#9bebff;fill-opacity:0.93333334"
-           x="126.22215"
-           y="50.624947">معهد الإستقلال الإسلامي</tspan></text>
+      <g
+         id="g7979"
+         transform="translate(0,311.86456)">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7963"
+           transform="translate(193.76511,10.467824)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7965"
+           transform="translate(256.75245,10.467824)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7967"
+           transform="translate(320.99084,10.467824)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7969"
+           transform="translate(385.22922,10.467824)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7971"
+           transform="translate(150.80209,18.318692)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7973"
+           transform="translate(214.00883,18.318692)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7975"
+           transform="translate(278.24719,18.318692)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7977"
+           transform="translate(342.48556,18.318692)"
+           width="100%"
+           height="100%" />
+      </g>
+      <g
+         id="g7997"
+         transform="translate(0,-24.734112)">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7981"
+           transform="translate(193.76511,12.055325)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7983"
+           transform="translate(256.75245,12.055325)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7985"
+           transform="translate(320.99084,12.055325)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7987"
+           transform="translate(385.22922,12.055325)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7989"
+           transform="translate(150.80209,19.906193)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7991"
+           transform="translate(214.00883,19.906193)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7993"
+           transform="translate(278.24719,19.906193)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g6364"
+           id="use7995"
+           transform="translate(342.48556,19.906193)"
+           width="100%"
+           height="100%" />
+      </g>
     </g>
     <g
        id="g14201"
@@ -6705,6 +6818,30 @@
            y="171.75301"
            ry="1.7807939" />
       </g>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text5058"
+       id="use12126"
+       transform="matrix(0.80100018,0,0,0.80100018,459.92719,2.491863)"
+       width="100%"
+       height="100%" />
+    <g
+       id="g6364"
+       transform="translate(-84.614909,-10.467824)"
+       style="fill:#9bebff;fill-opacity:0.93333334">
+      <text
+         xml:space="preserve"
+         style="font-size:5.76904px;line-height:1.05;font-family:sans-serif;opacity:1;stroke-width:0.144226;fill:#9bebff;fill-opacity:0.93333334"
+         x="126.22215"
+         y="50.624947"
+         id="text5058"><tspan
+           sodipodi:role="line"
+           id="tspan5056"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.76904px;font-family:Cairo;-inkscape-font-specification:Cairo;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.144226;fill:#9bebff;fill-opacity:0.93333334"
+           x="126.22215"
+           y="50.624947">معهد الإستقلال الإسلامي</tspan></text>
     </g>
   </g>
   <g
