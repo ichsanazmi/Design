@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="208.61838mm"
    height="208.61838mm"
    viewBox="0 0 208.61838 208.61838"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (1.0+r73)"
-   sodipodi:docname="Poster_Ramadhan_Berkah.svg">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Poster_Ramadhan_Berkah.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <linearGradient
@@ -670,11 +670,11 @@
      inkscape:window-height="678"
      inkscape:window-width="1306"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5486"
      inkscape:document-units="mm"
-     inkscape:cy="886.3898"
-     inkscape:cx="-253.15887"
-     inkscape:zoom="0.86366087"
+     inkscape:cy="735.24229"
+     inkscape:cx="12.736481"
+     inkscape:zoom="0.43183044"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -2576,7 +2576,7 @@
                sodipodi:role="line"
                x="-53.68428"
                y="207.05705"
-               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:5.71993px;line-height:6.98344px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.147768">Bank BNI SYARIAH 427</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:5.71993px;line-height:6.98344px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.147768">Bank Syariah Indonesia (BSI - 451)</tspan></text>
           <text
              id="text5366"
              y="212.55646"
@@ -2598,7 +2598,7 @@
                sodipodi:role="line"
                x="-53.850231"
                y="221.12312"
-               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:9.53322px;line-height:11.5431px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24425">0649324927</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:9.53322px;line-height:11.5431px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24425">649324927</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;font-size:5.91073px;line-height:6.98344px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147768"
@@ -2622,7 +2622,7 @@
                y="233.26604"
                x="-53.595516"
                sodipodi:role="line"
-               id="tspan5378">( tambahkan nominal 41 diakhir donasi )</tspan></text>
+               id="tspan5378">( tambahkan nominal 22 diakhir donasi )</tspan></text>
         </g>
         <g
            id="g5396"
@@ -2794,7 +2794,7 @@
                x="-5.3478918"
                y="165.77426"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.06756px;line-height:5.49172px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0.34515px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0985227"
-               id="tspan5442">1. PAKET IFTOR RAMADHAN*</tspan></text>
+               id="tspan5442">1. PAKET IFTOR RAMADHAN &amp; BERBUKA PUASA*</tspan></text>
           <text
              id="text5448"
              y="171.68309"
@@ -2805,66 +2805,65 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.06756px;line-height:5.49172px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0.34515px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0985227"
                y="171.68309"
                x="-5.3478918"
-               sodipodi:role="line">2. PAKET NASI BOX*</tspan></text>
+               sodipodi:role="line">2. PAKET SAHUR I'TIKAF 10 HARI TERAKHIR*</tspan></text>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:3.94091px;line-height:4.08164px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0985227"
+             style="font-style:normal;font-weight:normal;font-size:3.94091px;line-height:4.08164px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:95.0039;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0985227"
              x="-5.3478918"
              y="177.59193"
-             id="text5456"><tspan
-               sodipodi:role="line"
+             id="text5456"
+             transform="translate(0,0.51899589)"><tspan
                x="-5.3478918"
                y="177.59193"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.06756px;line-height:4.08164px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0.34515px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0985227"
-               id="tspan5450">3. PAKET SEMBAKO UNTUK ASATIDZ, THULLABUL</tspan><tspan
-               sodipodi:role="line"
+               id="tspan36138"><tspan
+                 dx="0 0 -0.34514999 0.34514999 0 0 0 0 -0.34515023 0.34515047 0 0 0 -0.34515023 0.34515005 0 0 0 0 -0.34515297 0.34515238 -0.3451519 0.34515238 0 0 0 0 0 0 -0.34514618 0.34514475 0 0 0 0 -0.34514856"
+                 style="font-size:4.06756px;font-family:Roboto;-inkscape-font-specification:Roboto;word-spacing:0.34515px"
+                 id="tspan36136">3. PAKET UANG TUNAI &amp; SEMBAKO UNTUK 
+</tspan></tspan><tspan
                x="-5.3478918"
-               y="181.68039"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.06756px;line-height:4.08164px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0.34515px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0985227"
-               id="tspan5452">ILMI, JANDA, FAKIR, MISKIN, LANSIA TERDAMPAK</tspan><tspan
-               id="tspan5454"
-               sodipodi:role="line"
+               y="181.81926"
+               id="tspan36142"><tspan
+                 dx="0 0 0 0.34514999 0 0 0 0 0 0 0 -0.34514952 0.34515005 0 0 0 0 0 0 0 0 -0.34515285 0.34515238 0 0 0 0 -0.34514761 0.34514856 0 0 0 0 0 -0.34515142 0.34515238 0 0 0 0 0 -0.34515142"
+                 style="font-size:4.06756px;font-family:Roboto;-inkscape-font-specification:Roboto;word-spacing:0.34515px"
+                 id="tspan36140">   ASATIDZ, THULLABUL ILMI, JANDA, FAKIR, 
+</tspan></tspan><tspan
                x="-5.3478918"
-               y="185.76886"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.06756px;line-height:4.08164px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0.34515px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0985227">COVID-19</tspan></text>
+               y="186.04659"
+               id="tspan36146"><tspan
+                 dx="0 0 0 0.34514999 0 0 0 0 0 0 -0.34514952 0.34515047"
+                 style="font-size:4.06756px;font-family:Roboto;-inkscape-font-specification:Roboto;word-spacing:0.34515px"
+                 id="tspan36144">   MISKIN, LANSIA</tspan></tspan></text>
           <text
              id="text5460"
              y="191.93318"
              x="-5.3478918"
-             style="font-style:normal;font-weight:normal;font-size:3.94091px;line-height:4.08164px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0985227"
-             xml:space="preserve"><tspan
-               id="tspan5458"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.06756px;line-height:4.08164px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0.34515px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0985227"
-               y="191.93318"
+             style="font-style:normal;font-weight:normal;font-size:3.94091px;line-height:4.08164px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:94.3814;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0985227"
+             xml:space="preserve"
+             transform="translate(0,2.8544774)"><tspan
                x="-5.3478918"
-               sodipodi:role="line">4. PEMBAGIAN MASKER &amp; HAND SANITIZER</tspan></text>
+               y="191.93318"
+               id="tspan36150"><tspan
+                 dx="0 0 -0.34514999 0.34514999 0 0 0 0 0 0 0 0 0 0 -0.34515047 0.34515238 0 0 0 0 -0.34515214 0.34515238 0 0 0 0 -0.34514761 0.34514856 0 0 0 0 0 0 -0.3451438"
+                 style="font-size:4.06756px;font-family:Roboto;-inkscape-font-specification:Roboto;word-spacing:0.34515px"
+                 id="tspan36148">4. MENYALURKAN ZAKAT MALL, FIDYAH, 
+</tspan></tspan><tspan
+               x="-5.3478918"
+               y="196.16051"
+               id="tspan36154"><tspan
+                 dx="0 0 0 0 0.34514999 0 0 0 0 -0.34515095 0.34515047 -0.34514999 0.34515047 0 0 0 0 0 0 -0.34514856 0.34514856 0 0 0 0 0 -0.34515119 0.34514856 0 0 0 -0.34515595 0.34515238"
+                 style="font-size:4.06756px;font-family:Roboto;-inkscape-font-specification:Roboto;word-spacing:0.34515px"
+                 id="tspan36152">    INFAQ &amp; SEDEKAH KEPADA YANG BERHAK</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;font-size:3.94091px;line-height:4.08164px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0985227"
              x="-5.3478918"
-             y="197.84201"
+             y="206.14595"
              id="text5466"><tspan
                sodipodi:role="line"
                x="-5.3478918"
-               y="197.84201"
+               y="206.14595"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.06756px;line-height:4.08164px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0.34515px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0985227"
-               id="tspan5462">5. MENYALURKAN ZAKAT MALL, FIDYAH, INFAQ &amp;</tspan><tspan
-               sodipodi:role="line"
-               x="-5.3478918"
-               y="201.93047"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.06756px;line-height:4.08164px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0.34515px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0985227"
-               id="tspan5464">SEDEKAH KEPADA YANG BERHAK</tspan></text>
-          <text
-             id="text5470"
-             y="207.83929"
-             x="-5.3478918"
-             style="font-style:normal;font-weight:normal;font-size:3.94091px;line-height:4.08164px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0985227"
-             xml:space="preserve"><tspan
-               id="tspan5468"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.06756px;line-height:4.08164px;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0.34515px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0985227"
-               y="207.83929"
-               x="-5.3478918"
-               sodipodi:role="line">6. SANTUNAN YATIM &amp; PIATU</tspan></text>
+               id="tspan5464">5. SANTUNAN YATIM &amp; PIATU</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;font-size:2.85379px;line-height:2.9557px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0713448"
@@ -2886,18 +2885,18 @@
              id="tspan5478"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5232px;line-height:9.10088px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;word-spacing:0.571983px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.163272"
              y="169.3996"
-             x="-10.844252"
+             x="-10.844251"
              sodipodi:role="line">RENCANA</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5232px;line-height:9.10088px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;word-spacing:0.571983px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.163272"
-             y="179.90329"
-             x="-10.84425"
+             y="179.67317"
+             x="-10.844252"
              sodipodi:role="line"
              id="tspan5480">KEGIATAN</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5232px;line-height:9.10088px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;word-spacing:0.571983px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.163272"
-             y="190.40698"
+             y="189.94673"
              x="-10.844253"
              sodipodi:role="line"
-             id="tspan5482">1441 H</tspan></text>
+             id="tspan5482">1443 H</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -2925,15 +2924,15 @@
            id="tspan5494">Indahnya Berbagi</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:12.1439px;line-height:16.9227px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.303597"
-         x="99.669128"
-         y="140.28111"
+         style="font-style:normal;font-weight:normal;font-size:10.8461px;line-height:15.1142px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.271152"
+         x="107.10541"
+         y="139.46475"
          id="text5500"><tspan
            id="tspan5498"
            sodipodi:role="line"
-           x="99.669128"
-           y="140.28111"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5675px;line-height:16.9227px;font-family:'Hey October';-inkscape-font-specification:'Hey October Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;word-spacing:1.06358px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.303597">ditengah Pandemi</tspan></text>
+           x="107.10541"
+           y="139.46475"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.4763px;line-height:15.1142px;font-family:'Hey October';-inkscape-font-specification:'Hey October Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;word-spacing:0.949917px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.271152">Dibulan Penuh Berkah</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:2.84778px;line-height:3.96843px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0711946"
@@ -2942,9 +2941,9 @@
          id="text5504"><tspan
            id="tspan5502"
            sodipodi:role="line"
-           x="67.664093"
+           x="67.664085"
            y="99.533005"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58865px;line-height:3.96843px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;word-spacing:0.249413px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.0711946">Ramadhan 1441 H Penuh Berkah</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58865px;line-height:3.96843px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;word-spacing:0.249413px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.0711946">Ramadhan 1443 H Penuh Berkah</tspan></text>
       <g
          id="g5530"
          transform="translate(12.668908,-2.1114847)">
@@ -5707,112 +5706,116 @@
       </g>
     </g>
     <g
-       transform="matrix(0.96663261,0,0,0.96663261,-73.280155,146.94503)"
-       id="g3596">
-      <rect
-         ry="3.7172241"
-         y="137.40938"
-         x="-213.83391"
-         height="7.4344482"
-         width="180.2453"
-         id="rect3550"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25182867;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.02194416, 3.02194416;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         style="opacity:1;fill:url(#linearGradient5626);fill-opacity:1;stroke:none;stroke-width:0.15599921;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.87199057, 1.87199057;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5591"
-         width="176.0154"
-         height="3.7794647"
-         x="-211.99263"
-         y="139.2784"
-         ry="1.8897324" />
-      <rect
-         ry="1.8895494"
-         y="139.2784"
-         x="-211.99263"
-         height="3.7790987"
-         width="97.970436"
-         id="rect3552"
-         style="opacity:1;fill:url(#linearGradient5618);fill-opacity:1;stroke:none;stroke-width:0.225932;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.71118, 2.71118;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         style="opacity:1;fill:url(#linearGradient5610);fill-opacity:1;stroke:none;stroke-width:0.221665;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.65998, 2.65998;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5589"
-         width="123.71211"
-         height="3.779007"
-         x="-211.99263"
-         y="139.27863"
-         ry="1.8895" />
-    </g>
-    <text
-       id="text5388-0"
-       y="276.53711"
-       x="-279.80127"
-       style="font-style:normal;font-weight:normal;font-size:4.98949px;line-height:5.89502px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124737"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.24959px;line-height:5.89502px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.124737"
+       id="g2473"
+       transform="translate(-246.30617)">
+      <g
+         transform="matrix(0.96663261,0,0,0.96663261,-73.280155,146.94503)"
+         id="g3596">
+        <rect
+           ry="3.7172241"
+           y="137.40938"
+           x="-213.83391"
+           height="7.4344482"
+           width="180.2453"
+           id="rect3550"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.251829;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.02194, 3.02194;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:url(#linearGradient5626);fill-opacity:1;stroke:none;stroke-width:0.155999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.87199, 1.87199;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5591"
+           width="176.0154"
+           height="3.7794647"
+           x="-211.99263"
+           y="139.2784"
+           ry="1.8897324" />
+        <rect
+           ry="1.8895494"
+           y="139.2784"
+           x="-211.99263"
+           height="3.7790987"
+           width="97.970436"
+           id="rect3552"
+           style="opacity:1;fill:url(#linearGradient5618);fill-opacity:1;stroke:none;stroke-width:0.225932;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.71118, 2.71118;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:url(#linearGradient5610);fill-opacity:1;stroke:none;stroke-width:0.221665;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.65998, 2.65998;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5589"
+           width="123.71211"
+           height="3.779007"
+           x="-211.99263"
+           y="139.27863"
+           ry="1.8895" />
+      </g>
+      <text
+         id="text5388-0"
          y="276.53711"
          x="-279.80127"
-         sodipodi:role="line"
-         id="tspan5386-3">Update 6 Syawwal 1441 H</tspan></text>
-    <g
-       transform="matrix(0.96663261,0,0,0.96663261,-11.588876,11.866949)"
-       id="g5602">
-      <text
-         id="text5573"
-         y="290.77063"
-         x="-270.89304"
-         style="font-style:normal;font-weight:normal;font-size:3.77394px;line-height:4.45886px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0943486"
+         style="font-style:normal;font-weight:normal;font-size:4.98949px;line-height:5.89502px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.124737"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21429px;line-height:4.45886px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0943486"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.24959px;line-height:5.89502px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.124737"
+           y="276.53711"
+           x="-279.80127"
+           sodipodi:role="line"
+           id="tspan5386-3">Update 6 Syawwal 1441 H</tspan></text>
+      <g
+         transform="matrix(0.96663261,0,0,0.96663261,-11.588876,11.866949)"
+         id="g5602">
+        <text
+           id="text5573"
            y="290.77063"
            x="-270.89304"
-           sodipodi:role="line"
-           id="tspan5571">Donasi Masuk : Rp. 32.470.000</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:3.77394px;line-height:4.45886px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0943486"
-         x="-214.31303"
-         y="290.77063"
-         id="text5577"><tspan
-           id="tspan5575"
-           sodipodi:role="line"
+           style="font-style:normal;font-weight:normal;font-size:3.77394px;line-height:4.45886px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0943486"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21429px;line-height:4.45886px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0943486"
+             y="290.77063"
+             x="-270.89304"
+             sodipodi:role="line"
+             id="tspan5571">Donasi Masuk : Rp. 32.470.000</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.77394px;line-height:4.45886px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0943486"
            x="-214.31303"
            y="290.77063"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21429px;line-height:4.45886px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0943486">Donasi Tersalurkan : Rp. 32.470.000</tspan></text>
-      <text
-         id="text5581"
-         y="290.76279"
-         x="-151.91537"
-         style="font-style:normal;font-weight:normal;font-size:3.77394px;line-height:4.45886px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0943486"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21429px;line-height:4.45886px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0943486"
+           id="text5577"><tspan
+             id="tspan5575"
+             sodipodi:role="line"
+             x="-214.31303"
+             y="290.77063"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21429px;line-height:4.45886px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0943486">Donasi Tersalurkan : Rp. 32.470.000</tspan></text>
+        <text
+           id="text5581"
            y="290.76279"
            x="-151.91537"
-           sodipodi:role="line"
-           id="tspan5579">Kekurangan Donasi : Rp. 17.530.000</tspan></text>
-      <rect
-         style="opacity:1;fill:#5fcc54;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.17499996, 3.17499996;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5583"
-         width="2.8474276"
-         height="2.8474276"
-         x="-275.58078"
-         y="288.46802"
-         ry="1.4237138" />
-      <rect
-         ry="1.4237138"
-         y="288.46802"
-         x="-218.36279"
-         height="2.8474276"
-         width="2.8474276"
-         id="rect5585"
-         style="opacity:1;fill:#1877f2;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.17499996, 3.17499996;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         style="opacity:1;fill:#7e57c2;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.17499996, 3.17499996;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5587"
-         width="2.8474276"
-         height="2.8474276"
-         x="-156.05005"
-         y="288.46802"
-         ry="1.4237138" />
+           style="font-style:normal;font-weight:normal;font-size:3.77394px;line-height:4.45886px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0943486"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21429px;line-height:4.45886px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.0943486"
+             y="290.76279"
+             x="-151.91537"
+             sodipodi:role="line"
+             id="tspan5579">Kekurangan Donasi : Rp. 17.530.000</tspan></text>
+        <rect
+           style="opacity:1;fill:#5fcc54;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5583"
+           width="2.8474276"
+           height="2.8474276"
+           x="-275.58078"
+           y="288.46802"
+           ry="1.4237138" />
+        <rect
+           ry="1.4237138"
+           y="288.46802"
+           x="-218.36279"
+           height="2.8474276"
+           width="2.8474276"
+           id="rect5585"
+           style="opacity:1;fill:#1877f2;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#7e57c2;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5587"
+           width="2.8474276"
+           height="2.8474276"
+           x="-156.05005"
+           y="288.46802"
+           ry="1.4237138" />
+      </g>
     </g>
     <text
        xml:space="preserve"
