@@ -24,13 +24,37 @@
      inkscape:pagecheckerboard="1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.30110567"
-     inkscape:cx="-252.40309"
-     inkscape:cy="134.50428"
+     inkscape:zoom="0.42582772"
+     inkscape:cx="1082.5974"
+     inkscape:cy="661.06546"
      inkscape:current-layer="layer1"
      inkscape:snap-global="false" />
   <defs
      id="defs189111">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4465">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4461" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4463" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4241">
+      <stop
+         style="stop-color:#ff2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop4237" />
+      <stop
+         style="stop-color:#d40000;stop-opacity:1"
+         offset="1"
+         id="stop4239" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient202922">
@@ -174,12 +198,38 @@
          stdDeviation="4.6686862"
          id="feGaussianBlur204221" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4241"
+       id="linearGradient4243"
+       x1="343.99036"
+       y1="145.38892"
+       x2="427.5704"
+       y2="290.15378"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4465"
+       id="linearGradient4469"
+       x1="325.01077"
+       y1="183.94624"
+       x2="325.01077"
+       y2="342.05457"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.64170197,0,0,0.64170197,159.25853,56.864929)" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-34.454757,-40.66814)">
+    <rect
+       style="fill:#ffffff;stroke-width:20.922;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4125"
+       width="224.27991"
+       height="224.27991"
+       x="226.70908"
+       y="85.163994" />
     <g
        id="g189193"
        transform="matrix(7.2317963,0,0,7.2317963,-280.21335,-1900.6302)"
@@ -359,7 +409,7 @@
            cy="290.22662"
            rx="16.158926"
            ry="8.079463"
-           transform="matrix(0.91577166,0,0,1.3158631,5.1793973,-85.967223)" />
+           transform="matrix(0.91577166,0,0,1.3158631,-3.7631299,-80.656298)" />
         <ellipse
            style="opacity:0.290862;fill:#ffb25b;fill-opacity:1;stroke:none;stroke-width:0.0361695;stroke-linecap:square;stroke-opacity:1;filter:url(#filter204223)"
            id="ellipse203841"
@@ -367,7 +417,7 @@
            cy="290.22662"
            rx="16.158926"
            ry="8.079463"
-           transform="matrix(0.91577166,0,0,1.3158631,-14.539885,-115.43404)" />
+           transform="matrix(0.91577166,0,0,1.3158631,-7.072927,-119.18272)" />
       </g>
       <g
          id="g202157">
@@ -408,9 +458,10 @@
                  sodipodi:nodetypes="csccscscscccccscc"
                  transform="translate(-1.4488038e-6)" />
               <path
-                 d="m 48.576546,288.23343 v -8.70401 h 1.325383 v 7.57644 h 1.67651 v 1.12757 z"
+                 d="m 48.576546,288.23343 v -8.70401 h 1.325383 v 7.57644 h 0.715026 l 0.850305,0.59202 0.71357,0.53555 z"
                  style="font-weight:bold;font-stretch:ultra-condensed;font-family:Antonio;-inkscape-font-specification:'Antonio Bold Ultra-Condensed';fill:#ff5555"
-                 id="path189430" />
+                 id="path189430"
+                 sodipodi:nodetypes="cccccccc" />
               <path
                  id="path189432"
                  style="font-weight:bold;font-stretch:ultra-condensed;font-family:Antonio;-inkscape-font-specification:'Antonio Bold Ultra-Condensed';fill:#ff5555;stroke-width:5.74185"
@@ -479,5 +530,23 @@
        cx="-311.78995"
        cy="90.810272"
        r="24.086618" />
+    <rect
+       style="fill:url(#linearGradient4243);stroke-width:20.922;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       id="rect1345"
+       width="165.34248"
+       height="165.34248"
+       x="263.32434"
+       y="114.13416"
+       ry="0" />
+    <g
+       aria-label="R"
+       id="text2404"
+       style="font-size:113.904px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;text-anchor:middle;fill:url(#linearGradient4469);stroke-width:2.8476">
+      <path
+         d="m 347.30663,199.00745 h -6.03691 l 0,68.69749 h 7.40375 v 2.16418 h -37.01879 v -2.16418 h 7.40376 l 0,-105.9441 h -7.40376 v -2.16417 h 34.399 c 9.87168,0 16.85779,0.53155 20.95834,1.59465 4.17648,0.98717 7.10002,2.20215 8.77061,3.64493 3.64493,2.96151 5.46739,7.66954 5.46739,14.1241 0,6.45456 -1.59466,11.08666 -4.78397,13.89629 -3.18931,2.73369 -8.04922,4.36632 -14.57971,4.89787 v 0.34171 c 6.15081,0.83529 10.4412,2.65776 12.87115,5.46739 2.42995,2.80963 3.64493,7.51767 3.64493,14.1241 v 6.03691 c 0,3.94867 0.18984,6.60643 0.56952,7.97328 0.45561,1.36685 1.36684,2.05027 2.73369,2.05027 1.36685,0 2.42996,-0.60749 3.18932,-1.82246 0.83529,-1.29091 1.59465,-3.94867 2.27808,-7.97328 l 1.93636,0.22781 c -0.83529,6.45456 -2.31604,10.78291 -4.44225,12.98505 -2.05027,2.20215 -6.18879,3.30322 -12.41554,3.30322 -6.22675,0 -10.66901,-1.44278 -13.32677,-4.32835 -2.58182,-2.96151 -3.87273,-8.46687 -3.87273,-16.51608 v -8.315 c 0,-4.25241 -0.56952,-7.36579 -1.70856,-9.34012 -1.06311,-1.97434 -3.07541,-2.96151 -6.03691,-2.96151 z m -6.03691,-37.24661 v 35.08244 h 3.64492 c 4.32835,0 7.51767,-1.32888 9.56794,-3.98664 2.12621,-2.65776 3.18931,-6.98611 3.18931,-12.98506 v -3.30322 c 0,-5.99894 -1.02514,-9.94761 -3.07541,-11.84601 -1.97433,-1.97434 -5.16364,-2.96151 -9.56793,-2.96151 z"
+         style="font-family:'Abril Fatface';-inkscape-font-specification:'Abril Fatface'"
+         id="path4650"
+         sodipodi:nodetypes="sccccccccccsccscccssscsccccscsscsccscsscsc" />
+    </g>
   </g>
 </svg>
