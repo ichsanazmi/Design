@@ -24,24 +24,56 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.22182239"
-     inkscape:cx="2328.4395"
-     inkscape:cy="800.18974"
-     inkscape:current-layer="layer1"
-     showguides="false"
+     inkscape:zoom="0.44364478"
+     inkscape:cx="3527.597"
+     inkscape:cy="722.42482"
+     inkscape:current-layer="g108167"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false">
     <sodipodi:guide
-       position="135.79006,234.58718"
-       orientation="0,-1"
-       id="guide19536" />
-    <sodipodi:guide
-       position="189.76871,-51.331025"
-       orientation="0,-1"
-       id="guide19538" />
+       position="554.12464,-217.48409"
+       orientation="-0.70710678,-0.70710678"
+       id="guide214828" />
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient181669">
+      <stop
+         style="stop-color:#474747;stop-opacity:1;"
+         offset="0"
+         id="stop181665" />
+      <stop
+         style="stop-color:#696969;stop-opacity:1"
+         offset="1"
+         id="stop181667" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient129961">
+      <stop
+         style="stop-color:#ffc16b;stop-opacity:1;"
+         offset="0"
+         id="stop129957" />
+      <stop
+         style="stop-color:#ffb043;stop-opacity:1"
+         offset="1"
+         id="stop129959" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient121846">
+      <stop
+         style="stop-color:#565656;stop-opacity:1"
+         offset="0"
+         id="stop121842" />
+      <stop
+         style="stop-color:#6d6d6d;stop-opacity:0"
+         offset="1"
+         id="stop121844" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient116181">
@@ -402,6 +434,130 @@
          offset="1"
          id="stop333285" />
     </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1367-0-9-1-0-9-8-3-0-9-36-8-3-9-6-7-8-1-9-1">
+      <rect
+         ry="64.946495"
+         y="376.11179"
+         x="138.44562"
+         height="129.89299"
+         width="129.89299"
+         id="rect1369-9-7-7-8-4-7-4-6-9-7-7-8-2-2-6-6-1-6-9"
+         style="opacity:1;fill:#ff3d00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.327;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient121846"
+       id="linearGradient121848"
+       x1="368.60922"
+       y1="246.93068"
+       x2="414.89261"
+       y2="267.61734"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter122990"
+       x="-0.0028035606"
+       y="-0.0026199301"
+       width="1.0056071"
+       height="1.0052399">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.41093273"
+         id="feGaussianBlur122992" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient121846"
+       id="linearGradient123532"
+       gradientUnits="userSpaceOnUse"
+       x1="368.60922"
+       y1="246.93068"
+       x2="414.89261"
+       y2="267.61734" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter123554"
+       x="-0.0085143116"
+       y="-0.0079566326"
+       width="1.0170286"
+       height="1.0159133">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2479878"
+         id="feGaussianBlur123552" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter123750"
+       x="-0.5759978"
+       y="-0.5759978"
+       width="2.1519956"
+       height="2.1519956">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="39.005698"
+         id="feGaussianBlur123752" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient181669"
+       id="linearGradient181671"
+       x1="317.87256"
+       y1="291.60559"
+       x2="444.8291"
+       y2="291.60559"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter187718"
+       x="-0.064154478"
+       y="-0.31743656"
+       width="1.128309"
+       height="1.6348731">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.6079244"
+         id="feGaussianBlur187720" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient129961"
+       id="linearGradient220989"
+       gradientUnits="userSpaceOnUse"
+       x1="350.62994"
+       y1="208.75987"
+       x2="359.76187"
+       y2="224.57683" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath261671">
+      <rect
+         style="fill:#353535;fill-opacity:1;stroke:none;stroke-width:1.75087;stroke-linecap:round;stroke-linejoin:round"
+         id="rect261673"
+         width="285.75"
+         height="285.75"
+         x="198.80829"
+         y="74.114059" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter264238"
+       x="-0.35383562"
+       y="-0.87350688"
+       width="1.7076712"
+       height="2.7470138">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="15.598675"
+         id="feGaussianBlur264240" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -421,67 +577,67 @@
        style="font-weight:800;font-size:16px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;shape-inside:url(#rect2102)"><tspan
          x="-507.16211"
          y="148.36414"
-         id="tspan373280">TA'AWWUN RAMADHAN MUBAROK 1443 H
+         id="tspan265536">TA'AWWUN RAMADHAN MUBAROK 1443 H
 </tspan><tspan
          x="-507.16211"
          y="165.16414"
-         id="tspan373282">
+         id="tspan265538">
 </tspan><tspan
          x="-507.16211"
          y="181.96415"
-         id="tspan373284">Masjid Al-Istiqlal Tambun
+         id="tspan265540">Masjid Al-Istiqlal Tambun
 </tspan><tspan
          x="-507.16211"
          y="198.76415"
-         id="tspan373286">
+         id="tspan265542">
 </tspan><tspan
          x="-507.16211"
          y="215.56415"
-         id="tspan373288">KEGIATAN
+         id="tspan265544">KEGIATAN
 </tspan><tspan
          x="-507.16211"
          y="232.36416"
-         id="tspan373290">1. Ifthor Ramadhan
+         id="tspan265546">1. Ifthor Ramadhan
 </tspan><tspan
          x="-507.16211"
          y="249.16416"
-         id="tspan373292">2. Sholat Tarawih
+         id="tspan265548">2. Sholat Tarawih
 </tspan><tspan
          x="-507.16211"
          y="265.96416"
-         id="tspan373294">3. Kajian Ramadhan
+         id="tspan265550">3. Kajian Ramadhan
 </tspan><tspan
          x="-507.16211"
          y="282.76416"
-         id="tspan373296">4. Santun Yatim, Janda, Lansia &amp; Du'afa
+         id="tspan265552">4. Santun Yatim, Janda, Lansia &amp; Du'afa
 </tspan><tspan
          x="-507.16211"
          y="299.56415"
-         id="tspan373298">5. Pembelian Air Mineral &amp; Kurma
+         id="tspan265554">5. Pembelian Air Mineral &amp; Kurma
 </tspan><tspan
          x="-507.16211"
          y="316.36414"
-         id="tspan373300">6. I'tikaf Ramadhan
+         id="tspan265556">6. I'tikaf Ramadhan
 </tspan><tspan
          x="-507.16211"
          y="333.16413"
-         id="tspan373302">7. Penerimaan &amp; Penyaluran Zakat, Infaq &amp; Shodaqoh
+         id="tspan265558">7. Penerimaan &amp; Penyaluran Zakat, Infaq &amp; Shodaqoh
 </tspan><tspan
          x="-507.16211"
          y="349.96412"
-         id="tspan373304">8. Sholat 'iedul Fithri
+         id="tspan265560">8. Sholat 'iedul Fithri
 </tspan><tspan
          x="-507.16211"
          y="366.7641"
-         id="tspan373306">9. Dll
+         id="tspan265562">9. Dll
 </tspan><tspan
          x="-507.16211"
          y="383.56409"
-         id="tspan373308">
+         id="tspan265564">
 </tspan><tspan
          x="-507.16211"
          y="400.36408"
-         id="tspan373310">Hamba Allah Rp. 1.000.000,- kirim ke &quot;no Ustadz Munzir&quot;</tspan></text>
+         id="tspan265566">Hamba Allah Rp. 1.000.000,- kirim ke &quot;no Ustadz Munzir&quot;</tspan></text>
     <g
        id="g15252"
        clip-path="url(#clipPath15256)"
@@ -589,21 +745,21 @@
            transform="matrix(2.4600644,0,0,2.4600644,-814.99419,-338.88614)"><tspan
              x="369.04178"
              y="174.2401"
-             id="tspan373314"><tspan
+             id="tspan265570"><tspan
                style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
-               id="tspan373312">Ta'awun
+               id="tspan265568">Ta'awun
 </tspan></tspan><tspan
              x="369.04178"
              y="181.86591"
-             id="tspan373318"><tspan
+             id="tspan265574"><tspan
                style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
-               id="tspan373316">Ramadhan
+               id="tspan265572">Ramadhan
 </tspan></tspan><tspan
              x="369.04178"
              y="189.49172"
-             id="tspan373322"><tspan
+             id="tspan265578"><tspan
                style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
-               id="tspan373320">Mubarok</tspan></tspan></text>
+               id="tspan265576">Mubarok</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:800;font-size:9.94624px;line-height:0.95;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:98.2029;fill:#759f5a;fill-opacity:1;stroke-width:0.139022"
@@ -613,9 +769,9 @@
            transform="matrix(1.7372118,-0.11724128,0,1.7372118,-550.12435,-114.53276)"><tspan
              x="368.99704"
              y="174.2401"
-             id="tspan373326"><tspan
+             id="tspan265582"><tspan
                style="font-weight:bold;font-family:Amiri;-inkscape-font-specification:'Amiri Bold'"
-               id="tspan373324">1443 H</tspan></tspan></text>
+               id="tspan265580">1443 H</tspan></tspan></text>
       </g>
       <rect
          style="opacity:1;fill:url(#linearGradient115572);fill-opacity:1;stroke:none;stroke-width:0.782;stroke-linecap:round;stroke-linejoin:round"
@@ -677,35 +833,35 @@
          transform="matrix(0.91357332,0,0,0.91357332,-58.350671,16.958322)"><tspan
            x="-685.45215"
            y="289.51178"
-           id="tspan373330"><tspan
+           id="tspan265586"><tspan
              style="font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373328">Bank Syari'ah Indonesia (451)
+             id="tspan265584">Bank Syari'ah Indonesia (451)
 </tspan></tspan><tspan
            x="-685.45215"
            y="295.42072"
-           id="tspan373334"><tspan
+           id="tspan265590"><tspan
              style="font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373332">Cabang Tambun 
+             id="tspan265588">Cabang Tambun 
 </tspan></tspan><tspan
            x="-685.45215"
            y="302.69045"
-           id="tspan373346"><tspan
+           id="tspan265602"><tspan
              style="font-weight:800;font-size:6.24904px;font-family:Assistant;-inkscape-font-specification:'Assistant Ultra-Bold'"
-             id="tspan373336">No.</tspan><tspan
+             id="tspan265592">No.</tspan><tspan
              style="font-weight:800;font-size:6.24904px;font-family:Assistant;-inkscape-font-specification:'Assistant Ultra-Bold'"
-             id="tspan373338"> 8525706280</tspan><tspan
+             id="tspan265594"> 8525706280</tspan><tspan
              style="font-weight:800;font-size:6.24904px;font-family:Assistant;-inkscape-font-specification:'Assistant Ultra-Bold'"
-             id="tspan373340"> an. </tspan><tspan
+             id="tspan265596"> an. </tspan><tspan
              style="font-weight:800;font-size:6.24904px;font-family:Assistant;-inkscape-font-specification:'Assistant Ultra-Bold'"
-             id="tspan373342">Al-Istiqlal </tspan><tspan
+             id="tspan265598">Al-Istiqlal </tspan><tspan
              style="font-size:6.07678px;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373344">
+             id="tspan265600">
 </tspan></tspan><tspan
            x="-685.45215"
            y="309.14097"
-           id="tspan373350"><tspan
+           id="tspan265606"><tspan
              style="font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373348">Tambahkan kode transfer 009</tspan></tspan></text>
+             id="tspan265604">Tambahkan kode transfer 009</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -718,20 +874,18 @@
        inkscape:export-ydpi="94"><tspan
          x="-770.47321"
          y="260.21097"
-         id="tspan373354"><tspan
-           style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-           id="tspan373352">Donasi Dapat</tspan><tspan
-           y="260.21097"
-           id="tspan373356"> </tspan></tspan><tspan
+         id="tspan265610"><tspan
+   style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+   id="tspan265608">Donasi Dapat</tspan><tspan
+   y="260.21097"
+   id="tspan265612"> </tspan></tspan><tspan
          x="-770.47321"
          y="268.14407"
-         id="tspan373362"><tspan
-           style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-           id="tspan373358">Disalurkan Melalui :</tspan><tspan
-           style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-           id="tspan373360"></tspan><tspan
-           y="268.14407"
-           id="tspan373364"> </tspan></tspan></text>
+         id="tspan265616"><tspan
+   style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+   id="tspan265614">Disalurkan Melalui :</tspan><tspan
+   y="268.14407"
+   id="tspan265618"> </tspan></tspan></text>
     <g
        id="g9649"
        transform="matrix(0.9874185,0,0,0.9874185,111.27791,-1.652438)"
@@ -745,9 +899,9 @@
          transform="matrix(1.2177329,0,0,1.2177329,-374.45565,121.4547)"><tspan
            x="368.99704"
            y="174.2401"
-           id="tspan373368"><tspan
+           id="tspan265622"><tspan
              style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-             id="tspan373366">Konfirmasi :</tspan></tspan></text>
+             id="tspan265620">Konfirmasi :</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:800;font-size:9.94624px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:280.057;fill:#202121;fill-opacity:1;stroke-width:0.271524"
@@ -757,17 +911,17 @@
          transform="matrix(0.66415703,0,0,0.66415703,-164.0531,228.50487)"><tspan
            x="368.99704"
            y="174.2401"
-           id="tspan373374"><tspan
+           id="tspan265628"><tspan
              style="font-weight:bold;font-family:Assistant;-inkscape-font-specification:'Assistant Bold'"
-             id="tspan373370">0812-9895-1014</tspan><tspan
+             id="tspan265624">0812-9895-1014</tspan><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373372">
+             id="tspan265626">
 </tspan></tspan><tspan
            x="368.99704"
            y="185.82169"
-           id="tspan373378"><tspan
+           id="tspan265632"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373376">Admin</tspan></tspan></text>
+             id="tspan265630">Admin</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:800;font-size:9.94624px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:280.057;fill:#202121;fill-opacity:1;stroke-width:0.271524"
@@ -777,17 +931,17 @@
          transform="matrix(0.66415703,0,0,0.66415703,-164.0531,247.47511)"><tspan
            x="368.99704"
            y="174.2401"
-           id="tspan373384"><tspan
+           id="tspan265638"><tspan
              style="font-weight:bold;font-family:Assistant;-inkscape-font-specification:'Assistant Bold'"
-             id="tspan373380">0857-7955-1858</tspan><tspan
+             id="tspan265634">0857-7955-1858</tspan><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373382">
+             id="tspan265636">
 </tspan></tspan><tspan
            x="368.99704"
            y="185.82169"
-           id="tspan373388"><tspan
+           id="tspan265642"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373386">Ustadz M. Abdurrahman Munzir</tspan></tspan></text>
+             id="tspan265640">Ustadz M. Abdurrahman Munzir</tspan></tspan></text>
     </g>
     <g
        id="g254715"
@@ -1016,7 +1170,7 @@
                transform="matrix(1.3470984,0,0,1.3470984,-149.57261,59.675205)"><tspan
                  x="401.98148"
                  y="115.5442"
-                 id="tspan373390">1443H/2022</tspan></text>
+                 id="tspan265644">1443H/2022</tspan></text>
           </g>
           <rect
              style="opacity:1;fill:#abad99;fill-opacity:1;stroke:none;stroke-width:1.02947;stroke-linecap:round;stroke-linejoin:round"
@@ -1041,16 +1195,16 @@
            transform="matrix(2.2785872,0,0,2.2785872,-536.76973,-355.58923)"><tspan
              x="335.67981"
              y="215.0712"
-             id="tspan373396"><tspan
+             id="tspan265650"><tspan
                style="font-weight:normal;font-size:6.93986px;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display'"
-               id="tspan373392">Kegiatan</tspan><tspan
+               id="tspan265646">Kegiatan</tspan><tspan
                style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
-               id="tspan373394"> </tspan></tspan><tspan
+               id="tspan265648"> </tspan></tspan><tspan
              x="335.67981"
              y="224.24377"
-             id="tspan373400"><tspan
+             id="tspan265654"><tspan
                style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
-               id="tspan373398">Ramadhan</tspan></tspan></text>
+               id="tspan265652">Ramadhan</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:800;font-size:10.5833px;line-height:0.85;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:152.997;fill:#5e4e31;fill-opacity:1;stroke-width:0.264583"
@@ -1060,9 +1214,9 @@
            transform="matrix(0.8964825,0,0,0.8964825,-72.337423,-26.777196)"><tspan
              x="335.67981"
              y="215.0712"
-             id="tspan373404"><tspan
+             id="tspan265658"><tspan
                style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
-               id="tspan373402">Masjid Al-Istiqlal Tambun</tspan></tspan></text>
+               id="tspan265656">Masjid Al-Istiqlal Tambun</tspan></tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -1073,67 +1227,67 @@
          transform="matrix(0.70956534,0,0,0.70956534,-10.166159,47.216708)"><tspan
            x="335.67981"
            y="215.0712"
-           id="tspan373412"><tspan
+           id="tspan265666"><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373406">1. Ifthor Selama Bulan </tspan><tspan
+             id="tspan265660">1. Ifthor Selama Bulan </tspan><tspan
              style="line-height:1"
-             id="tspan373408">Ramadhan</tspan><tspan
+             id="tspan265662">Ramadhan</tspan><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373410">
+             id="tspan265664">
 </tspan></tspan><tspan
            x="335.67981"
            y="227.24199"
-           id="tspan373416"><tspan
+           id="tspan265670"><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373414">2. Sholat Tarawih Berjamaah
+             id="tspan265668">2. Sholat Tarawih Berjamaah
 </tspan></tspan><tspan
            x="335.67981"
            y="239.41279"
-           id="tspan373420"><tspan
+           id="tspan265674"><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373418">3. Kajian Ramadhan
+             id="tspan265672">3. Kajian Ramadhan
 </tspan></tspan><tspan
            x="335.67981"
            y="251.58358"
-           id="tspan373424"><tspan
+           id="tspan265678"><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373422">4. Santun Yatim, Janda, Lansia
+             id="tspan265676">4. Santun Yatim, Janda, Lansia
 </tspan></tspan><tspan
            x="335.67981"
            y="263.75437"
-           id="tspan373428"><tspan
+           id="tspan265682"><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373426">    &amp; Du'afa
+             id="tspan265680">    &amp; Du'afa
 </tspan></tspan><tspan
            x="335.67981"
            y="275.92516"
-           id="tspan373432"><tspan
+           id="tspan265686"><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373430">5. I'tikaf 10 Hari Terakhir Ramadhan
+             id="tspan265684">5. I'tikaf 10 Hari Terakhir Ramadhan
 </tspan></tspan><tspan
            x="335.67981"
            y="288.09597"
-           id="tspan373436"><tspan
+           id="tspan265690"><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373434">6. Penerimaan &amp; Penyaluran Zakat,
+             id="tspan265688">6. Penerimaan &amp; Penyaluran Zakat,
 </tspan></tspan><tspan
            x="335.67981"
            y="300.26678"
-           id="tspan373440"><tspan
+           id="tspan265694"><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373438">     Infaq &amp; Shodaqoh
+             id="tspan265692">     Infaq &amp; Shodaqoh
 </tspan></tspan><tspan
            x="335.67981"
            y="312.43758"
-           id="tspan373444"><tspan
+           id="tspan265698"><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373442">7. Sholat 'iedul Fithri
+             id="tspan265696">7. Sholat 'iedul Fithri
 </tspan></tspan><tspan
            x="335.67981"
            y="324.60839"
-           id="tspan373448"><tspan
+           id="tspan265702"><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373446">8. dll..</tspan></tspan></text>
+             id="tspan265700">8. dll..</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:800;font-size:10.5833px;line-height:0;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:176.629;fill:#3f3c34;fill-opacity:1;stroke-width:0.264583"
@@ -1143,11 +1297,11 @@
          transform="matrix(0.83419516,0,0,0.83419516,-52.058286,130.34414)"><tspan
            x="335.67981"
            y="215.0712"
-           id="tspan373454"><tspan
+           id="tspan265708"><tspan
              style="font-weight:normal;font-family:Arsenal;-inkscape-font-specification:Arsenal"
-             id="tspan373450">Contact Person : </tspan><tspan
+             id="tspan265704">Contact Person : </tspan><tspan
              style="font-weight:bold;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:'Arsenal Bold'"
-             id="tspan373452">0812-9895-1014</tspan></tspan></text>
+             id="tspan265706">0812-9895-1014</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:800;font-size:10.5833px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';stroke-width:0.264583"
@@ -1172,9 +1326,9 @@
            transform="matrix(1.9516876,0,0,1.9516876,-279.20452,-141.4804)"><tspan
              x="335.67981"
              y="215.0712"
-             id="tspan373458"><tspan
+             id="tspan265712"><tspan
                style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
-               id="tspan373456">Marhaban</tspan></tspan></text>
+               id="tspan265710">Marhaban</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:800;font-size:10.5833px;line-height:0.85;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:59.7194;fill:#4d4d4d;fill-opacity:1;stroke-width:0.264583"
@@ -1184,9 +1338,9 @@
            transform="matrix(1.9516876,0,0,1.9516876,-278.337,-122.92524)"><tspan
              x="335.67981"
              y="215.0712"
-             id="tspan373462"><tspan
+             id="tspan265716"><tspan
                style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
-               id="tspan373460">Yaa</tspan></tspan></text>
+               id="tspan265714">Yaa</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:800;font-size:10.5833px;line-height:0.85;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:59.7194;fill:#4d4d4d;fill-opacity:1;stroke-width:0.264583"
@@ -1196,9 +1350,9 @@
            transform="matrix(1.9516876,0,0,1.9516876,-279.18387,-103.52666)"><tspan
              x="335.67981"
              y="215.0712"
-             id="tspan373466"><tspan
+             id="tspan265720"><tspan
                style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
-               id="tspan373464">Ramadhan</tspan></tspan></text>
+               id="tspan265718">Ramadhan</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -1226,9 +1380,9 @@
          transform="matrix(1.7967747,0,0,1.7967747,-626.46293,-125.71254)"><tspan
            x="368.99704"
            y="174.2401"
-           id="tspan373470"><tspan
+           id="tspan265724"><tspan
              style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-             id="tspan373468">Kegiatan</tspan></tspan></text>
+             id="tspan265722">Kegiatan</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:800;font-size:9.94624px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:249.531;fill:#202121;fill-opacity:1;stroke-width:0.384039"
@@ -1238,33 +1392,33 @@
          transform="matrix(0.64139915,0,0,0.64139915,-194.88546,87.920047)"><tspan
            x="368.99704"
            y="174.2401"
-           id="tspan373474"><tspan
+           id="tspan265728"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373472">1. Ifthar Ramadhan
+             id="tspan265726">1. Ifthar Ramadhan
 </tspan></tspan><tspan
            x="368.99704"
            y="184.82706"
-           id="tspan373478"><tspan
+           id="tspan265732"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373476">2. Shalat Tarawih
+             id="tspan265730">2. Shalat Tarawih
 </tspan></tspan><tspan
            x="368.99704"
            y="195.41402"
-           id="tspan373482"><tspan
+           id="tspan265736"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373480">3. Kajian Ramadhan
+             id="tspan265734">3. Kajian Ramadhan
 </tspan></tspan><tspan
            x="368.99704"
            y="206.00098"
-           id="tspan373486"><tspan
+           id="tspan265740"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373484">4. Santunan Yatim, Janda,
+             id="tspan265738">4. Santunan Yatim, Janda,
 </tspan></tspan><tspan
            x="368.99704"
            y="216.58794"
-           id="tspan373490"><tspan
+           id="tspan265744"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373488">     Lansia &amp; Dhu'afa
+             id="tspan265742">     Lansia &amp; Dhu'afa
 </tspan></tspan></text>
       <text
          xml:space="preserve"
@@ -1275,39 +1429,39 @@
          transform="matrix(0.64139915,0,0,0.64139915,-194.88546,123.14121)"><tspan
            x="368.99704"
            y="174.2401"
-           id="tspan373494"><tspan
+           id="tspan265748"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373492">5. Pembelian Air Mineral &amp; Kurma
+             id="tspan265746">5. Pembelian Air Mineral &amp; Kurma
 </tspan></tspan><tspan
            x="368.99704"
            y="184.82706"
-           id="tspan373498"><tspan
+           id="tspan265752"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373496">6. I'tikaf Ramadhan
+             id="tspan265750">6. I'tikaf Ramadhan
 </tspan></tspan><tspan
            x="368.99704"
            y="195.41402"
-           id="tspan373502"><tspan
+           id="tspan265756"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373500">7. Penerimaan &amp; Penyaluran Zakat,
+             id="tspan265754">7. Penerimaan &amp; Penyaluran Zakat,
 </tspan></tspan><tspan
            x="368.99704"
            y="206.00098"
-           id="tspan373506"><tspan
+           id="tspan265760"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373504">     Infaq &amp; Shadaqah
+             id="tspan265758">     Infaq &amp; Shadaqah
 </tspan></tspan><tspan
            x="368.99704"
            y="216.58794"
-           id="tspan373510"><tspan
+           id="tspan265764"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373508">8. Shalat 'Iedul Fithri
+             id="tspan265762">8. Shalat 'Iedul Fithri
 </tspan></tspan><tspan
            x="368.99704"
            y="227.1749"
-           id="tspan373514"><tspan
+           id="tspan265768"><tspan
              style="font-weight:normal;font-family:Assistant;-inkscape-font-specification:Assistant"
-             id="tspan373512">9. dll </tspan></tspan></text>
+             id="tspan265766">9. dll </tspan></tspan></text>
     </g>
     <image
        width="118.036"
@@ -1347,29 +1501,858 @@
        transform="matrix(1.3807725,0,0,1.3807725,-599.57262,-17.052692)"><tspan
          x="496.91122"
          y="174.2401"
-         id="tspan373518"><tspan
-           style="font-weight:bold;font-family:'Mini Story';-inkscape-font-specification:'Mini Story Bold'"
-           id="tspan373516">Yuk mari bersama</tspan><tspan
-           y="174.2401"
-           id="tspan373520"> </tspan></tspan><tspan
+         id="tspan265772"><tspan
+   style="font-weight:bold;font-family:'Mini Story';-inkscape-font-specification:'Mini Story Bold'"
+   id="tspan265770">Yuk mari bersama</tspan><tspan
+   y="174.2401"
+   id="tspan265774"> </tspan></tspan><tspan
          x="496.91122"
          y="185.98024"
-         id="tspan373524"><tspan
-           style="font-weight:bold;font-family:'Mini Story';-inkscape-font-specification:'Mini Story Bold'"
-           id="tspan373522">raih pahala lewat</tspan><tspan
-           y="185.98024"
-           id="tspan373526"> </tspan></tspan><tspan
+         id="tspan265778"><tspan
+   style="font-weight:bold;font-family:'Mini Story';-inkscape-font-specification:'Mini Story Bold'"
+   id="tspan265776">raih pahala lewat</tspan><tspan
+   y="185.98024"
+   id="tspan265780"> </tspan></tspan><tspan
          x="496.91122"
          y="197.72038"
-         id="tspan373530"><tspan
-           style="font-weight:bold;font-family:'Mini Story';-inkscape-font-specification:'Mini Story Bold'"
-           id="tspan373528">program-program</tspan><tspan
-           y="197.72038"
-           id="tspan373532"> </tspan></tspan><tspan
+         id="tspan265784"><tspan
+   style="font-weight:bold;font-family:'Mini Story';-inkscape-font-specification:'Mini Story Bold'"
+   id="tspan265782">program-program</tspan><tspan
+   y="197.72038"
+   id="tspan265786"> </tspan></tspan><tspan
          x="496.91122"
          y="209.46052"
-         id="tspan373536"><tspan
+         id="tspan265790"><tspan
            style="font-weight:bold;font-family:'Mini Story';-inkscape-font-specification:'Mini Story Bold'"
-           id="tspan373534">kami.</tspan></tspan></text>
+           id="tspan265788">kami.</tspan></tspan></text>
+    <g
+       id="g108167"
+       transform="translate(502.37346,-21.316424)"
+       inkscape:export-filename="/run/media/ichsan/Share/Document/Design/Istiqlal/DKM/Ramadhan 1443/TaawunItikaf1443.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;fill:#353535;fill-opacity:1;stroke:none;stroke-width:1.75087;stroke-linecap:round;stroke-linejoin:round"
+         id="rect108011"
+         width="285.75"
+         height="285.75"
+         x="198.8083"
+         y="74.114059" />
+      <g
+         id="g108067"
+         clip-path="url(#clipPath73366)">
+        <circle
+           style="opacity:0.10491171;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter123750)"
+           id="path123650"
+           cx="449.87268"
+           cy="110.91533"
+           r="81.262184"
+           transform="matrix(1.5007714,0,0,1.5007714,-232.4189,-94.460354)" />
+        <g
+           id="g122988"
+           transform="rotate(12.306087,298.19714,511.09576)"
+           style="opacity:0.153152;mix-blend-mode:normal;filter:url(#filter122990)">
+          <path
+             style="fill:url(#linearGradient121848);fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             d="m 303.32993,380.19011 c 0,0 74.17308,-33.12922 46.65011,-80.80042 -27.52296,-47.67117 13.50349,-61.50072 46.50947,-80.55672 33.00597,-19.05602 15.29133,-43.73443 38.85398,-67.2971 23.56268,-23.56267 67.24039,-27.69083 87.43982,-59.528617 20.19943,-31.837791 93.78185,228.694227 93.78185,228.694227 0,0 -169.43946,144.43755 -178.71099,140.33106 -9.2715,-4.10652 -134.52424,-80.84243 -134.52424,-80.84243 z"
+             id="path121574" />
+          <path
+             style="fill:#353535;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             d="m 341.87541,375.56156 c 0,0 74.17308,-33.12922 46.65011,-80.80042 -27.52296,-47.67117 13.50349,-61.50072 46.50947,-80.55672 33.00597,-19.05602 15.29133,-43.73443 38.85398,-67.2971 23.56268,-23.56267 67.24039,-27.69083 87.43982,-59.528614 20.19943,-31.837791 93.78185,228.694224 93.78185,228.694224 0,0 -169.43946,144.43755 -178.71099,140.33106 -9.2715,-4.10652 -134.52424,-80.84243 -134.52424,-80.84243 z"
+             id="path122122" />
+        </g>
+        <g
+           id="g127577"
+           transform="matrix(-0.50578264,0,0,-0.50578264,577.78142,403.64211)"
+           style="mix-blend-mode:normal;fill:#ffffff">
+          <g
+             id="g127531"
+             transform="matrix(1.0327297,0,0,1.0327297,-52.526568,-176.02368)"
+             style="fill:#ffffff">
+            <g
+               id="g127519"
+               style="fill:#ffffff">
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127511"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.0496091;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127513"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="6.5693955" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127515"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127517"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="13.242314" />
+            </g>
+            <g
+               id="g127529"
+               transform="translate(45.923725)"
+               style="fill:#ffffff">
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127521"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127523"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127525"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.0648808;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127527"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="8.5917158" />
+            </g>
+          </g>
+          <g
+             id="g127553"
+             transform="matrix(1.0327297,0,0,1.0327297,-76.485349,-126.88394)"
+             style="fill:#ffffff;fill-opacity:1">
+            <g
+               id="g127541"
+               style="fill:#ffffff;fill-opacity:1">
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127533"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.0496091;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127535"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="6.5693955" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127537"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127539"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="13.242314" />
+            </g>
+            <g
+               id="g127551"
+               transform="translate(45.923725)"
+               style="fill:#ffffff;fill-opacity:1">
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127543"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127545"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127547"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.0648808;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127549"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="8.5917158" />
+            </g>
+          </g>
+          <g
+             id="g127575"
+             transform="matrix(1.0327297,0,0,1.0327297,-100.14776,-78.787324)"
+             style="opacity:1;fill:#ffffff;fill-opacity:1">
+            <g
+               id="g127563"
+               style="fill:#ffffff;fill-opacity:1">
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127555"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.0496091;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127557"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="6.5693955" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127559"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127561"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="13.242314" />
+            </g>
+            <g
+               id="g127573"
+               transform="translate(45.923725)"
+               style="fill:#ffffff;fill-opacity:1">
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127565"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127567"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127569"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.0648808;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle127571"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="8.5917158" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g185555"
+           transform="matrix(0.79887531,0,0,0.79887531,112.76018,23.407681)">
+          <rect
+             style="opacity:0.344618;mix-blend-mode:normal;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.571192;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter187718)"
+             id="rect187685"
+             width="172.38109"
+             height="34.838516"
+             x="250.70865"
+             y="271.60822"
+             ry="10.651296"
+             transform="matrix(0.95721711,0,0,0.95721711,14.413522,14.214496)" />
+          <g
+             id="g187716">
+            <rect
+               style="fill:url(#linearGradient181671);fill-opacity:1;stroke:none;stroke-width:0.571192;stroke-linecap:round;stroke-linejoin:round"
+               id="rect108063"
+               width="172.38109"
+               height="34.838516"
+               x="249.31911"
+               y="267.06598"
+               ry="10.651296" />
+            <rect
+               style="opacity:0.545549;fill:#d6d6d6;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+               id="rect171353"
+               width="155.80397"
+               height="9.7377481"
+               x="258.58188"
+               y="274.02417"
+               ry="4.8688741" />
+            <text
+               xml:space="preserve"
+               style="font-weight:800;font-size:10.5833px;line-height:0;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;text-anchor:start;white-space:pre;inline-size:325.716;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+               x="400.27478"
+               y="215.0712"
+               id="text149814-4"
+               transform="matrix(0.63852771,0,0,0.63852771,5.789211,156.26198)"><tspan
+                 x="400.27478"
+                 y="215.0712"
+                 id="tspan265794"><tspan
+                   style="font-weight:normal;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:Arsenal"
+                   id="tspan265792">Terkumpul :  -</tspan></tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-weight:800;font-size:10.5833px;line-height:0;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:325.716;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+               x="400.27478"
+               y="215.0712"
+               id="text173630"
+               transform="matrix(0.63852771,0,0,0.63852771,28.770484,156.26198)"><tspan
+                 x="400.27478"
+                 y="215.0712"
+                 id="tspan265798"><tspan
+                   style="font-weight:normal;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:Arsenal;text-align:center;text-anchor:middle"
+                   id="tspan265796">Update : 4/4/2022</tspan></tspan></text>
+            <rect
+               style="fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+               id="rect179524"
+               width="5.0747476"
+               height="9.7377625"
+               x="258.58188"
+               y="274.02417"
+               ry="2.1990337" />
+          </g>
+        </g>
+        <g
+           id="g185561"
+           transform="matrix(0.85666437,0,0,0.85666437,100.958,4.4559816)">
+          <text
+             xml:space="preserve"
+             style="font-weight:800;font-size:10.5833px;line-height:0.95;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;text-anchor:start;white-space:pre;inline-size:325.716;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="438.82965"
+             y="215.0712"
+             id="text149814"
+             transform="matrix(1.0226224,0,0,1.0226224,-296.43403,58.566593)"><tspan
+               x="438.82965"
+               y="215.0712"
+               id="tspan265804"><tspan
+                 style="font-weight:bold;font-size:8.05388px;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
+                 id="tspan265800">Kebutuhan : </tspan><tspan
+                 style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
+                 id="tspan265802">
+</tspan></tspan><tspan
+               x="438.82965"
+               y="225.30211"
+               id="tspan265808"><tspan
+                 style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
+                 id="tspan265806">Rp. 20.000.000</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:800;font-size:10.5833px;line-height:0;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;text-anchor:start;white-space:pre;inline-size:138.588;fill:#d6d6d6;fill-opacity:1;stroke-width:0.264583"
+             x="400.27478"
+             y="215.0712"
+             id="text153912"
+             transform="matrix(0.53002933,0,0,0.53002933,-59.048288,183.31234)"><tspan
+               x="400.27478"
+               y="215.0712"
+               id="tspan265812"><tspan
+                 style="font-style:italic;font-weight:normal;line-height:1.15;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Italic'"
+                 id="tspan265810">(Makan Malam dan Sahur </tspan></tspan><tspan
+               x="400.27478"
+               y="227.24198"
+               id="tspan265816"><tspan
+                 style="font-style:italic;font-weight:normal;line-height:1.15;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Italic'"
+                 id="tspan265814">maksimal 50 Orang)</tspan></tspan></text>
+        </g>
+        <g
+           id="g123530"
+           transform="rotate(-167.69391,309.24266,199.95429)"
+           style="opacity:0.189313;mix-blend-mode:normal;filter:url(#filter123554)">
+          <path
+             style="fill:url(#linearGradient123532);fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             d="m 303.32993,380.19011 c 0,0 74.17308,-33.12922 46.65011,-80.80042 -27.52296,-47.67117 13.50349,-61.50072 46.50947,-80.55672 33.00597,-19.05602 15.29133,-43.73443 38.85398,-67.2971 23.56268,-23.56267 67.24039,-27.69083 87.43982,-59.528617 20.19943,-31.837791 93.78185,228.694227 93.78185,228.694227 0,0 -169.43946,144.43755 -178.71099,140.33106 -9.2715,-4.10652 -134.52424,-80.84243 -134.52424,-80.84243 z"
+             id="path123526" />
+          <path
+             style="fill:#353535;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             d="m 341.87541,375.56156 c 0,0 74.17308,-33.12922 46.65011,-80.80042 -27.52296,-47.67117 13.50349,-61.50072 46.50947,-80.55672 33.00597,-19.05602 15.29133,-43.73443 38.85398,-67.2971 23.56268,-23.56267 67.24039,-27.69083 87.43982,-59.528614 20.19943,-31.837791 93.78185,228.694224 93.78185,228.694224 0,0 -169.43946,144.43755 -178.71099,140.33106 -9.2715,-4.10652 -134.52424,-80.84243 -134.52424,-80.84243 z"
+             id="path123528" />
+        </g>
+        <g
+           id="g127509"
+           transform="matrix(0.61217346,0,0,0.61217346,78.89404,25.140755)"
+           style="fill:#ffc16b;fill-opacity:1">
+          <g
+             id="g124082"
+             transform="matrix(1.0327297,0,0,1.0327297,-52.526568,-176.02368)"
+             style="fill:#ffc16b;fill-opacity:1">
+            <g
+               id="g123980"
+               style="fill:#ffc16b;fill-opacity:1">
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="path123834"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.0496091;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle123970"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="6.5693955" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle123972"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle123974"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="13.242314" />
+            </g>
+            <g
+               id="g123990"
+               transform="translate(45.923725)"
+               style="fill:#ffc16b;fill-opacity:1">
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle123982"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle123984"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle123986"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.0648808;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle123988"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="8.5917158" />
+            </g>
+          </g>
+          <g
+             id="g124256"
+             transform="matrix(1.0327297,0,0,1.0327297,-76.485349,-126.88394)"
+             style="fill:#ffc16b;fill-opacity:1">
+            <g
+               id="g124244"
+               style="fill:#ffc16b;fill-opacity:1">
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124236"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.0496091;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124238"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="6.5693955" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124240"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124242"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="13.242314" />
+            </g>
+            <g
+               id="g124254"
+               transform="translate(45.923725)"
+               style="fill:#ffc16b;fill-opacity:1">
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124246"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124248"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124250"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.0648808;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124252"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="8.5917158" />
+            </g>
+          </g>
+          <g
+             id="g124278"
+             transform="matrix(1.0327297,0,0,1.0327297,-100.14776,-78.787324)"
+             style="opacity:1;fill:#ffc16b;fill-opacity:1">
+            <g
+               id="g124266"
+               style="fill:#ffc16b;fill-opacity:1">
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124258"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.0496091;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124260"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="6.5693955" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124262"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124264"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="13.242314" />
+            </g>
+            <g
+               id="g124276"
+               transform="translate(45.923725)"
+               style="fill:#ffc16b;fill-opacity:1">
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124268"
+                 cx="238.45528"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124270"
+                 cx="261.6749"
+                 cy="251.53529"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffc16b;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124272"
+                 cx="238.45528"
+                 cy="274.84848"
+                 r="13.242314" />
+              <circle
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.0648808;stroke-linecap:round;stroke-linejoin:round"
+                 id="circle124274"
+                 cx="261.6749"
+                 cy="274.84848"
+                 r="8.5917158" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g261669"
+         clip-path="url(#clipPath261671)"
+         style="mix-blend-mode:lighten">
+        <image
+           width="302.39639"
+           height="406.80002"
+           preserveAspectRatio="none"
+           xlink:href="IMG_20220224_181338-01.jpeg"
+           id="image78653-5"
+           x="203.60199"
+           y="-36.841328"
+           style="display:inline;mix-blend-mode:overlay;stroke-width:5.97157" />
+      </g>
+      <g
+         id="g210645"
+         transform="matrix(0.95287083,0,0,0.95287083,-5.211015,19.736295)">
+        <g
+           id="g21902-7"
+           transform="matrix(1.5099801,0,0,1.5099799,1398.8212,-112.35456)"
+           style="fill:#ffffff;fill-opacity:1"
+           inkscape:export-xdpi="94"
+           inkscape:export-ydpi="94">
+          <text
+             xml:space="preserve"
+             style="font-size:4.67659px;line-height:1.05;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:149.378;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.142987"
+             x="-726.9707"
+             y="289.51178"
+             id="text21900-8"
+             transform="matrix(0.91357332,0,0,0.91357332,-95.982491,12.749812)"><tspan
+               x="-726.9707"
+               y="289.51178"
+               id="tspan265820"><tspan
+                 style="font-family:Assistant;-inkscape-font-specification:Assistant"
+                 id="tspan265818">Bank Syari'ah Indonesia (451) 
+</tspan></tspan><tspan
+               x="-726.9707"
+               y="295.55015"
+               id="tspan265826"><tspan
+                 style="font-weight:800;font-size:5.90439px;font-family:Assistant;-inkscape-font-specification:'Assistant Ultra-Bold'"
+                 id="tspan265822">No. 8525706280 an. Al-Istiqlal </tspan><tspan
+                 style="font-size:6.07678px;font-family:Assistant;-inkscape-font-specification:Assistant"
+                 id="tspan265824">
+</tspan></tspan><tspan
+               x="-726.9707"
+               y="300.866"
+               id="tspan265830"><tspan
+                 style="font-family:Assistant;-inkscape-font-specification:Assistant"
+                 id="tspan265828">Tambahkan kode transfer 10</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:6.25831px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:73.8771;opacity:1;fill:#ffbc5f;fill-opacity:1;stroke-width:0.322825"
+           x="-830.69055"
+           y="260.21097"
+           id="text21910-4"
+           transform="matrix(1.1823248,0,0,1.1823246,1233.1703,-21.411791)"
+           inkscape:export-xdpi="94"
+           inkscape:export-ydpi="94"><tspan
+             x="-830.69055"
+             y="260.21097"
+             id="tspan265834"><tspan
+   style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+   id="tspan265832">Donasi Dapat</tspan> </tspan><tspan
+             x="-830.69055"
+             y="268.14407"
+             id="tspan265838"><tspan
+   style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+   id="tspan265836">Disalurkan Melalui :</tspan> </tspan></text>
+      </g>
+      <g
+         id="g108039"
+         transform="matrix(0.5127217,0,0,0.5127217,657.91008,-151.31266)"
+         inkscape:export-filename="D:\Ichsan\design\Istiqlal\DKM\Serba-Serbi Video Kajian\TulisanMasjid.png"
+         inkscape:export-xdpi="228.825"
+         inkscape:export-ydpi="228.825"
+         style="fill:#ffffff">
+        <g
+           id="g108019"
+           clip-path="url(#clipPath1367-0-9-1-0-9-8-3-0-9-36-8-3-9-6-7-8-1-9-1)"
+           transform="matrix(0.25003641,0,0,0.25003641,-742.05043,370.58447)"
+           style="display:inline;fill:#ffffff">
+          <image
+             xlink:href="../../WhatsApp%20Image%202018-07-19%20at%2019.57.40.jpeg"
+             width="168.0304"
+             height="168.0304"
+             preserveAspectRatio="none"
+             id="image108017"
+             x="119.74146"
+             y="360.51761"
+             style="fill:#ffffff" />
+        </g>
+        <path
+           style="color:#000000;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+           d="m -664.20117,464.61803 a 0.44780949,0.44780949 0 0 0 -0.44727,0.44726 v 31.59961 a 0.44780949,0.44780949 0 0 0 0.44727,0.44727 0.44780949,0.44780949 0 0 0 0.44726,-0.44727 v -31.59961 a 0.44780949,0.44780949 0 0 0 -0.44726,-0.44726 z"
+           id="path108021" />
+        <g
+           id="g108037"
+           transform="translate(-36.522258,-57.512648)"
+           style="fill:#ffffff;fill-opacity:1">
+          <g
+             id="g108031"
+             transform="matrix(2.6439603,0,0,2.667828,-112.72401,-17049.146)"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:1.04603">
+            <path
+               inkscape:connector-curvature="0"
+               id="path108023"
+               d="m -188.99309,6592.63 c -0.0992,0 -0.19822,0 -0.26528,0.014 -0.4126,0.056 -0.77699,0.22 -1.09073,0.4892 -0.33793,0.2896 -0.58232,0.7009 -0.67355,1.1329 -0.0585,0.2754 -0.0599,0.5909 0,0.8648 0.0636,0.3084 0.21272,0.6248 0.41681,0.8804 0.0687,0.087 0.22581,0.2431 0.31208,0.3121 0.25026,0.1997 0.54391,0.3417 0.8527,0.4122 l -2.6e-4,-2e-4 c 0.10432,0.025 0.14325,0.027 0.14999,0.011 0.012,-0.022 0.012,-1.4224 0,-1.4389 0,0 -0.012,0 -0.012,-0.011 h -3.8e-4 v 0 c -0.0165,-0.011 -0.0687,-0.011 -0.25585,-0.011 h -0.25751 V 6595 v -0.2853 h 0.25763 c 0.23868,0 0.25777,0 0.26489,-0.014 0,-0.011 0.012,-0.1498 0.012,-0.3231 0,-0.2819 0.012,-0.3145 0.0203,-0.373 0.0523,-0.1972 0.13711,-0.3281 0.27419,-0.4191 0.0763,-0.051 0.1389,-0.078 0.23333,-0.1015 0.0624,-0.016 0.0879,-0.018 0.26744,-0.017 0.1392,5e-4 0.2285,0 0.30037,0.014 0.0573,0.011 0.10568,0.016 0.10822,0.018 0,0 0.012,0.1106 0.012,0.2408 v 0.2365 h -0.16858 c -0.1133,0 -0.1813,0.011 -0.20814,0.016 -0.11705,0.034 -0.19213,0.1106 -0.22164,0.2239 -0.0153,0.061 -0.0179,0.4709 0,0.4863 0.012,0.011 0.0814,0.011 0.28537,0.011 h 0.27596 l -5e-4,0.018 c -1.2e-4,0.011 -0.0191,0.1374 -0.0421,0.2834 l -0.0407,0.2657 h -0.24174 -0.242 v 0.7277 c 0,0.6681 0,0.7276 0.012,0.7329 0.0318,0.013 0.27609,-0.049 0.42418,-0.105 0.1157,-0.044 0.28677,-0.1312 0.39173,-0.1999 0.13442,-0.088 0.23755,-0.1741 0.35688,-0.2967 0.31286,-0.321 0.50562,-0.7151 0.57189,-1.1683 0.0204,-0.1322 0.0204,-0.423 0,-0.5551 -0.0356,-0.2451 -0.0967,-0.4437 -0.2028,-0.6535 -0.31119,-0.6205 -0.89734,-1.0366 -1.59443,-1.1318 -0.0675,-0.011 -0.16654,-0.014 -0.26565,-0.014 z"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.00829465" />
+            <g
+               style="fill:#ffffff;fill-opacity:1;stroke-width:1.04603"
+               transform="matrix(1.1387232,0,0,1.1387232,-118.81329,6282.4033)"
+               id="g108027">
+              <path
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.00820556"
+                 d="m -50.156541,276.20876 c -0.186919,-0.008 -0.31922,-0.0239 -0.433591,-0.0541 -0.383496,-0.10105 -0.653142,-0.37375 -0.750221,-0.75859 -0.04761,-0.18875 -0.05944,-0.41775 -0.05937,-1.15154 3.9e-5,-0.75499 0.01168,-0.97494 0.06226,-1.16884 0.100182,-0.38445 0.373136,-0.65504 0.758906,-0.75236 0.188759,-0.0476 0.417751,-0.0594 1.151555,-0.0594 0.754968,3e-5 0.974934,0.0115 1.168819,0.0623 0.384451,0.10015 0.655059,0.37313 0.752374,0.7589 0.04753,0.18847 0.05937,0.41859 0.05937,1.15548 0,0.75066 -0.01181,0.97121 -0.06226,1.16488 -0.100183,0.38445 -0.373137,0.65507 -0.758907,0.75239 -0.115397,0.0291 -0.236196,0.0429 -0.453399,0.0515 -0.226062,0.009 -1.203287,0.009 -1.435537,-4.3e-4 z m 1.211963,-0.3521 c 0.383244,-0.008 0.487756,-0.0166 0.607315,-0.0511 0.131416,-0.0381 0.208109,-0.0813 0.297452,-0.16773 0.120467,-0.11644 0.184766,-0.25725 0.213181,-0.46658 0.03112,-0.22908 0.03112,-1.63212 0,-1.86121 -0.01946,-0.14356 -0.06355,-0.27407 -0.12206,-0.36127 -0.03601,-0.0537 -0.121186,-0.13961 -0.175069,-0.1766 -0.09324,-0.0642 -0.218867,-0.10772 -0.368725,-0.12801 -0.229076,-0.0312 -1.632124,-0.0312 -1.861199,0 -0.14985,0.0203 -0.275483,0.0639 -0.368734,0.12801 -0.05387,0.0371 -0.139046,0.12287 -0.175059,0.1766 -0.05852,0.0872 -0.10257,0.21771 -0.12206,0.36127 -0.03112,0.22909 -0.03112,1.63213 0,1.86121 0.0203,0.14986 0.06394,0.27548 0.127966,0.36874 0.03702,0.0539 0.12292,0.13904 0.17661,0.17505 0.08911,0.0598 0.218676,0.10296 0.369283,0.12299 0.16129,0.0214 0.823542,0.0303 1.401102,0.0188 z m -0.659546,-0.61631 c -0.416872,-0.0754 -0.746364,-0.40726 -0.819195,-0.82489 -0.01503,-0.0865 -0.01503,-0.26321 0,-0.3497 0.07332,-0.42062 0.404756,-0.75203 0.825382,-0.82538 0.0865,-0.0152 0.263207,-0.0152 0.349704,0 0.420626,0.0733 0.752033,0.40476 0.825381,0.82538 0.01503,0.0865 0.01503,0.26321 0,0.3497 -0.07332,0.42062 -0.404755,0.75202 -0.825381,0.82538 -0.08345,0.0146 -0.274309,0.0144 -0.355891,-4.4e-4 z m 0.334007,-0.36023 c 0.246359,-0.0646 0.421535,-0.23999 0.487133,-0.48782 0.01014,-0.0381 0.0142,-0.082 0.0142,-0.15168 0,-0.0696 -0.0045,-0.11362 -0.0142,-0.15169 -0.06576,-0.24849 -0.239942,-0.42266 -0.488423,-0.48842 -0.07394,-0.0196 -0.229419,-0.0196 -0.303356,0 -0.08276,0.022 -0.14454,0.0493 -0.213082,0.0949 -0.137011,0.0909 -0.230634,0.22467 -0.275332,0.39359 -0.01953,0.0739 -0.01953,0.22942 0,0.30337 0.06166,0.23315 0.223644,0.40573 0.447905,0.47732 0.09731,0.0311 0.249036,0.0357 0.345155,0.0103 z m 0.847196,-1.46221 c -0.06868,-0.0182 -0.124961,-0.0642 -0.158831,-0.1294 -0.01747,-0.0338 -0.02082,-0.0503 -0.02082,-0.10297 0,-0.0733 0.02023,-0.12145 0.07111,-0.16979 0.05006,-0.0475 0.09197,-0.0646 0.159534,-0.0648 0.09971,-4.5e-4 0.180052,0.0506 0.22111,0.14054 0.02618,0.0574 0.02479,0.14235 -0.003,0.1961 -0.02434,0.0469 -0.06806,0.0901 -0.114267,0.11324 -0.03677,0.0184 -0.116488,0.0272 -0.154598,0.0171 z"
+                 id="path108025"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.00778596"
+               d="m -182.92118,6596.5971 c -0.68549,-0.019 -1.15025,-0.054 -1.34352,-0.1031 -0.1963,-0.05 -0.37069,-0.2001 -0.45192,-0.3881 -0.0767,-0.1779 -0.12408,-0.5638 -0.14377,-1.1773 -0.0147,-0.4565 0.0166,-1.0553 0.072,-1.3852 0.0238,-0.1401 0.0412,-0.2088 0.0717,-0.2795 0.0812,-0.188 0.25564,-0.3378 0.45195,-0.3879 0.27014,-0.07 1.07384,-0.1113 2.12878,-0.1113 1.05493,0 1.85865,0.042 2.12879,0.1113 0.19631,0.05 0.37068,0.1999 0.45193,0.3879 0.0769,0.1778 0.12406,0.5637 0.14375,1.1771 0.0147,0.4566 -0.0166,1.0555 -0.072,1.3852 -0.0238,0.1405 -0.0413,0.2089 -0.0719,0.2797 -0.0812,0.188 -0.25564,0.3376 -0.45194,0.3881 -0.19931,0.05 -0.64233,0.084 -1.38447,0.1044 -0.31572,0.014 -1.20422,0.014 -1.52958,-6e-4 z m 1.07767,-1.5849 c 0.31372,-0.1781 0.5704,-0.3255 0.57038,-0.3275 -5e-5,0 -0.32159,-0.1866 -1.28091,-0.7306 l -0.14007,-0.08 v 0.8103 0.8103 l 0.14007,-0.08 c 0.077,-0.044 0.39677,-0.2252 0.71053,-0.4033 z"
+               id="path108029"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             id="text108035"
+             y="530.73273"
+             x="-621.3855"
+             style="font-style:normal;font-weight:normal;font-size:8.49366px;line-height:1.05;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.222121"
+             xml:space="preserve"
+             transform="scale(0.9955165,1.0045037)"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.49366px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.222121"
+               y="530.73273"
+               x="-621.3855"
+               sodipodi:role="line"
+               id="tspan108033">Masjid Al-Istiqlal Tambun</tspan></text>
+        </g>
+      </g>
+      <rect
+         style="opacity:1;mix-blend-mode:normal;fill:#1a1a1a;fill-opacity:1;stroke-width:0.0732693;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter264238)"
+         id="rect264039"
+         width="105.80286"
+         height="42.85807"
+         x="284.68585"
+         y="151.04208"
+         ry="15.154492"
+         transform="matrix(0.95700595,0,0,1.1982101,14.514243,-40.707413)" />
+      <g
+         id="g108087"
+         transform="matrix(1.0209992,0,0,1.0209992,61.382221,8.6530348)"
+         style="fill:#a38655;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-weight:800;font-size:10.5833px;line-height:0.85;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:59.7194;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="335.67981"
+           y="215.0712"
+           id="text108079"
+           transform="matrix(1.5620257,0,0,1.5620257,-284.5632,-210.79872)"><tspan
+             x="335.67981"
+             y="215.0712"
+             id="tspan265842"><tspan
+               style="font-weight:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display'"
+               id="tspan265840">Ta'awun</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:800;font-size:10.5833px;line-height:0.85;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:152.997;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="335.67981"
+           y="215.0712"
+           id="text108085"
+           transform="matrix(0.63940449,0,0,0.63940449,15.811884,39.722717)"><tspan
+             x="335.67981"
+             y="215.0712"
+             id="tspan265846"><tspan
+               style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
+               id="tspan265844">Masjid Al-Istiqlal Tambun</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:800;font-size:10.5833px;line-height:0.85;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:59.7194;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="335.67981"
+           y="215.0712"
+           id="text111057"
+           transform="matrix(3.2963438,0,0,3.2963438,-883.15311,-553.40024)"><tspan
+             x="335.67981"
+             y="215.0712"
+             id="tspan265850"><tspan
+               style="font-weight:bold;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold'"
+               id="tspan265848">I'tikaf</tspan></tspan></text>
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.146011;stroke-linecap:round;stroke-linejoin:round"
+           id="rect226963"
+           width="69.690285"
+           height="9.5467072"
+           x="235.02322"
+           y="159.89825"
+           ry="2.6902502"
+           transform="matrix(0.99999865,-0.00164607,0.00954975,0.9999544,0,0)" />
+        <text
+           xml:space="preserve"
+           style="font-weight:800;font-size:10.5833px;line-height:0.85;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';white-space:pre;inline-size:123.691;fill:#404040;fill-opacity:1;stroke-width:0.264583"
+           x="335.67981"
+           y="215.0712"
+           id="text220987"
+           transform="matrix(0.6825111,0,0,0.6825111,10.927878,20.145164)"><tspan
+             x="335.67981"
+             y="215.0712"
+             id="tspan265854"><tspan
+               style="font-weight:900;font-family:Aileron;-inkscape-font-specification:'Aileron Heavy'"
+               id="tspan265852">Ramadhan1443H</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:800;font-size:10.5833px;line-height:0;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:315.227;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="547.67865"
+         y="215.0712"
+         id="text108141"
+         transform="matrix(0.66429312,0,0,0.66429312,-23.992372,68.721929)"><tspan
+           x="547.67865"
+           y="215.0712"
+           id="tspan265858"><tspan
+             style="font-weight:normal;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:Arsenal"
+             id="tspan265856">Yuk ikut andil dalam berburu kebaikan dan keagungan 
+</tspan></tspan><tspan
+           x="547.67865"
+           y="227.24199"
+           id="tspan265862"><tspan
+             style="font-weight:normal;line-height:1.15;font-family:Arsenal;-inkscape-font-specification:Arsenal"
+             id="tspan265860">beramal shalih dalam bulan ramadhan lewat program ta'awun i'tikaf ini</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:800;font-size:10.5833px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';stroke-width:0.264583"
+         x="226.62651"
+         y="206.94579"
+         id="text108145"><tspan
+           sodipodi:role="line"
+           id="tspan108143"
+           style="stroke-width:0.264583"
+           x="226.62651"
+           y="206.94579"> </tspan></text>
+      <g
+         id="g210654"
+         transform="matrix(0.95287083,0,0,0.95287083,110.98627,-19.13998)">
+        <g
+           id="g202760"
+           transform="matrix(1.5099801,0,0,1.5099799,1398.8212,-71.940558)"
+           style="fill:#ffffff;fill-opacity:1"
+           inkscape:export-xdpi="94"
+           inkscape:export-ydpi="94">
+          <text
+             xml:space="preserve"
+             style="font-size:4.67659px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:149.378;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.142987"
+             x="-726.9707"
+             y="289.51178"
+             id="text202758"
+             transform="matrix(0.91357332,0,0,0.91357332,-95.309601,13.004849)"><tspan
+               x="-726.9707"
+               y="289.51178"
+               id="tspan265868"><tspan
+                 style="font-weight:bold;font-family:Assistant;-inkscape-font-specification:'Assistant Bold'"
+                 id="tspan265864">0882-2637-5357 </tspan><tspan
+                 style="font-family:Assistant;-inkscape-font-specification:Assistant"
+                 id="tspan265866">(Abu Abdul Malik)
+</tspan></tspan><tspan
+               x="-726.9707"
+               y="295.42072"
+               id="tspan265874"><tspan
+                 style="font-weight:bold;font-family:Assistant;-inkscape-font-specification:'Assistant Bold'"
+                 id="tspan265870">0812-9895-1014</tspan><tspan
+                 style="font-family:Assistant;-inkscape-font-specification:Assistant"
+                 id="tspan265872"> (Admin)</tspan></tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:6.25831px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:73.8771;opacity:1;fill:#ffbc5f;fill-opacity:1;stroke-width:0.322825"
+           x="-826.11566"
+           y="260.21097"
+           id="text202772"
+           transform="matrix(1.1823248,0,0,1.1823246,1228.8855,19.387312)"
+           inkscape:export-xdpi="94"
+           inkscape:export-ydpi="94"><tspan
+             x="-826.11566"
+             y="260.21097"
+             id="tspan265878"><tspan
+               style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+               id="tspan265876">Informasi &amp; </tspan></tspan><tspan
+             x="-826.11566"
+             y="268.14407"
+             id="tspan265882"><tspan
+               style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+               id="tspan265880">Pendaftaran I'tikaf</tspan></tspan></text>
+      </g>
+    </g>
   </g>
 </svg>
