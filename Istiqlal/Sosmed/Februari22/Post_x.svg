@@ -25,10 +25,10 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="2088"
-     inkscape:cy="442"
-     inkscape:current-layer="g9023"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1579.6765"
+     inkscape:cy="425.67828"
+     inkscape:current-layer="g35685"
      showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
@@ -46,6 +46,18 @@
   </sodipodi:namedview>
   <defs
      id="defs15849">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient21155">
+      <stop
+         style="stop-color:#626673;stop-opacity:1;"
+         offset="0"
+         id="stop21151" />
+      <stop
+         style="stop-color:#474a54;stop-opacity:1"
+         offset="1"
+         id="stop21153" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient114749">
@@ -6214,24 +6226,24 @@
          transform="matrix(0.86673209,0,0,0.87455682,-69.588891,-5459.0303)"><tspan
            x="-70.27536"
            y="6365.6494"
-           id="tspan39549"><tspan
+           id="tspan71966"><tspan
              style="font-weight:bold;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif Bold'"
-             id="tspan39547">Makna </tspan></tspan><tspan
+             id="tspan71964">Makna </tspan></tspan><tspan
            x="-70.27536"
            y="6381.37"
-           id="tspan39553"><tspan
+           id="tspan71970"><tspan
              style="font-weight:bold;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif Bold'"
-             id="tspan39551">Cahaya </tspan></tspan><tspan
+             id="tspan71968">Cahaya </tspan></tspan><tspan
            x="-70.27536"
            y="6397.0907"
-           id="tspan39557"><tspan
+           id="tspan71974"><tspan
              style="font-weight:bold;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif Bold'"
-             id="tspan39555">Antara </tspan></tspan><tspan
+             id="tspan71972">Antara </tspan></tspan><tspan
            x="-70.27536"
            y="6412.8114"
-           id="tspan39561"><tspan
+           id="tspan71978"><tspan
              style="font-weight:bold;font-family:'IBM Plex Serif';-inkscape-font-specification:'IBM Plex Serif Bold'"
-             id="tspan39559">Jumat</tspan></tspan></text>
+             id="tspan71976">Jumat</tspan></tspan></text>
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -7177,6 +7189,91 @@
          stdDeviation="48.770727"
          id="feGaussianBlur29473" />
     </filter>
+    <rect
+       x="1251.0009"
+       y="432.77866"
+       width="1975.4276"
+       height="1471.0094"
+       id="rect1974" />
+    <rect
+       x="1251.0009"
+       y="432.77866"
+       width="874.86526"
+       height="262.7426"
+       id="rect1976" />
+    <rect
+       x="1463.711"
+       y="895.19719"
+       width="53.740115"
+       height="89.095455"
+       id="rect1978" />
+    <rect
+       x="1251.0009"
+       y="432.77866"
+       width="791.88895"
+       height="496.47269"
+       id="rect1980" />
+    <rect
+       x="1251.0009"
+       y="432.77866"
+       width="791.88895"
+       height="496.47269"
+       id="rect1982" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient21155"
+       id="linearGradient21157"
+       x1="108.63425"
+       y1="148.42734"
+       x2="428.77097"
+       y2="148.42734"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient21155"
+       id="linearGradient30824"
+       gradientUnits="userSpaceOnUse"
+       x1="108.63425"
+       y1="148.42734"
+       x2="428.77097"
+       y2="148.42734"
+       gradientTransform="matrix(1,0,0,1.3097907,0,-208.7782)" />
+    <rect
+       x="1251.0009"
+       y="432.77866"
+       width="1947.2992"
+       height="1614.9459"
+       id="rect35687" />
+    <rect
+       x="1251.0009"
+       y="432.77866"
+       width="815.437"
+       height="295.34264"
+       id="rect35689" />
+    <rect
+       x="1463.711"
+       y="895.19719"
+       width="53.740115"
+       height="89.095455"
+       id="rect35691" />
+    <rect
+       x="1251.0009"
+       y="432.77866"
+       width="791.88895"
+       height="496.47269"
+       id="rect35693" />
+    <rect
+       x="1251.0009"
+       y="432.77866"
+       width="791.88895"
+       height="496.47269"
+       id="rect35695" />
+    <rect
+       x="1251.0009"
+       y="432.77866"
+       width="791.88898"
+       height="496.47269"
+       id="rect35695-3" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -7703,30 +7800,30 @@
              y="0"><tspan
                x="-113.01758"
                y="6523.6475"
-               id="tspan39565">Seandainya <tspan
+               id="tspan71982">Seandainya <tspan
    style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-   id="tspan39563">mengingat </tspan></tspan><tspan
+   id="tspan71980">mengingat </tspan></tspan><tspan
                x="-113.01758"
                y="6538.921"
-               id="tspan39569"><tspan
+               id="tspan71986"><tspan
                  style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-                 id="tspan39567">kematian berpisah dari </tspan></tspan><tspan
+                 id="tspan71984">kematian berpisah dari </tspan></tspan><tspan
                x="-113.01758"
                y="6554.1944"
-               id="tspan39573"><tspan
+               id="tspan71990"><tspan
    style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-   id="tspan39571">hatiku</tspan> maka aku 
+   id="tspan71988">hatiku</tspan> maka aku 
 </tspan><tspan
                x="-113.01758"
                y="6569.4678"
-               id="tspan39577">benar-benar <tspan
+               id="tspan71994">benar-benar <tspan
    style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-   id="tspan39575">khawatir </tspan></tspan><tspan
+   id="tspan71992">khawatir </tspan></tspan><tspan
                x="-113.01758"
                y="6584.7413"
-               id="tspan39581"><tspan
+               id="tspan71998"><tspan
                  style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-                 id="tspan39579">hatiku menjadi rusak</tspan></tspan></text>
+                 id="tspan71996">hatiku menjadi rusak</tspan></tspan></text>
         </g>
         <g
            id="g597712"
@@ -7745,26 +7842,26 @@
              id="text597710"><tspan
                x="80.898064"
                y="101.14987"
-               id="tspan39585"><tspan
+               id="tspan72002"><tspan
                  style="font-style:italic;font-family:Inter;-inkscape-font-specification:'Inter Italic'"
-                 id="tspan39583">Min A'lam as-Salaf 1/70
+                 id="tspan72000">Min A'lam as-Salaf 1/70
 </tspan></tspan><tspan
                x="80.898064"
                y="109.64279"
-               id="tspan39593"><tspan
+               id="tspan72010"><tspan
                  style="font-style:italic;font-family:Inter;-inkscape-font-specification:'Inter Italic'"
-                 id="tspan39587">Dinukil dari laman </tspan><tspan
+                 id="tspan72004">Dinukil dari laman </tspan><tspan
                  style="font-style:italic;font-weight:600;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold Italic'"
-                 id="tspan39589">Al-Mubarok </tspan><tspan
+                 id="tspan72006">Al-Mubarok </tspan><tspan
                  style="font-style:italic;font-family:Inter;-inkscape-font-specification:'Inter Italic'"
-                 id="tspan39591">dalam artikel </tspan></tspan><tspan
+                 id="tspan72008">dalam artikel </tspan></tspan><tspan
                x="80.898064"
                y="118.1357"
-               id="tspan39599"><tspan
+               id="tspan72016"><tspan
                  style="font-style:italic;font-family:Inter;-inkscape-font-specification:'Inter Italic'"
-                 id="tspan39595">berjudul </tspan><tspan
+                 id="tspan72012">berjudul </tspan><tspan
                  style="font-style:italic;font-weight:bold;font-family:Inter;-inkscape-font-specification:'Inter Bold Italic'"
-                 id="tspan39597">&quot;Untaian Nasihat Ulama 8&quot;</tspan></tspan></text>
+                 id="tspan72014">&quot;Untaian Nasihat Ulama 8&quot;</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -7917,21 +8014,21 @@
            id="text597670"><tspan
              x="-248.65245"
              y="324.35068"
-             id="tspan39603"><tspan
+             id="tspan72020"><tspan
                style="font-weight:normal;font-size:2.09657px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-               id="tspan39601">Infaq Operasional &amp; Dakwah :
+               id="tspan72018">Infaq Operasional &amp; Dakwah :
 </tspan></tspan><tspan
              x="-248.65245"
              y="327.00516"
-             id="tspan39607"><tspan
+             id="tspan72024"><tspan
                style="font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
-               id="tspan39605">Bank BSI (451) No. 8525706280 
+               id="tspan72022">Bank BSI (451) No. 8525706280 
 </tspan></tspan><tspan
              x="-248.65245"
              y="329.65992"
-             id="tspan39611"><tspan
+             id="tspan72028"><tspan
                style="font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
-               id="tspan39609">an. Masjid Al-Istiqlal</tspan></tspan></text>
+               id="tspan72026">an. Masjid Al-Istiqlal</tspan></tspan></text>
         <g
            id="g597690"
            transform="matrix(1.114386,0,0,1.1244461,1337.3018,24.609339)"
@@ -8003,49 +8100,49 @@
            y="0"><tspan
              x="1545.4309"
              y="483.4929"
-             id="tspan39615"><tspan
+             id="tspan72032"><tspan
                style="font-weight:normal;font-family:'Mini Story';-inkscape-font-specification:'Mini Story';text-align:center;text-anchor:middle"
-               id="tspan39613">Kelak suatu saat, 
+               id="tspan72030">Kelak suatu saat, 
 </tspan></tspan><tspan
              x="1308.884"
              y="555.85884"
-             id="tspan39619"><tspan
+             id="tspan72036"><tspan
                style="font-weight:normal;font-family:'Mini Story';-inkscape-font-specification:'Mini Story';text-align:center;text-anchor:middle"
-               id="tspan39617">diri kita akan diantar oleh orang ramai.
+               id="tspan72034">diri kita akan diantar oleh orang ramai.
 </tspan></tspan><tspan
              x="1428.4107"
              y="628.22477"
-             id="tspan39623"><tspan
+             id="tspan72040"><tspan
                style="font-weight:normal;font-family:'Mini Story';-inkscape-font-specification:'Mini Story';text-align:center;text-anchor:middle"
-               id="tspan39621">diantar menuju kesendirian.
+               id="tspan72038">diantar menuju kesendirian.
 </tspan></tspan><tspan
              x="1260.7934"
              y="700.59068"
-             id="tspan39627"><tspan
+             id="tspan72044"><tspan
                style="font-weight:normal;font-family:'Mini Story';-inkscape-font-specification:'Mini Story';text-align:center;text-anchor:middle"
-               id="tspan39625">sambil menunggu dibangkitkan, juga kelak </tspan></tspan><tspan
+               id="tspan72042">sambil menunggu dibangkitkan, juga kelak </tspan></tspan><tspan
              x="1464.8137"
              y="772.95665"
-             id="tspan39631"><tspan
+             id="tspan72048"><tspan
                style="font-weight:normal;font-family:'Mini Story';-inkscape-font-specification:'Mini Story';text-align:center;text-anchor:middle"
-               id="tspan39629">dalam keadaan sendirian.
+               id="tspan72046">dalam keadaan sendirian.
 </tspan></tspan><tspan
              x="1286.8788"
              y="845.32261"
-             id="tspan39635"><tspan
+             id="tspan72052"><tspan
                style="font-weight:normal;font-family:'Mini Story';-inkscape-font-specification:'Mini Story';text-align:center;text-anchor:middle"
-               id="tspan39633">lalu dimintai pertanggung jawaban atas </tspan></tspan><tspan
+               id="tspan72050">lalu dimintai pertanggung jawaban atas </tspan></tspan><tspan
              x="1315.6458"
              y="917.68858"
-             id="tspan39639"><tspan
+             id="tspan72056"><tspan
                style="font-weight:normal;font-family:'Mini Story';-inkscape-font-specification:'Mini Story';text-align:center;text-anchor:middle"
-               id="tspan39637">kehidupan kita secara sendiri-sendiri. 
+               id="tspan72054">kehidupan kita secara sendiri-sendiri. 
 </tspan></tspan><tspan
              x="1343.8523"
              y="1003.808"
-             id="tspan39643"><tspan
+             id="tspan72060"><tspan
                style="font-weight:bold;font-size:81.04px;font-family:'Mini Story';-inkscape-font-specification:'Mini Story Bold'"
-               id="tspan39641">maka persiapkanlah bekal.</tspan></tspan></text>
+               id="tspan72058">maka persiapkanlah bekal.</tspan></tspan></text>
         <g
            id="g73375"
            transform="translate(13.368239,32.892278)"
@@ -8059,24 +8156,24 @@
              y="0"><tspan
                x="1365.3185"
                y="459.82655"
-               id="tspan39651"><tspan
+               id="tspan72068"><tspan
                  style="font-weight:normal;font-family:Alef;-inkscape-font-specification:Alef"
-                 id="tspan39645">      </tspan><tspan
+                 id="tspan72062">      </tspan><tspan
                  style="font-weight:bold;font-family:Alef;-inkscape-font-specification:'Alef Bold'"
-                 id="tspan39647">Min A'lam as-Salaf 1/70</tspan><tspan
+                 id="tspan72064">Min A'lam as-Salaf 1/70</tspan><tspan
                  style="font-weight:normal;font-family:Alef;-inkscape-font-specification:Alef"
-                 id="tspan39649">
+                 id="tspan72066">
 </tspan></tspan><tspan
                x="1253.6918"
                y="496.63417"
-               id="tspan39655"><tspan
+               id="tspan72072"><tspan
                  style="font-weight:normal;font-family:Alef;-inkscape-font-specification:Alef"
-                 id="tspan39653">Dinukil dari laman Al-Mubarok dalam artikel </tspan></tspan><tspan
+                 id="tspan72070">Dinukil dari laman Al-Mubarok dalam artikel </tspan></tspan><tspan
                x="1325.19"
                y="533.44179"
-               id="tspan39659"><tspan
+               id="tspan72076"><tspan
                  style="font-weight:normal;font-family:Alef;-inkscape-font-specification:Alef"
-                 id="tspan39657">berjudul Untaian Nasihat Ulama 8</tspan></tspan></text>
+                 id="tspan72074">berjudul Untaian Nasihat Ulama 8</tspan></tspan></text>
         </g>
       </g>
       <text
@@ -8088,9 +8185,9 @@
          transform="matrix(1.8833418,0,0,1.9003439,533.06993,-11992.082)"><tspan
            x="-72.061707"
            y="6365.6494"
-           id="tspan39663"><tspan
+           id="tspan72080"><tspan
              style="font-weight:bold;font-family:'El Messiri';-inkscape-font-specification:'El Messiri Bold'"
-             id="tspan39661">Sendiri</tspan></tspan></text>
+             id="tspan72078">Sendiri</tspan></tspan></text>
     </g>
   </g>
   <g
@@ -8256,15 +8353,15 @@
              id="text55514"><tspan
                x="-248.65245"
                y="324.35068"
-               id="tspan39667"><tspan
+               id="tspan72084"><tspan
                  style="font-weight:normal;font-size:2.09657px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-                 id="tspan39665">Infaq Operasional &amp; Dakwah :
+                 id="tspan72082">Infaq Operasional &amp; Dakwah :
 </tspan></tspan><tspan
                x="-248.65245"
                y="327.00516"
-               id="tspan39671"><tspan
+               id="tspan72088"><tspan
                  style="font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
-                 id="tspan39669">Bank BSI (451) No. 8525706280 an. Masjid Al-Istiqlal</tspan></tspan></text>
+                 id="tspan72086">Bank BSI (451) No. 8525706280 an. Masjid Al-Istiqlal</tspan></tspan></text>
         </g>
       </g>
       <text
@@ -8276,38 +8373,38 @@
          y="0"><tspan
            x="1921.7093"
            y="520.34777"
-           id="tspan39675"><tspan
+           id="tspan72092"><tspan
              style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-             id="tspan39673">Artinya:
+             id="tspan72090">Artinya:
 </tspan></tspan><tspan
            x="1361.7975"
            y="635.67144"
-           id="tspan39679"><tspan
+           id="tspan72096"><tspan
              style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-             id="tspan39677">Ya Allah, tidak ada kemudahan </tspan></tspan><tspan
+             id="tspan72094">Ya Allah, tidak ada kemudahan </tspan></tspan><tspan
            x="1288.0478"
            y="750.9951"
-           id="tspan39683"><tspan
+           id="tspan72100"><tspan
              dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011062622"
              style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-             id="tspan39681">kecuali yang Engkau buat mudah.
+             id="tspan72098">kecuali yang Engkau buat mudah.
 </tspan></tspan><tspan
            x="1253.6017"
            y="866.31877"
-           id="tspan39687"><tspan
+           id="tspan72104"><tspan
              dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011825562 0.00011634827"
              style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-             id="tspan39685">Dan engkau menjadikan kesedihan </tspan></tspan><tspan
+             id="tspan72102">Dan engkau menjadikan kesedihan </tspan></tspan><tspan
            x="1282.2491"
            y="981.64244"
-           id="tspan39691"><tspan
+           id="tspan72108"><tspan
              style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-             id="tspan39689">(kesulitan), jika Engkau kehendaki </tspan></tspan><tspan
+             id="tspan72106">(kesulitan), jika Engkau kehendaki </tspan></tspan><tspan
            x="1468.5064"
            y="1096.9661"
-           id="tspan39695"><tspan
+           id="tspan72112"><tspan
              style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-             id="tspan39693">pasti akan menjadi mudah
+             id="tspan72110">pasti akan menjadi mudah
 </tspan></tspan></text>
       <text
          xml:space="preserve"
@@ -8318,21 +8415,21 @@
          y="0"><tspan
            x="1348.8635"
            y="460.24337"
-           id="tspan39699"><tspan
+           id="tspan72116"><tspan
              dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001001358"
              style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
-             id="tspan39697">HR. Ibnu Hibban dalam Shahihnya (3/255). Di shahih kan Syaikh Syu'aib Al-Arnauth
+             id="tspan72114">HR. Ibnu Hibban dalam Shahihnya (3/255). Di shahih kan Syaikh Syu'aib Al-Arnauth
 </tspan></tspan><tspan
            x="1260.4002"
            y="496.41232"
-           id="tspan39707"><tspan
+           id="tspan72124"><tspan
              style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
-             id="tspan39701">Dinukil dari </tspan><tspan
+             id="tspan72118">Dinukil dari </tspan><tspan
              style="font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Ultra-Bold'"
-             id="tspan39703">Rumaysho </tspan><tspan
+             id="tspan72120">Rumaysho </tspan><tspan
              dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011253357"
              style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
-             id="tspan39705">dalam artikel &quot;Doa Memohon Kemudahan&quot; dengan sedikit penyesuaian</tspan></tspan></text>
+             id="tspan72122">dalam artikel &quot;Doa Memohon Kemudahan&quot; dengan sedikit penyesuaian</tspan></tspan></text>
       <g
          id="g55560"
          transform="matrix(1.6531567,0,0,1.6531567,-129.07393,-3.2082998)"
@@ -8365,20 +8462,20 @@
            y="0"><tspan
              x="1432.8228"
              y="520.34777"
-             id="tspan39711"><tspan
+             id="tspan72128"><tspan
                style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-               id="tspan39709">Allahumma laa sahla illa maa </tspan></tspan><tspan
+               id="tspan72126">Allahumma laa sahla illa maa </tspan></tspan><tspan
              x="1381.8225"
              y="635.67144"
-             id="tspan39715"><tspan
+             id="tspan72132"><tspan
                dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011825562 0 0 0 0 0 0 0.00011825562"
                style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-               id="tspan39713">ja'altahu sahlaa, wa anta taj'alul </tspan></tspan><tspan
+               id="tspan72130">ja'altahu sahlaa, wa anta taj'alul </tspan></tspan><tspan
              x="1563.6194"
              y="750.9951"
-             id="tspan39719"><tspan
+             id="tspan72136"><tspan
                style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-               id="tspan39717">hazna idza syi'ta sahlaa
+               id="tspan72134">hazna idza syi'ta sahlaa
 </tspan></tspan></text>
         <text
            xml:space="preserve"
@@ -8389,31 +8486,31 @@
            y="0"><tspan
              x="2398.1491"
              y="586.42535"
-             id="tspan39723"><tspan
+             id="tspan72140"><tspan
                style="font-weight:normal;font-family:KacstOffice;-inkscape-font-specification:KacstOffice"
-               id="tspan39721">اللَّهُمَّ لاَ سَهْلَ إِلاَّ </tspan></tspan><tspan
+               id="tspan72138">اللَّهُمَّ لاَ سَهْلَ إِلاَّ </tspan></tspan><tspan
              x="2323.8614"
              y="805.64044"
-             id="tspan39729"><tspan
+             id="tspan72146"><tspan
                style="font-weight:normal;font-family:KacstOffice;-inkscape-font-specification:KacstOffice"
-               id="tspan39725">مَا </tspan><tspan
+               id="tspan72142">مَا </tspan><tspan
                style="font-weight:normal;font-family:KacstOffice;-inkscape-font-specification:KacstOffice"
-               id="tspan39727">جَعَلْتَهُ سَهْلاً </tspan></tspan><tspan
+               id="tspan72144">جَعَلْتَهُ سَهْلاً </tspan></tspan><tspan
              x="2369.3003"
              y="1024.8555"
-             id="tspan39735"><tspan
+             id="tspan72152"><tspan
                style="font-weight:normal;font-family:KacstOffice;-inkscape-font-specification:KacstOffice"
-               id="tspan39731">وَأَنْتَ تَجْعَلُ </tspan><tspan
+               id="tspan72148">وَأَنْتَ تَجْعَلُ </tspan><tspan
                style="font-weight:normal;font-family:KacstOffice;-inkscape-font-specification:KacstOffice"
-               id="tspan39733">الحَزْنَ </tspan></tspan><tspan
+               id="tspan72150">الحَزْنَ </tspan></tspan><tspan
              x="2294.9739"
              y="1244.0706"
-             id="tspan39741"><tspan
+             id="tspan72158"><tspan
                style="font-weight:normal;font-family:KacstOffice;-inkscape-font-specification:KacstOffice"
-               id="tspan39737">إِذَا شِئْتَ سَهْلاً</tspan><tspan
+               id="tspan72154">إِذَا شِئْتَ سَهْلاً</tspan><tspan
                dx="701.88568"
                style="font-weight:normal;font-family:KacstOffice;-inkscape-font-specification:KacstOffice"
-               id="tspan39739">
+               id="tspan72156">
 </tspan></tspan></text>
       </g>
       <text
@@ -8425,21 +8522,21 @@
          transform="matrix(0.8228597,0,0,0.83028842,128.73048,-5184.4605)"><tspan
            x="-70.27536"
            y="6365.6494"
-           id="tspan39745"><tspan
+           id="tspan72162"><tspan
              style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-             id="tspan39743">Do'a
+             id="tspan72160">Do'a
 </tspan></tspan><tspan
            x="-70.27536"
            y="6381.4348"
-           id="tspan39749"><tspan
+           id="tspan72166"><tspan
              style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-             id="tspan39747">Memohon
+             id="tspan72164">Memohon
 </tspan></tspan><tspan
            x="-70.27536"
            y="6397.2199"
-           id="tspan39753"><tspan
+           id="tspan72170"><tspan
              style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-             id="tspan39751">Kemudahan</tspan></tspan></text>
+             id="tspan72168">Kemudahan</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:800;font-size:10.0941px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.252352"
@@ -8601,15 +8698,15 @@
              id="text136997"><tspan
                x="-248.65245"
                y="324.35068"
-               id="tspan39757"><tspan
+               id="tspan72174"><tspan
                  style="font-weight:normal;font-size:2.09657px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-                 id="tspan39755">Infaq Operasional &amp; Dakwah :
+                 id="tspan72172">Infaq Operasional &amp; Dakwah :
 </tspan></tspan><tspan
                x="-248.65245"
                y="327.00516"
-               id="tspan39761"><tspan
+               id="tspan72178"><tspan
                  style="font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
-                 id="tspan39759">Bank BSI (451) No. 8525706280 an. Masjid Al-Istiqlal</tspan></tspan></text>
+                 id="tspan72176">Bank BSI (451) No. 8525706280 an. Masjid Al-Istiqlal</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -8629,25 +8726,25 @@
              y="0"><tspan
                x="1251"
                y="520.34777"
-               id="tspan39765"><tspan
+               id="tspan72182"><tspan
                  dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011825562"
                  style="font-weight:900;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Heavy'"
-                 id="tspan39763">Tidak halal bagi seseorang </tspan></tspan><tspan
+                 id="tspan72180">Tidak halal bagi seseorang </tspan></tspan><tspan
                x="1251"
                y="635.67144"
-               id="tspan39769"><tspan
+               id="tspan72186"><tspan
                  style="font-weight:900;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Heavy'"
-                 id="tspan39767">untuk berputus asa dari </tspan></tspan><tspan
+                 id="tspan72184">untuk berputus asa dari </tspan></tspan><tspan
                x="1251"
                y="750.9951"
-               id="tspan39773"><tspan
+               id="tspan72190"><tspan
                  style="font-weight:900;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Heavy'"
-                 id="tspan39771">rahmat Allah meskipun </tspan></tspan><tspan
+                 id="tspan72188">rahmat Allah meskipun </tspan></tspan><tspan
                x="1251"
                y="866.31877"
-               id="tspan39777"><tspan
+               id="tspan72194"><tspan
                  style="font-weight:900;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Heavy'"
-                 id="tspan39775">banyak dosa-dosanya
+                 id="tspan72192">banyak dosa-dosanya
 </tspan></tspan></text>
           <text
              xml:space="preserve"
@@ -8658,24 +8755,24 @@
              y="0"><tspan
                x="1251"
                y="460.24337"
-               id="tspan39781"><tspan
+               id="tspan72198"><tspan
                  style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
-                 id="tspan39779">Al Fatawa 16/19
+                 id="tspan72196">Al Fatawa 16/19
 </tspan></tspan><tspan
                x="1251"
                y="496.41232"
-               id="tspan39789"><tspan
+               id="tspan72206"><tspan
                  style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
-                 id="tspan39783">Dinukil dari kanal </tspan><tspan
+                 id="tspan72200">Dinukil dari kanal </tspan><tspan
                  style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-                 id="tspan39785">Wawasan Muslim</tspan><tspan
+                 id="tspan72202">Wawasan Muslim</tspan><tspan
                  style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
-                 id="tspan39787"> </tspan></tspan><tspan
+                 id="tspan72204"> </tspan></tspan><tspan
                x="1251"
                y="532.58126"
-               id="tspan39793"><tspan
+               id="tspan72210"><tspan
                  style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
-                 id="tspan39791">dengan sedikit penyesuaian</tspan></tspan></text>
+                 id="tspan72208">dengan sedikit penyesuaian</tspan></tspan></text>
           <g
              id="g137043"
              transform="matrix(3.6155315,0,0,3.6155315,906.43168,821.42139)"
@@ -8705,9 +8802,9 @@
              y="0"><tspan
                x="1251"
                y="460.24337"
-               id="tspan39797"><tspan
+               id="tspan72214"><tspan
                  style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-                 id="tspan39795">Ibnu Taimiyah        berkata,</tspan></tspan></text>
+                 id="tspan72212">Ibnu Taimiyah        berkata,</tspan></tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.57263203,0,0,0.57263203,951.02001,739.79541)"
@@ -8717,9 +8814,9 @@
              y="0"><tspan
                x="1251"
                y="459.82655"
-               id="tspan39801"><tspan
+               id="tspan72218"><tspan
                  style="font-weight:bold;font-family:Lafadz;-inkscape-font-specification:'Lafadz Bold'"
-                 id="tspan39799">i</tspan></tspan></text>
+                 id="tspan72216">i</tspan></tspan></text>
         </g>
         <text
            id="text137073"
@@ -8730,19 +8827,19 @@
            transform="matrix(0.74507349,0,0,0.75179996,-7.5226282,-4492.3854)"><tspan
              x="-70.27536"
              y="6365.6494"
-             id="tspan39805"><tspan
+             id="tspan72222"><tspan
                style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-               id="tspan39803">Tidak </tspan></tspan><tspan
+               id="tspan72220">Tidak </tspan></tspan><tspan
              x="-70.27536"
              y="6385.3647"
-             id="tspan39809"><tspan
+             id="tspan72226"><tspan
                style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-               id="tspan39807">Ada Kata </tspan></tspan><tspan
+               id="tspan72224">Ada Kata </tspan></tspan><tspan
              x="-70.27536"
              y="6405.08"
-             id="tspan39813"><tspan
+             id="tspan72230"><tspan
                style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-               id="tspan39811">Putus Asa</tspan></tspan></text>
+               id="tspan72228">Putus Asa</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:800;font-size:10.5833px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -8901,15 +8998,15 @@
              id="text3945"><tspan
                x="-248.65245"
                y="324.35068"
-               id="tspan39817"><tspan
+               id="tspan72234"><tspan
                  style="font-weight:normal;font-size:2.09657px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-                 id="tspan39815">Infaq Operasional &amp; Dakwah :
+                 id="tspan72232">Infaq Operasional &amp; Dakwah :
 </tspan></tspan><tspan
                x="-248.65245"
                y="327.00516"
-               id="tspan39821"><tspan
+               id="tspan72238"><tspan
                  style="font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
-                 id="tspan39819">Bank BSI (451) No. 8525706280 an. Masjid Al-Istiqlal</tspan></tspan></text>
+                 id="tspan72236">Bank BSI (451) No. 8525706280 an. Masjid Al-Istiqlal</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -8929,41 +9026,41 @@
              y="0"><tspan
                x="1251"
                y="525.30406"
-               id="tspan39825"><tspan
+               id="tspan72242"><tspan
                  style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-                 id="tspan39823">Pantaskah kita merasa tidurnya kita </tspan></tspan><tspan
+                 id="tspan72240">Pantaskah kita merasa tidurnya kita </tspan></tspan><tspan
                x="1251"
                y="650.54032"
-               id="tspan39829"><tspan
+               id="tspan72246"><tspan
                  style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-                 id="tspan39827">sama dengan tidurnya mereka yang </tspan></tspan><tspan
+                 id="tspan72244">sama dengan tidurnya mereka yang </tspan></tspan><tspan
                x="1251"
                y="775.77659"
-               id="tspan39833"><tspan
+               id="tspan72250"><tspan
                  style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-                 id="tspan39831">memanfaatkan malamnya. 
+                 id="tspan72248">memanfaatkan malamnya. 
 </tspan></tspan><tspan
                x="1251"
                y="901.01286"
-               id="tspan39837"><tspan
+               id="tspan72254"><tspan
                  style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-                 id="tspan39835">mata yang perih berselancar di gawai </tspan></tspan><tspan
+                 id="tspan72252">mata yang perih berselancar di gawai </tspan></tspan><tspan
                x="1251"
                y="1026.2491"
-               id="tspan39841"><tspan
+               id="tspan72258"><tspan
                  style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-                 id="tspan39839">tentu tak sama dengan mata yang letih </tspan></tspan><tspan
+                 id="tspan72256">tentu tak sama dengan mata yang letih </tspan></tspan><tspan
                x="1251"
                y="1151.4855"
-               id="tspan39845"><tspan
+               id="tspan72262"><tspan
                  style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-                 id="tspan39843">bermalam di mushaf
+                 id="tspan72260">bermalam di mushaf
 </tspan></tspan><tspan
                x="1251"
                y="1276.7218"
-               id="tspan39849"><tspan
+               id="tspan72266"><tspan
                  style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
-                 id="tspan39847">
+                 id="tspan72264">
 </tspan></tspan></text>
         </g>
         <text
@@ -8975,15 +9072,15 @@
            transform="matrix(0.74507349,0,0,0.75179996,-7.5226282,-4490.5254)"><tspan
              x="-70.27536"
              y="6365.6494"
-             id="tspan39853"><tspan
+             id="tspan72270"><tspan
                style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-               id="tspan39851">Pantaskah Kita
+               id="tspan72268">Pantaskah Kita
 </tspan></tspan><tspan
              x="-70.27536"
              y="6385.3647"
-             id="tspan39857"><tspan
+             id="tspan72274"><tspan
                style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-               id="tspan39855">Merasa Sama</tspan></tspan></text>
+               id="tspan72272">Merasa Sama</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:800;font-size:10.5833px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';fill:#4d4d4d;fill-opacity:1;stroke-width:0.264583"
@@ -9002,7 +9099,7 @@
      inkscape:groupmode="layer"
      id="g9023"
      inkscape:label="x - Meminta Pertolongan di Sisa Ramadhan"
-     style="display:inline">
+     style="display:none">
     <g
        id="g8929">
       <path
@@ -9137,15 +9234,15 @@
              id="text8967"><tspan
                x="-248.65245"
                y="324.35068"
-               id="tspan39861"><tspan
+               id="tspan72278"><tspan
                  style="font-weight:normal;font-size:2.09657px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-                 id="tspan39859">Infaq Operasional &amp; Dakwah :
+                 id="tspan72276">Infaq Operasional &amp; Dakwah :
 </tspan></tspan><tspan
                x="-248.65245"
                y="327.00516"
-               id="tspan39865"><tspan
+               id="tspan72282"><tspan
                  style="font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
-                 id="tspan39863">Bank BSI (451) No. 8525706280 an. Masjid Al-Istiqlal</tspan></tspan></text>
+                 id="tspan72280">Bank BSI (451) No. 8525706280 an. Masjid Al-Istiqlal</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -9165,55 +9262,55 @@
              y="0"><tspan
                x="1391.9031"
                y="525.30406"
-               id="tspan39869"><tspan
+               id="tspan72286"><tspan
                  dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011825562"
                  style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-                 id="tspan39867">Bulan yang agung ini akan segera meninggalkan kita. 
+                 id="tspan72284">Bulan yang agung ini akan segera meninggalkan kita. 
 </tspan></tspan><tspan
                x="1308.1914"
                y="650.54032"
-               id="tspan39873"><tspan
+               id="tspan72290"><tspan
                  dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010108948 -0.00011825562 0 0 0 0 0 0 0 0 0.00016021729 0 0 0 0 -0.00019073486"
                  style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-                 id="tspan39871">Bulan dimana yang telah mendahulu kita, berangan untuk </tspan></tspan><tspan
+                 id="tspan72288">Bulan dimana yang telah mendahulu kita, berangan untuk </tspan></tspan><tspan
                x="1935.509"
                y="775.77659"
-               id="tspan39877"><tspan
+               id="tspan72294"><tspan
                  style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-                 id="tspan39875">kembali berjumpa dengannya. 
+                 id="tspan72292">kembali berjumpa dengannya. 
 </tspan></tspan><tspan
                x="1352.5006"
                y="901.01286"
-               id="tspan39881"><tspan
+               id="tspan72298"><tspan
                  dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011062622 0 0 0 0 0 0 -0.00012588501 0.00015640259 0 0 0 0 0 0 0 0.0001411438 -0.00012588501"
                  style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-                 id="tspan39879">Maka mohonlah pertolongan kepadaNya serta teruslah </tspan></tspan><tspan
+                 id="tspan72296">Maka mohonlah pertolongan kepadaNya serta teruslah </tspan></tspan><tspan
                x="2077.2097"
                y="1026.2491"
-               id="tspan39885"><tspan
+               id="tspan72302"><tspan
                  style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-                 id="tspan39883">berpacu di yang tersisa. 
+                 id="tspan72300">berpacu di yang tersisa. 
 </tspan></tspan><tspan
                x="2662.8945"
                y="1151.4855"
-               id="tspan39889"><tspan
+               id="tspan72306"><tspan
                  style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-                 id="tspan39887">
+                 id="tspan72304">
 </tspan></tspan><tspan
                x="1447.3966"
                y="1285.1945"
-               id="tspan39893"><tspan
+               id="tspan72310"><tspan
                  dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011444092 0 0 0 0 0 0 0 0 0 0 0 -0.00016784668 0.00019454956 -0.00018692017"
                  style="font-style:italic;font-weight:600;font-size:108.203px;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Semi-Bold Italic'"
-                 id="tspan39891">&quot;Dan mintalah pertolongan kepada Allah serta </tspan></tspan><tspan
+                 id="tspan72308">&quot;Dan mintalah pertolongan kepada Allah serta </tspan></tspan><tspan
                x="1504.9605"
                y="1420.4483"
-               id="tspan39899"><tspan
+               id="tspan72316"><tspan
                  dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00021743774 -0.00022125244"
                  style="font-style:italic;font-weight:600;font-size:108.203px;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Semi-Bold Italic'"
-                 id="tspan39895">janganlah sekali-kali engkau merasa lemah&quot;</tspan><tspan
+                 id="tspan72312">janganlah sekali-kali engkau merasa lemah&quot;</tspan><tspan
                  style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
-                 id="tspan39897">
+                 id="tspan72314">
 </tspan></tspan></text>
         </g>
         <text
@@ -9225,16 +9322,16 @@
            transform="matrix(0.74507349,0,0,0.75179996,-41.929836,-4432.416)"><tspan
              x="0.62474239"
              y="6365.6494"
-             id="tspan39903"><tspan
-               style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-               id="tspan39901">Meminta Pertolongan</tspan><tspan
-               y="6365.6494"
-               id="tspan39905"> </tspan></tspan><tspan
+             id="tspan72320"><tspan
+   style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+   id="tspan72318">Meminta Pertolongan</tspan><tspan
+   y="6365.6494"
+   id="tspan72322"> </tspan></tspan><tspan
              x="0.62474239"
              y="6385.3647"
-             id="tspan39909"><tspan
+             id="tspan72326"><tspan
                style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
-               id="tspan39907">di Sisa Ramadhan</tspan></tspan></text>
+               id="tspan72324">di Sisa Ramadhan</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:800;font-size:10.5833px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -9252,6 +9349,617 @@
          d="m 21.989555,87.364163 c 0,0 54.142504,6.120349 71.462801,24.473967 17.320264,18.35363 10.977724,35.98623 53.555924,41.2843 42.57821,5.29807 84.3629,22.37982 77.62769,36.15413 -6.73518,13.77431 31.81721,41.16191 -31.42445,44.43624 -63.24169,3.27435 -128.269198,2.33135 -128.269198,2.33135 0,0 -50.556202,-18.61749 -43.662687,-44.71172 6.893518,-26.09423 0.70992,-103.968267 0.70992,-103.968267 z"
          id="path29511"
          transform="matrix(-0.70153979,0,0,-0.70153979,404.66252,64.170259)" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1972"
+     inkscape:label="x - Bertakbir Saat Menuju Shalat Ied"
+     style="display:none">
+    <g
+       id="g1850">
+      <path
+         id="path1838"
+         style="fill:#998e28;fill-opacity:1;stroke-width:1.51181;stroke-linecap:round"
+         d="m -2839.916,1249.9219 v 239.7187 4.9102 h 244.6289 v -4.9102 -239.7187 h -4.9121 -234.8067 z"
+         transform="scale(0.26458333)" />
+      <g
+         id="g1848"
+         transform="translate(77.503357)"
+         style="display:inline;mix-blend-mode:multiply">
+        <path
+           id="path1840"
+           style="fill:url(#linearGradient182032);fill-opacity:1;stroke-width:1.51181;stroke-linecap:round"
+           d="m -3010.5273,1367.3262 -122.3145,122.3144 v 4.9102 h 244.6289 v -4.9102 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path1842"
+           style="fill:url(#linearGradient182034);fill-opacity:1;stroke-width:1.51181;stroke-linecap:round"
+           d="m -3010.5273,1367.3262 122.3144,122.3144 v -239.7187 h -4.9121 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path1844"
+           style="fill:#eaeaea;fill-opacity:1;stroke-width:1.51181;stroke-linecap:round"
+           d="m -3127.9316,1249.9219 h -4.9102 v 239.7187 l 122.3145,-122.3144 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path1846"
+           style="fill:#d6d6d6;fill-opacity:1;stroke-width:1.51181;stroke-linecap:round"
+           d="m -3127.9316,1249.9219 117.4043,117.4043 117.4023,-117.4043 z"
+           transform="scale(0.26458333)" />
+      </g>
+    </g>
+    <g
+       id="g1970"
+       transform="translate(188.15625,57.333071)"
+       clip-path="url(#clipPath114037)"
+       inkscape:export-filename="/run/media/ichsan/Share/Document/Design/Istiqlal/Sosmed/Maret22/x_BertakbirSaatMenuju.png"
+       inkscape:export-xdpi="95.999992"
+       inkscape:export-ydpi="95.999992">
+      <rect
+         style="opacity:0.695817;mix-blend-mode:hue;fill:#53a88d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1856"
+         width="364.06665"
+         height="337.60834"
+         x="25.627081"
+         y="-101.78307"
+         ry="0.52916664" />
+      <image
+         width="320.42743"
+         height="426.74097"
+         preserveAspectRatio="none"
+         xlink:href="masjid-maba-oBzeYwNn1pA-unsplash.jpg"
+         id="image1852"
+         x="22.855911"
+         y="-325.94858"
+         transform="rotate(-5.5808719)" />
+      <rect
+         style="mix-blend-mode:overlay;fill:url(#linearGradient30824);fill-opacity:1;stroke-width:0.114446;stroke-linecap:round;stroke-linejoin:round"
+         id="rect30822"
+         width="395.93076"
+         height="203.66367"
+         x="3.3959606"
+         y="-119.88648" />
+      <path
+         style="opacity:0.403042;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter155630)"
+         d="m 29.860414,182.90859 c 0,0 141.129436,-99.994493 314.324996,0 C 517.38097,282.9031 463.77708,14.633597 424.61874,1.9335967 385.46041,-10.766403 -46.339585,-7.5914033 -32.581252,42.150267 -18.822919,91.891927 29.860414,182.90859 29.860414,182.90859 Z"
+         id="path1854"
+         transform="matrix(1,0,0,-1,0,301.34346)" />
+      <rect
+         style="fill:url(#linearGradient21157);fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect15135"
+         width="395.93076"
+         height="155.49329"
+         x="3.3959606"
+         y="67.867119" />
+      <g
+         id="g1890"
+         transform="translate(0,-1.8175985)"
+         style="fill:#ffffff">
+        <g
+           id="g1876"
+           transform="matrix(1.0135438,0,0,1.0226935,1061.9307,-26.18537)"
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.893332;stroke-miterlimit:4;stroke-dasharray:none">
+          <g
+             id="g1870"
+             transform="matrix(1.4571611,0,0,1.4571607,-694.37877,-9660.927)"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.613063;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path1860"
+               d="m -188.99309,6592.63 c -0.0992,0 -0.19822,0 -0.26528,0.014 -0.4126,0.056 -0.77699,0.22 -1.09073,0.4892 -0.33793,0.2896 -0.58232,0.7009 -0.67355,1.1329 -0.0585,0.2754 -0.0599,0.5909 0,0.8648 0.0636,0.3084 0.21272,0.6248 0.41681,0.8804 0.0687,0.087 0.22581,0.2431 0.31208,0.3121 0.25026,0.1997 0.54391,0.3417 0.8527,0.4122 l -2.6e-4,-2e-4 c 0.10432,0.025 0.14325,0.027 0.14999,0.011 0.012,-0.022 0.012,-1.4224 0,-1.4389 0,0 -0.012,0 -0.012,-0.011 h -3.8e-4 v 0 c -0.0165,-0.011 -0.0687,-0.011 -0.25585,-0.011 h -0.25751 V 6595 v -0.2853 h 0.25763 c 0.23868,0 0.25777,0 0.26489,-0.014 0,-0.011 0.012,-0.1498 0.012,-0.3231 0,-0.2819 0.012,-0.3145 0.0203,-0.373 0.0523,-0.1972 0.13711,-0.3281 0.27419,-0.4191 0.0763,-0.051 0.1389,-0.078 0.23333,-0.1015 0.0624,-0.016 0.0879,-0.018 0.26744,-0.017 0.1392,5e-4 0.2285,0 0.30037,0.014 0.0573,0.011 0.10568,0.016 0.10822,0.018 0,0 0.012,0.1106 0.012,0.2408 v 0.2365 h -0.16858 c -0.1133,0 -0.1813,0.011 -0.20814,0.016 -0.11705,0.034 -0.19213,0.1106 -0.22164,0.2239 -0.0153,0.061 -0.0179,0.4709 0,0.4863 0.012,0.011 0.0814,0.011 0.28537,0.011 h 0.27596 l -5e-4,0.018 c -1.2e-4,0.011 -0.0191,0.1374 -0.0421,0.2834 l -0.0407,0.2657 h -0.24174 -0.242 v 0.7277 c 0,0.6681 0,0.7276 0.012,0.7329 0.0318,0.013 0.27609,-0.049 0.42418,-0.105 0.1157,-0.044 0.28677,-0.1312 0.39173,-0.1999 0.13442,-0.088 0.23755,-0.1741 0.35688,-0.2967 0.31286,-0.321 0.50562,-0.7151 0.57189,-1.1683 0.0204,-0.1322 0.0204,-0.423 0,-0.5551 -0.0356,-0.2451 -0.0967,-0.4437 -0.2028,-0.6535 -0.31119,-0.6205 -0.89734,-1.0366 -1.59443,-1.1318 -0.0675,-0.011 -0.16654,-0.014 -0.26565,-0.014 z"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.613063;stroke-miterlimit:4;stroke-dasharray:none" />
+            <g
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.538378;stroke-miterlimit:4;stroke-dasharray:none"
+               transform="matrix(1.1387232,0,0,1.1387232,-118.81329,6282.4033)"
+               id="g1864">
+              <path
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.538378;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m -50.156541,276.20876 c -0.186919,-0.008 -0.31922,-0.0239 -0.433591,-0.0541 -0.383496,-0.10105 -0.653142,-0.37375 -0.750221,-0.75859 -0.04761,-0.18875 -0.05944,-0.41775 -0.05937,-1.15154 3.9e-5,-0.75499 0.01168,-0.97494 0.06226,-1.16884 0.100182,-0.38445 0.373136,-0.65504 0.758906,-0.75236 0.188759,-0.0476 0.417751,-0.0594 1.151555,-0.0594 0.754968,3e-5 0.974934,0.0115 1.168819,0.0623 0.384451,0.10015 0.655059,0.37313 0.752374,0.7589 0.04753,0.18847 0.05937,0.41859 0.05937,1.15548 0,0.75066 -0.01181,0.97121 -0.06226,1.16488 -0.100183,0.38445 -0.373137,0.65507 -0.758907,0.75239 -0.115397,0.0291 -0.236196,0.0429 -0.453399,0.0515 -0.226062,0.009 -1.203287,0.009 -1.435537,-4.3e-4 z m 1.211963,-0.3521 c 0.383244,-0.008 0.487756,-0.0166 0.607315,-0.0511 0.131416,-0.0381 0.208109,-0.0813 0.297452,-0.16773 0.120467,-0.11644 0.184766,-0.25725 0.213181,-0.46658 0.03112,-0.22908 0.03112,-1.63212 0,-1.86121 -0.01946,-0.14356 -0.06355,-0.27407 -0.12206,-0.36127 -0.03601,-0.0537 -0.121186,-0.13961 -0.175069,-0.1766 -0.09324,-0.0642 -0.218867,-0.10772 -0.368725,-0.12801 -0.229076,-0.0312 -1.632124,-0.0312 -1.861199,0 -0.14985,0.0203 -0.275483,0.0639 -0.368734,0.12801 -0.05387,0.0371 -0.139046,0.12287 -0.175059,0.1766 -0.05852,0.0872 -0.10257,0.21771 -0.12206,0.36127 -0.03112,0.22909 -0.03112,1.63213 0,1.86121 0.0203,0.14986 0.06394,0.27548 0.127966,0.36874 0.03702,0.0539 0.12292,0.13904 0.17661,0.17505 0.08911,0.0598 0.218676,0.10296 0.369283,0.12299 0.16129,0.0214 0.823542,0.0303 1.401102,0.0188 z m -0.659546,-0.61631 c -0.416872,-0.0754 -0.746364,-0.40726 -0.819195,-0.82489 -0.01503,-0.0865 -0.01503,-0.26321 0,-0.3497 0.07332,-0.42062 0.404756,-0.75203 0.825382,-0.82538 0.0865,-0.0152 0.263207,-0.0152 0.349704,0 0.420626,0.0733 0.752033,0.40476 0.825381,0.82538 0.01503,0.0865 0.01503,0.26321 0,0.3497 -0.07332,0.42062 -0.404755,0.75202 -0.825381,0.82538 -0.08345,0.0146 -0.274309,0.0144 -0.355891,-4.4e-4 z m 0.334007,-0.36023 c 0.246359,-0.0646 0.421535,-0.23999 0.487133,-0.48782 0.01014,-0.0381 0.0142,-0.082 0.0142,-0.15168 0,-0.0696 -0.0045,-0.11362 -0.0142,-0.15169 -0.06576,-0.24849 -0.239942,-0.42266 -0.488423,-0.48842 -0.07394,-0.0196 -0.229419,-0.0196 -0.303356,0 -0.08276,0.022 -0.14454,0.0493 -0.213082,0.0949 -0.137011,0.0909 -0.230634,0.22467 -0.275332,0.39359 -0.01953,0.0739 -0.01953,0.22942 0,0.30337 0.06166,0.23315 0.223644,0.40573 0.447905,0.47732 0.09731,0.0311 0.249036,0.0357 0.345155,0.0103 z m 0.847196,-1.46221 c -0.06868,-0.0182 -0.124961,-0.0642 -0.158831,-0.1294 -0.01747,-0.0338 -0.02082,-0.0503 -0.02082,-0.10297 0,-0.0733 0.02023,-0.12145 0.07111,-0.16979 0.05006,-0.0475 0.09197,-0.0646 0.159534,-0.0648 0.09971,-4.5e-4 0.180052,0.0506 0.22111,0.14054 0.02618,0.0574 0.02479,0.14235 -0.003,0.1961 -0.02434,0.0469 -0.06806,0.0901 -0.114267,0.11324 -0.03677,0.0184 -0.116488,0.0272 -0.154598,0.0171 z"
+                 id="path1862"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.613063;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m -182.92118,6596.5971 c -0.68549,-0.019 -1.15025,-0.054 -1.34352,-0.1031 -0.1963,-0.05 -0.37069,-0.2001 -0.45192,-0.3881 -0.0767,-0.1779 -0.12408,-0.5638 -0.14377,-1.1773 -0.0147,-0.4565 0.0166,-1.0553 0.072,-1.3852 0.0238,-0.1401 0.0412,-0.2088 0.0717,-0.2795 0.0812,-0.188 0.25564,-0.3378 0.45195,-0.3879 0.27014,-0.07 1.07384,-0.1113 2.12878,-0.1113 1.05493,0 1.85865,0.042 2.12879,0.1113 0.19631,0.05 0.37068,0.1999 0.45193,0.3879 0.0769,0.1778 0.12406,0.5637 0.14375,1.1771 0.0147,0.4566 -0.0166,1.0555 -0.072,1.3852 -0.0238,0.1405 -0.0413,0.2089 -0.0719,0.2797 -0.0812,0.188 -0.25564,0.3376 -0.45194,0.3881 -0.19931,0.05 -0.64233,0.084 -1.38447,0.1044 -0.31572,0.014 -1.20422,0.014 -1.52958,-6e-4 z m 1.07767,-1.5849 c 0.31372,-0.1781 0.5704,-0.3255 0.57038,-0.3275 -5e-5,0 -0.32159,-0.1866 -1.28091,-0.7306 l -0.14007,-0.08 v 0.8103 0.8103 l 0.14007,-0.08 c 0.077,-0.044 0.39677,-0.2252 0.71053,-0.4033 z"
+               id="path1866"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path1868"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.613063;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m -194.57021,6592.6028 a 2.0839882,2.0840777 0 0 0 -2.08384,2.0839 2.0839882,2.0840777 0 0 0 2.08384,2.0841 2.0839882,2.0840777 0 0 0 2.08419,-2.0841 2.0839882,2.0840777 0 0 0 -2.08419,-2.0839 z m 0.84151,1.2918 c 0.0215,0 0.0376,0 0.0483,0.018 0.0179,0 0.0197,0.018 0.025,0.023 0,0.018 0,0.029 0,0.056 0,0.025 0,0.059 0,0.102 0,0.066 -0.0197,0.19 -0.0429,0.3396 -0.0215,0.1503 -0.0501,0.3255 -0.0805,0.4955 -0.0304,0.17 -0.0591,0.3344 -0.0859,0.4613 -0.025,0.127 -0.0465,0.2163 -0.0573,0.2367 -0.0179,0.02 -0.0251,0.036 -0.0429,0.05 -0.0179,0.018 -0.0358,0.02 -0.0501,0.02 -0.0179,0 -0.0698,-0.029 -0.14315,-0.072 -0.0734,-0.043 -0.16819,-0.102 -0.26195,-0.1628 -0.0948,-0.061 -0.18842,-0.1252 -0.26375,-0.1789 -0.0751,-0.054 -0.13062,-0.098 -0.14851,-0.1199 0,-0.018 -0.0179,-0.023 -0.0179,-0.039 0,-0.018 0.0179,-0.036 0.0376,-0.066 0.0447,-0.057 0.1342,-0.1467 0.29023,-0.2988 0.0841,-0.081 0.15209,-0.1503 0.20631,-0.2103 0.0537,-0.059 0.0948,-0.1091 0.11988,-0.1467 0.0179,-0.02 0.0233,-0.036 0.0286,-0.05 0,-0.018 0,-0.027 0,-0.036 0,-0.018 0,-0.018 -0.0179,-0.021 0,0 -0.0179,0 -0.0322,0 -0.0179,0 -0.0787,0.038 -0.17535,0.097 -0.0966,0.059 -0.2251,0.1413 -0.36001,0.231 -0.20899,0.1395 -0.33639,0.221 -0.42496,0.2677 -0.0447,0.023 -0.0787,0.038 -0.10915,0.047 -0.0304,0 -0.0555,0.018 -0.0823,0.018 -0.0429,0 -0.0913,0 -0.14315,-0.02 -0.0501,-0.018 -0.10199,-0.027 -0.14851,-0.043 -0.0465,-0.018 -0.0877,-0.034 -0.11631,-0.052 -0.0179,-0.018 -0.0268,-0.018 -0.034,-0.027 0,0 -0.0179,-0.018 -0.0179,-0.023 0,-0.018 0.0304,-0.032 0.0823,-0.061 0.0537,-0.03 0.12883,-0.068 0.22027,-0.1109 0.18269,-0.088 0.42782,-0.1954 0.67743,-0.3008 0.24979,-0.1056 0.50423,-0.2078 0.70535,-0.2829 0.1002,-0.038 0.1877,-0.068 0.25426,-0.09 0.0662,-0.021 0.11273,-0.032 0.13062,-0.029 z" />
+          </g>
+          <text
+             id="text1874"
+             y="-49.656887"
+             x="-943.44049"
+             style="font-style:normal;font-weight:normal;font-size:4.93132px;line-height:1.05;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01484;stroke-miterlimit:4;stroke-dasharray:none"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93132px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1.01484;stroke-miterlimit:4;stroke-dasharray:none"
+               y="-49.656887"
+               x="-943.44049"
+               sodipodi:role="line"
+               id="tspan1872">Istiqlal Islamic School</tspan></text>
+        </g>
+        <g
+           id="g1888"
+           transform="matrix(0.6304442,0,0,0.6304442,39.204994,-261.04736)"
+           style="display:inline;fill:#ffffff">
+          <text
+             transform="matrix(3.1365544,0,0,3.1725227,1039.7142,-742.17878)"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.81815px;line-height:146%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.0605907px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;inline-size:111.009;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.449828;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="-248.65245"
+             y="324.35068"
+             id="text1886"><tspan
+               x="-248.65245"
+               y="324.35068"
+               id="tspan72330"><tspan
+                 style="font-weight:normal;font-size:2.09657px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+                 id="tspan72328">Infaq Operasional &amp; Dakwah :
+</tspan></tspan><tspan
+               x="-248.65245"
+               y="327.00516"
+               id="tspan72334"><tspan
+                 style="font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+                 id="tspan72332">Bank BSI (451) No. 8525706280 an. Masjid Al-Istiqlal</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g1968"
+         transform="matrix(1.177805,0,0,1.177805,150.65036,-251.4881)"
+         style="opacity:1;fill:#ffffff;fill-opacity:1">
+        <g
+           id="g1948"
+           transform="matrix(0.47939829,0,0,0.47939829,-755.95626,-191.67024)"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2.64288;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.12360983,0,0,0.12360983,1449.0196,956.61677)"
+             id="text1908"
+             style="font-weight:800;font-size:99.1258px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;white-space:pre;shape-inside:url(#rect1974);fill:#ffffff;fill-opacity:1;stroke-width:5.47517;stroke-miterlimit:4;stroke-dasharray:none"
+             x="-334.97137"
+             y="0"><tspan
+               x="1251"
+               y="520.34777"
+               id="tspan72338"><tspan
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72336">Nabi        biasa keluar hendak shalat pada </tspan></tspan><tspan
+               x="1251"
+               y="635.67144"
+               id="tspan72342"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010108948"
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72340">hari raya ‘Idul Fithri, lantas beliau </tspan></tspan><tspan
+               x="1251"
+               y="750.9951"
+               id="tspan72346"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010108948"
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72344">bertakbir sampai di lapangan dan sampai </tspan></tspan><tspan
+               x="1251"
+               y="866.31877"
+               id="tspan72350"><tspan
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72348">shalat hendak dilaksanakan. Ketika shalat </tspan></tspan><tspan
+               x="1251"
+               y="981.64244"
+               id="tspan72354"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011062622"
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72352">hendak dilaksanakan, beliau berhenti dari </tspan></tspan><tspan
+               x="1251"
+               y="1096.9661"
+               id="tspan72358"><tspan
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72356">bertakbir
+</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.22744565,0,0,0.22744565,1319.2622,1002.5872)"
+             id="text1926"
+             style="font-weight:800;font-size:31.0888px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;white-space:pre;shape-inside:url(#rect1976);fill:#ffffff;fill-opacity:1;stroke-width:4.34323;stroke-miterlimit:4;stroke-dasharray:none"
+             x="346.77371"
+             y="0"><tspan
+               x="1251"
+               y="460.24337"
+               id="tspan72362"><tspan
+                 style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
+                 id="tspan72360">As Silsilah Ash Shahihah no. 171. 
+</tspan></tspan><tspan
+               x="1251"
+               y="496.41232"
+               id="tspan72366"><tspan
+                 style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
+                 id="tspan72364">Syaikh Al Albani mengatakan bahwa riwayat ini shahih. 
+</tspan></tspan><tspan
+               x="1251"
+               y="532.58126"
+               id="tspan72374"><tspan
+                 style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
+                 id="tspan72368">Dinukil dari </tspan><tspan
+                 style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
+                 id="tspan72370">Rumaysho</tspan><tspan
+                 style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
+                 id="tspan72372"> dalam artikel &quot;Panduan Shalat Idul </tspan></tspan><tspan
+               x="1251"
+               y="568.75021"
+               id="tspan72378"><tspan
+                 style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
+                 id="tspan72376">Fithri dan Idul Adha&quot; dengan sedikit penyesuaian</tspan></tspan></text>
+          <g
+             id="g1928"
+             transform="matrix(3.6155315,0,0,3.6155315,906.43168,821.42139)"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.719191;stroke-miterlimit:4;stroke-dasharray:none" />
+          <text
+             xml:space="preserve"
+             style="font-weight:800;font-size:29.4558px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.94621"
+             x="1962.8585"
+             y="1014.1392"
+             id="text1932"><tspan
+               sodipodi:role="line"
+               id="tspan1930"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:1.94621"
+               x="1962.8585"
+               y="1014.1392" /></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.54879904,0,0,0.54879904,1066.8173,784.83338)"
+             id="text1934"
+             style="font-weight:800;font-size:40px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';letter-spacing:0px;white-space:pre;shape-inside:url(#rect1978);fill:#ffffff;fill-opacity:1" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.83423828,0,0,0.83423828,590.20285,641.00706)"
+             id="text1946"
+             style="font-weight:800;font-size:31.0888px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;white-space:pre;shape-inside:url(#rect1982);fill:#ffffff;fill-opacity:1;stroke-width:4.34323;stroke-miterlimit:4;stroke-dasharray:none"
+             x="346.77371"
+             y="0"><tspan
+               x="1251"
+               y="459.82655"
+               id="tspan72382"><tspan
+                 style="font-weight:bold;font-family:Lafadz;-inkscape-font-specification:'Lafadz Bold'"
+                 id="tspan72380">c</tspan></tspan></text>
+        </g>
+        <text
+           id="text1962"
+           y="6365.6494"
+           x="-70.27536"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.6508px;line-height:1;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:131.233;display:inline;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.771837;stroke-miterlimit:4;stroke-dasharray:none"
+           xml:space="preserve"
+           transform="matrix(0.59986394,0,0,0.60527946,-26.988503,-3549.8273)"><tspan
+             x="-70.27536"
+             y="6365.6494"
+             id="tspan72386"><tspan
+               style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+               id="tspan72384">Bertakbir </tspan></tspan><tspan
+             x="-70.27536"
+             y="6385.3647"
+             id="tspan72390"><tspan
+               style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+               id="tspan72388">Saat Menuju </tspan></tspan><tspan
+             x="-70.27536"
+             y="6405.08"
+             id="tspan72394"><tspan
+               style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+               id="tspan72392">Shalat Ied</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:800;font-size:10.5833px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="178.6657"
+           y="95.244759"
+           id="text1966"><tspan
+             sodipodi:role="line"
+             id="tspan1964"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="178.6657"
+             y="95.244759" /></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g35685"
+     inkscape:label="x - Tidak Ada Qobliyah dan Ba'diyah Ied"
+     style="display:inline">
+    <g
+       id="g35563">
+      <path
+         id="path35551"
+         style="fill:#998e28;fill-opacity:1;stroke-width:1.51181;stroke-linecap:round"
+         d="m -2839.916,1249.9219 v 239.7187 4.9102 h 244.6289 v -4.9102 -239.7187 h -4.9121 -234.8067 z"
+         transform="scale(0.26458333)" />
+      <g
+         id="g35561"
+         transform="translate(77.503357)"
+         style="display:inline;mix-blend-mode:multiply">
+        <path
+           id="path35553"
+           style="fill:url(#linearGradient182032);fill-opacity:1;stroke-width:1.51181;stroke-linecap:round"
+           d="m -3010.5273,1367.3262 -122.3145,122.3144 v 4.9102 h 244.6289 v -4.9102 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path35555"
+           style="fill:url(#linearGradient182034);fill-opacity:1;stroke-width:1.51181;stroke-linecap:round"
+           d="m -3010.5273,1367.3262 122.3144,122.3144 v -239.7187 h -4.9121 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path35557"
+           style="fill:#eaeaea;fill-opacity:1;stroke-width:1.51181;stroke-linecap:round"
+           d="m -3127.9316,1249.9219 h -4.9102 v 239.7187 l 122.3145,-122.3144 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path35559"
+           style="fill:#d6d6d6;fill-opacity:1;stroke-width:1.51181;stroke-linecap:round"
+           d="m -3127.9316,1249.9219 117.4043,117.4043 117.4023,-117.4043 z"
+           transform="scale(0.26458333)" />
+      </g>
+    </g>
+    <g
+       id="g35683"
+       transform="translate(188.15625,57.333071)"
+       clip-path="url(#clipPath114037)"
+       inkscape:export-filename="/run/media/ichsan/Share/Document/Design/Istiqlal/Sosmed/Maret22/x_TidakAdaShalatQobliyah.png"
+       inkscape:export-xdpi="95.999992"
+       inkscape:export-ydpi="95.999992">
+      <image
+         width="762.76898"
+         height="429.05759"
+         preserveAspectRatio="none"
+         xlink:href="masjid-pogung-dalangan-3GNE8tweaP4-unsplash.jpg"
+         id="image35565"
+         x="-196.34221"
+         y="-129.25908" />
+      <rect
+         style="opacity:0.37804693;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect35569"
+         width="364.06665"
+         height="337.60834"
+         x="25.627081"
+         y="-101.78307"
+         ry="0.52916664" />
+      <path
+         style="opacity:0.403042;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter155630)"
+         d="m 29.860414,182.90859 c 0,0 141.129436,-99.994493 314.324996,0 C 517.38097,282.9031 463.77708,14.633597 424.61874,1.9335967 385.46041,-10.766403 -46.339585,-7.5914033 -32.581252,42.150267 -18.822919,91.891927 29.860414,182.90859 29.860414,182.90859 Z"
+         id="path35567"
+         transform="matrix(1,0,0,-1,0,301.34346)" />
+      <path
+         style="opacity:0.695817;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter155622)"
+         d="m 29.860414,-31.933072 c 0,0 141.129436,-99.994498 314.324996,0 173.19556,99.994502 119.59167,-168.274998 80.43333,-180.974998 -39.15833,-12.7 -470.958325,-9.525 -457.199992,40.21667 13.758333,49.74166 62.441666,140.758328 62.441666,140.758328 z"
+         id="path35571" />
+      <g
+         id="g35603"
+         transform="translate(0,-1.8175985)"
+         style="fill:#ffffff">
+        <g
+           id="g35589"
+           transform="matrix(1.0135438,0,0,1.0226935,1061.9307,-26.18537)"
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.893332;stroke-miterlimit:4;stroke-dasharray:none">
+          <g
+             id="g35583"
+             transform="matrix(1.4571611,0,0,1.4571607,-694.37877,-9660.927)"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.613063;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               inkscape:connector-curvature="0"
+               id="path35573"
+               d="m -188.99309,6592.63 c -0.0992,0 -0.19822,0 -0.26528,0.014 -0.4126,0.056 -0.77699,0.22 -1.09073,0.4892 -0.33793,0.2896 -0.58232,0.7009 -0.67355,1.1329 -0.0585,0.2754 -0.0599,0.5909 0,0.8648 0.0636,0.3084 0.21272,0.6248 0.41681,0.8804 0.0687,0.087 0.22581,0.2431 0.31208,0.3121 0.25026,0.1997 0.54391,0.3417 0.8527,0.4122 l -2.6e-4,-2e-4 c 0.10432,0.025 0.14325,0.027 0.14999,0.011 0.012,-0.022 0.012,-1.4224 0,-1.4389 0,0 -0.012,0 -0.012,-0.011 h -3.8e-4 v 0 c -0.0165,-0.011 -0.0687,-0.011 -0.25585,-0.011 h -0.25751 V 6595 v -0.2853 h 0.25763 c 0.23868,0 0.25777,0 0.26489,-0.014 0,-0.011 0.012,-0.1498 0.012,-0.3231 0,-0.2819 0.012,-0.3145 0.0203,-0.373 0.0523,-0.1972 0.13711,-0.3281 0.27419,-0.4191 0.0763,-0.051 0.1389,-0.078 0.23333,-0.1015 0.0624,-0.016 0.0879,-0.018 0.26744,-0.017 0.1392,5e-4 0.2285,0 0.30037,0.014 0.0573,0.011 0.10568,0.016 0.10822,0.018 0,0 0.012,0.1106 0.012,0.2408 v 0.2365 h -0.16858 c -0.1133,0 -0.1813,0.011 -0.20814,0.016 -0.11705,0.034 -0.19213,0.1106 -0.22164,0.2239 -0.0153,0.061 -0.0179,0.4709 0,0.4863 0.012,0.011 0.0814,0.011 0.28537,0.011 h 0.27596 l -5e-4,0.018 c -1.2e-4,0.011 -0.0191,0.1374 -0.0421,0.2834 l -0.0407,0.2657 h -0.24174 -0.242 v 0.7277 c 0,0.6681 0,0.7276 0.012,0.7329 0.0318,0.013 0.27609,-0.049 0.42418,-0.105 0.1157,-0.044 0.28677,-0.1312 0.39173,-0.1999 0.13442,-0.088 0.23755,-0.1741 0.35688,-0.2967 0.31286,-0.321 0.50562,-0.7151 0.57189,-1.1683 0.0204,-0.1322 0.0204,-0.423 0,-0.5551 -0.0356,-0.2451 -0.0967,-0.4437 -0.2028,-0.6535 -0.31119,-0.6205 -0.89734,-1.0366 -1.59443,-1.1318 -0.0675,-0.011 -0.16654,-0.014 -0.26565,-0.014 z"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.613063;stroke-miterlimit:4;stroke-dasharray:none" />
+            <g
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.538378;stroke-miterlimit:4;stroke-dasharray:none"
+               transform="matrix(1.1387232,0,0,1.1387232,-118.81329,6282.4033)"
+               id="g35577">
+              <path
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.538378;stroke-miterlimit:4;stroke-dasharray:none"
+                 d="m -50.156541,276.20876 c -0.186919,-0.008 -0.31922,-0.0239 -0.433591,-0.0541 -0.383496,-0.10105 -0.653142,-0.37375 -0.750221,-0.75859 -0.04761,-0.18875 -0.05944,-0.41775 -0.05937,-1.15154 3.9e-5,-0.75499 0.01168,-0.97494 0.06226,-1.16884 0.100182,-0.38445 0.373136,-0.65504 0.758906,-0.75236 0.188759,-0.0476 0.417751,-0.0594 1.151555,-0.0594 0.754968,3e-5 0.974934,0.0115 1.168819,0.0623 0.384451,0.10015 0.655059,0.37313 0.752374,0.7589 0.04753,0.18847 0.05937,0.41859 0.05937,1.15548 0,0.75066 -0.01181,0.97121 -0.06226,1.16488 -0.100183,0.38445 -0.373137,0.65507 -0.758907,0.75239 -0.115397,0.0291 -0.236196,0.0429 -0.453399,0.0515 -0.226062,0.009 -1.203287,0.009 -1.435537,-4.3e-4 z m 1.211963,-0.3521 c 0.383244,-0.008 0.487756,-0.0166 0.607315,-0.0511 0.131416,-0.0381 0.208109,-0.0813 0.297452,-0.16773 0.120467,-0.11644 0.184766,-0.25725 0.213181,-0.46658 0.03112,-0.22908 0.03112,-1.63212 0,-1.86121 -0.01946,-0.14356 -0.06355,-0.27407 -0.12206,-0.36127 -0.03601,-0.0537 -0.121186,-0.13961 -0.175069,-0.1766 -0.09324,-0.0642 -0.218867,-0.10772 -0.368725,-0.12801 -0.229076,-0.0312 -1.632124,-0.0312 -1.861199,0 -0.14985,0.0203 -0.275483,0.0639 -0.368734,0.12801 -0.05387,0.0371 -0.139046,0.12287 -0.175059,0.1766 -0.05852,0.0872 -0.10257,0.21771 -0.12206,0.36127 -0.03112,0.22909 -0.03112,1.63213 0,1.86121 0.0203,0.14986 0.06394,0.27548 0.127966,0.36874 0.03702,0.0539 0.12292,0.13904 0.17661,0.17505 0.08911,0.0598 0.218676,0.10296 0.369283,0.12299 0.16129,0.0214 0.823542,0.0303 1.401102,0.0188 z m -0.659546,-0.61631 c -0.416872,-0.0754 -0.746364,-0.40726 -0.819195,-0.82489 -0.01503,-0.0865 -0.01503,-0.26321 0,-0.3497 0.07332,-0.42062 0.404756,-0.75203 0.825382,-0.82538 0.0865,-0.0152 0.263207,-0.0152 0.349704,0 0.420626,0.0733 0.752033,0.40476 0.825381,0.82538 0.01503,0.0865 0.01503,0.26321 0,0.3497 -0.07332,0.42062 -0.404755,0.75202 -0.825381,0.82538 -0.08345,0.0146 -0.274309,0.0144 -0.355891,-4.4e-4 z m 0.334007,-0.36023 c 0.246359,-0.0646 0.421535,-0.23999 0.487133,-0.48782 0.01014,-0.0381 0.0142,-0.082 0.0142,-0.15168 0,-0.0696 -0.0045,-0.11362 -0.0142,-0.15169 -0.06576,-0.24849 -0.239942,-0.42266 -0.488423,-0.48842 -0.07394,-0.0196 -0.229419,-0.0196 -0.303356,0 -0.08276,0.022 -0.14454,0.0493 -0.213082,0.0949 -0.137011,0.0909 -0.230634,0.22467 -0.275332,0.39359 -0.01953,0.0739 -0.01953,0.22942 0,0.30337 0.06166,0.23315 0.223644,0.40573 0.447905,0.47732 0.09731,0.0311 0.249036,0.0357 0.345155,0.0103 z m 0.847196,-1.46221 c -0.06868,-0.0182 -0.124961,-0.0642 -0.158831,-0.1294 -0.01747,-0.0338 -0.02082,-0.0503 -0.02082,-0.10297 0,-0.0733 0.02023,-0.12145 0.07111,-0.16979 0.05006,-0.0475 0.09197,-0.0646 0.159534,-0.0648 0.09971,-4.5e-4 0.180052,0.0506 0.22111,0.14054 0.02618,0.0574 0.02479,0.14235 -0.003,0.1961 -0.02434,0.0469 -0.06806,0.0901 -0.114267,0.11324 -0.03677,0.0184 -0.116488,0.0272 -0.154598,0.0171 z"
+                 id="path35575"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.613063;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m -182.92118,6596.5971 c -0.68549,-0.019 -1.15025,-0.054 -1.34352,-0.1031 -0.1963,-0.05 -0.37069,-0.2001 -0.45192,-0.3881 -0.0767,-0.1779 -0.12408,-0.5638 -0.14377,-1.1773 -0.0147,-0.4565 0.0166,-1.0553 0.072,-1.3852 0.0238,-0.1401 0.0412,-0.2088 0.0717,-0.2795 0.0812,-0.188 0.25564,-0.3378 0.45195,-0.3879 0.27014,-0.07 1.07384,-0.1113 2.12878,-0.1113 1.05493,0 1.85865,0.042 2.12879,0.1113 0.19631,0.05 0.37068,0.1999 0.45193,0.3879 0.0769,0.1778 0.12406,0.5637 0.14375,1.1771 0.0147,0.4566 -0.0166,1.0555 -0.072,1.3852 -0.0238,0.1405 -0.0413,0.2089 -0.0719,0.2797 -0.0812,0.188 -0.25564,0.3376 -0.45194,0.3881 -0.19931,0.05 -0.64233,0.084 -1.38447,0.1044 -0.31572,0.014 -1.20422,0.014 -1.52958,-6e-4 z m 1.07767,-1.5849 c 0.31372,-0.1781 0.5704,-0.3255 0.57038,-0.3275 -5e-5,0 -0.32159,-0.1866 -1.28091,-0.7306 l -0.14007,-0.08 v 0.8103 0.8103 l 0.14007,-0.08 c 0.077,-0.044 0.39677,-0.2252 0.71053,-0.4033 z"
+               id="path35579"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path35581"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:0.613063;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m -194.57021,6592.6028 a 2.0839882,2.0840777 0 0 0 -2.08384,2.0839 2.0839882,2.0840777 0 0 0 2.08384,2.0841 2.0839882,2.0840777 0 0 0 2.08419,-2.0841 2.0839882,2.0840777 0 0 0 -2.08419,-2.0839 z m 0.84151,1.2918 c 0.0215,0 0.0376,0 0.0483,0.018 0.0179,0 0.0197,0.018 0.025,0.023 0,0.018 0,0.029 0,0.056 0,0.025 0,0.059 0,0.102 0,0.066 -0.0197,0.19 -0.0429,0.3396 -0.0215,0.1503 -0.0501,0.3255 -0.0805,0.4955 -0.0304,0.17 -0.0591,0.3344 -0.0859,0.4613 -0.025,0.127 -0.0465,0.2163 -0.0573,0.2367 -0.0179,0.02 -0.0251,0.036 -0.0429,0.05 -0.0179,0.018 -0.0358,0.02 -0.0501,0.02 -0.0179,0 -0.0698,-0.029 -0.14315,-0.072 -0.0734,-0.043 -0.16819,-0.102 -0.26195,-0.1628 -0.0948,-0.061 -0.18842,-0.1252 -0.26375,-0.1789 -0.0751,-0.054 -0.13062,-0.098 -0.14851,-0.1199 0,-0.018 -0.0179,-0.023 -0.0179,-0.039 0,-0.018 0.0179,-0.036 0.0376,-0.066 0.0447,-0.057 0.1342,-0.1467 0.29023,-0.2988 0.0841,-0.081 0.15209,-0.1503 0.20631,-0.2103 0.0537,-0.059 0.0948,-0.1091 0.11988,-0.1467 0.0179,-0.02 0.0233,-0.036 0.0286,-0.05 0,-0.018 0,-0.027 0,-0.036 0,-0.018 0,-0.018 -0.0179,-0.021 0,0 -0.0179,0 -0.0322,0 -0.0179,0 -0.0787,0.038 -0.17535,0.097 -0.0966,0.059 -0.2251,0.1413 -0.36001,0.231 -0.20899,0.1395 -0.33639,0.221 -0.42496,0.2677 -0.0447,0.023 -0.0787,0.038 -0.10915,0.047 -0.0304,0 -0.0555,0.018 -0.0823,0.018 -0.0429,0 -0.0913,0 -0.14315,-0.02 -0.0501,-0.018 -0.10199,-0.027 -0.14851,-0.043 -0.0465,-0.018 -0.0877,-0.034 -0.11631,-0.052 -0.0179,-0.018 -0.0268,-0.018 -0.034,-0.027 0,0 -0.0179,-0.018 -0.0179,-0.023 0,-0.018 0.0304,-0.032 0.0823,-0.061 0.0537,-0.03 0.12883,-0.068 0.22027,-0.1109 0.18269,-0.088 0.42782,-0.1954 0.67743,-0.3008 0.24979,-0.1056 0.50423,-0.2078 0.70535,-0.2829 0.1002,-0.038 0.1877,-0.068 0.25426,-0.09 0.0662,-0.021 0.11273,-0.032 0.13062,-0.029 z" />
+          </g>
+          <text
+             id="text35587"
+             y="-49.656887"
+             x="-943.44049"
+             style="font-style:normal;font-weight:normal;font-size:4.93132px;line-height:1.05;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.01484;stroke-miterlimit:4;stroke-dasharray:none"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93132px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1.01484;stroke-miterlimit:4;stroke-dasharray:none"
+               y="-49.656887"
+               x="-943.44049"
+               sodipodi:role="line"
+               id="tspan35585">Istiqlal Islamic School</tspan></text>
+        </g>
+        <g
+           id="g35601"
+           transform="matrix(0.6304442,0,0,0.6304442,39.204994,-261.04736)"
+           style="display:inline;fill:#ffffff">
+          <text
+             transform="matrix(3.1365544,0,0,3.1725227,1039.7142,-742.17878)"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.81815px;line-height:146%;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.0605907px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;inline-size:111.009;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.449828;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="-248.65245"
+             y="324.35068"
+             id="text35599"><tspan
+               x="-248.65245"
+               y="324.35068"
+               id="tspan72398"><tspan
+                 style="font-weight:normal;font-size:2.09657px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+                 id="tspan72396">Infaq Operasional &amp; Dakwah :
+</tspan></tspan><tspan
+               x="-248.65245"
+               y="327.00516"
+               id="tspan72402"><tspan
+                 style="font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+                 id="tspan72400">Bank BSI (451) No. 8525706280 an. Masjid Al-Istiqlal</tspan></tspan></text>
+        </g>
+      </g>
+      <g
+         id="g35681"
+         transform="matrix(1.177805,0,0,1.177805,156.24281,-230.09435)"
+         style="opacity:1;fill:#ffffff;fill-opacity:1">
+        <g
+           id="g35661"
+           transform="matrix(0.47939829,0,0,0.47939829,-832.04957,-209.2047)"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2.64288;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.12879986,0,0,0.12879986,1442.5789,954.35086)"
+             id="text35621"
+             style="font-weight:800;font-size:99.1258px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;white-space:pre;shape-inside:url(#rect35687);fill:#ffffff;fill-opacity:1;stroke-width:5.47517;stroke-miterlimit:4;stroke-dasharray:none"
+             x="-334.97137"
+             y="0"><tspan
+               x="1251"
+               y="520.34777"
+               id="tspan72406"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010299683 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010108948"
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72404">Rasulullah        pernah keluar pada hari </tspan></tspan><tspan
+               x="1251"
+               y="635.67144"
+               id="tspan72410"><tspan
+                 dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011062622"
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72408">Idul Adha atau Idul Fithri, lalu beliau </tspan></tspan><tspan
+               x="1251"
+               y="750.9951"
+               id="tspan72414"><tspan
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72412">mengerjakan shalat ‘ied dua raka’at, </tspan></tspan><tspan
+               x="1251"
+               y="866.31877"
+               id="tspan72418"><tspan
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72416">namun beliau tidak mengerjakan shalat </tspan></tspan><tspan
+               x="1251"
+               y="981.64244"
+               id="tspan72422"><tspan
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72420">qobliyah maupun ba’diyah ‘ied.
+</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.92493592,0,0,0.92493592,512.93247,600.4379)"
+             id="text35659-6"
+             style="font-weight:800;font-size:31.0888px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;white-space:pre;shape-inside:url(#rect35695-3);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:4.34323;stroke-miterlimit:4;stroke-dasharray:none"
+             x="346.77371"
+             y="0"><tspan
+               x="1251"
+               y="459.82655"
+               id="tspan72426"><tspan
+                 style="font-weight:bold;font-family:Lafadz;-inkscape-font-specification:'Lafadz Bold'"
+                 id="tspan72424">c</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.27813502,0,0,0.27813502,1255.9062,974.92458)"
+             id="text35639"
+             style="font-weight:800;font-size:31.0888px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;white-space:pre;shape-inside:url(#rect35689);fill:#ffffff;fill-opacity:1;stroke-width:4.34323;stroke-miterlimit:4;stroke-dasharray:none"
+             x="346.77371"
+             y="0"><tspan
+               x="1251"
+               y="460.24337"
+               id="tspan72430"><tspan
+                 style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
+                 id="tspan72428">HR. Bukhari no. 964 dan Muslim no. 884. 
+</tspan></tspan><tspan
+               x="1251"
+               y="496.41232"
+               id="tspan72438"><tspan
+                 style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
+                 id="tspan72432">Dinukil dari </tspan><tspan
+                 style="font-weight:bold;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Bold'"
+                 id="tspan72434">Rumaysho</tspan><tspan
+                 style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
+                 id="tspan72436"> dalam artikel &quot;Panduan Shalat </tspan></tspan><tspan
+               x="1251"
+               y="532.58126"
+               id="tspan72442"><tspan
+                 style="font-weight:300;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Light'"
+                 id="tspan72440">Idul Fithri dan Idul Adha&quot; dengan sedikit penyesuaian</tspan></tspan></text>
+          <g
+             id="g35641"
+             transform="matrix(3.6155315,0,0,3.6155315,906.43168,821.42139)"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.719191;stroke-miterlimit:4;stroke-dasharray:none" />
+          <text
+             xml:space="preserve"
+             style="font-weight:800;font-size:29.4558px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.94621"
+             x="1962.8585"
+             y="1014.1392"
+             id="text35645"><tspan
+               sodipodi:role="line"
+               id="tspan35643"
+               style="fill:#ffffff;fill-opacity:1;stroke-width:1.94621"
+               x="1962.8585"
+               y="1014.1392" /></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.54879904,0,0,0.54879904,1066.8173,784.83338)"
+             id="text35647"
+             style="font-weight:800;font-size:40px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';letter-spacing:0px;white-space:pre;shape-inside:url(#rect35691);fill:#ffffff;fill-opacity:1" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.30561102,0,0,0.30561102,1220.4369,860.5043)"
+             id="text35653"
+             style="font-weight:800;font-size:31.0888px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;white-space:pre;shape-inside:url(#rect35693);fill:#ffffff;fill-opacity:1;stroke-width:4.34323;stroke-miterlimit:4;stroke-dasharray:none"
+             x="346.77371"
+             y="0"><tspan
+               x="1251"
+               y="460.24337"
+               id="tspan72446"><tspan
+                 style="font-weight:normal;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One'"
+                 id="tspan72444">Ibnu ‘Abbas        berkata,</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.57263203,0,0,0.57263203,943.66172,739.79541)"
+             id="text35659"
+             style="font-weight:800;font-size:31.0888px;line-height:1.15;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';text-align:start;white-space:pre;shape-inside:url(#rect35695);fill:#ffffff;fill-opacity:1;stroke-width:4.34323;stroke-miterlimit:4;stroke-dasharray:none"
+             x="346.77371"
+             y="0"><tspan
+               x="1251"
+               y="459.82655"
+               id="tspan72450"><tspan
+                 style="font-weight:bold;font-family:Lafadz;-inkscape-font-specification:'Lafadz Bold'"
+                 id="tspan72448">f</tspan></tspan></text>
+        </g>
+        <text
+           id="text35675"
+           y="6365.6494"
+           x="-70.27536"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.6508px;line-height:1;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:128.306;display:inline;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.771837;stroke-miterlimit:4;stroke-dasharray:none"
+           xml:space="preserve"
+           transform="matrix(0.64646911,0,0,0.65230539,-18.192432,-3922.5466)"><tspan
+             x="-70.27536"
+             y="6365.6494"
+             id="tspan72454"><tspan
+               style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+               id="tspan72452">Tidak Ada </tspan></tspan><tspan
+             x="-70.27536"
+             y="6385.3647"
+             id="tspan72458"><tspan
+               style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+               id="tspan72456">Qobliyah dan </tspan></tspan><tspan
+             x="-70.27536"
+             y="6405.08"
+             id="tspan72462"><tspan
+               style="font-weight:900;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Heavy'"
+               id="tspan72460">Ba'diyah Ied</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:800;font-size:10.5833px;line-height:1.05;font-family:Metropolis;-inkscape-font-specification:'Metropolis Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="178.6657"
+           y="95.244759"
+           id="text35679"><tspan
+             sodipodi:role="line"
+             id="tspan35677"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="178.6657"
+             y="95.244759" /></text>
+      </g>
     </g>
   </g>
   <g
