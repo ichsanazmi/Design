@@ -25,9 +25,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.41892361"
-     inkscape:cx="-862.92582"
-     inkscape:cy="299.57729"
+     inkscape:zoom="0.44580908"
+     inkscape:cx="-727.89006"
+     inkscape:cy="120.00653"
      inkscape:current-layer="layer1"
      showguides="false" />
   <defs
@@ -67,18 +67,6 @@
          style="stop-color:#e5b700;stop-opacity:0;"
          offset="1"
          id="stop36489" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient21576">
-      <stop
-         style="stop-color:#f5c92d;stop-opacity:1;"
-         offset="0"
-         id="stop21572" />
-      <stop
-         style="stop-color:#e6c13c;stop-opacity:0;"
-         offset="1"
-         id="stop21574" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -352,6 +340,70 @@
        gradientTransform="translate(133.52495)" />
     <linearGradient
        inkscape:collect="always"
+       xlink:href="#linearGradient36491"
+       id="linearGradient36493"
+       x1="-229.86702"
+       y1="-50.324047"
+       x2="-211.60829"
+       y2="-6.5358543"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.0000409,1.3096603)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient38826"
+       id="linearGradient38828"
+       x1="-263.50037"
+       y1="11.806109"
+       x2="-260.33331"
+       y2="14.898599"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter39177"
+       x="-0.15738082"
+       y="-0.23552342"
+       width="1.3147616"
+       height="1.4710393">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.076691294"
+         id="feGaussianBlur39179" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath39183">
+      <rect
+         style="opacity:1;fill:url(#linearGradient39187);fill-opacity:1;stroke:none;stroke-width:0.819001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect39185"
+         width="4.7615089"
+         height="4.7615089"
+         x="-265.73672"
+         y="11.050811"
+         ry="1.3791146" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient38826"
+       id="linearGradient39187"
+       gradientUnits="userSpaceOnUse"
+       x1="-263.50037"
+       y1="11.806109"
+       x2="-260.33331"
+       y2="14.898599"
+       gradientTransform="translate(3.4019442e-6)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39195"
+       id="linearGradient39197"
+       x1="-281.69806"
+       y1="4.0872536"
+       x2="-262.92142"
+       y2="12.921737"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95328755,0,0,0.95328755,-12.302002,0.62742122)" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient21576"
        id="linearGradient21578"
        x1="-200.0647"
@@ -359,6 +411,18 @@
        x2="-200.0647"
        y2="121.34004"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient21576">
+      <stop
+         style="stop-color:#f5c92d;stop-opacity:1;"
+         offset="0"
+         id="stop21572" />
+      <stop
+         style="stop-color:#e6c13c;stop-opacity:0;"
+         offset="1"
+         id="stop21574" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient23166"
@@ -422,70 +486,6 @@
          offset="1"
          id="stop21582" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient36491"
-       id="linearGradient36493"
-       x1="-229.86702"
-       y1="-50.324047"
-       x2="-211.60829"
-       y2="-6.5358543"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1.0000409,1.3096603)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient38826"
-       id="linearGradient38828"
-       x1="-263.50037"
-       y1="11.806109"
-       x2="-260.33331"
-       y2="14.898599"
-       gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter39177"
-       x="-0.15738082"
-       y="-0.23552342"
-       width="1.3147616"
-       height="1.4710393">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.076691294"
-         id="feGaussianBlur39179" />
-    </filter>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath39183">
-      <rect
-         style="opacity:1;fill:url(#linearGradient39187);fill-opacity:1;stroke:none;stroke-width:0.819001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="rect39185"
-         width="4.7615089"
-         height="4.7615089"
-         x="-265.73672"
-         y="11.050811"
-         ry="1.3791146" />
-    </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient38826"
-       id="linearGradient39187"
-       gradientUnits="userSpaceOnUse"
-       x1="-263.50037"
-       y1="11.806109"
-       x2="-260.33331"
-       y2="14.898599"
-       gradientTransform="translate(3.4019442e-6)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient39195"
-       id="linearGradient39197"
-       x1="-281.69806"
-       y1="4.0872536"
-       x2="-262.92142"
-       y2="12.921737"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.95328755,0,0,0.95328755,-12.302002,0.62742122)" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -494,9 +494,9 @@
     <g
        id="g18415"
        transform="translate(-109.68685)"
-       inkscape:export-filename="Example.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
+       inkscape:export-filename="Visi.png"
+       inkscape:export-xdpi="1500"
+       inkscape:export-ydpi="1500">
       <rect
          style="opacity:1;fill:#51a7d3;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
          id="rect18153"
@@ -517,12 +517,6 @@
            x="-283.00562"
            y="-24.426249"
            ry="18.187756" />
-        <circle
-           style="opacity:1;fill:#2287e3;fill-opacity:1;stroke:none;stroke-width:0.777573;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           id="path23671"
-           cx="-202.13544"
-           cy="96.863495"
-           r="21.091591" />
         <text
            xml:space="preserve"
            style="font-size:20.2667px;line-height:1;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.506668"
@@ -543,9 +537,9 @@
            transform="matrix(0.27730016,0,0,0.27730016,-138.60595,-61.885482)"><tspan
              x="-302.45251"
              y="113.7427"
-             id="tspan2058"><tspan
+             id="tspan4655"><tspan
                style="font-weight:bold;font-family:'Encode Sans';-inkscape-font-specification:'Encode Sans Bold'"
-               id="tspan2056">@SMAMULTIISTIQLAL</tspan></tspan></text>
+               id="tspan4653">@SMAMULTIISTIQLAL</tspan></tspan></text>
         <g
            id="g18177"
            style="fill:#194a64;fill-opacity:1"
@@ -1155,88 +1149,6 @@
           </g>
         </g>
         <g
-           id="g23617"
-           transform="matrix(1.173797,0.31451796,-0.31451796,1.173797,67.88447,40.857446)">
-          <path
-             style="opacity:1;fill:url(#linearGradient21578);fill-opacity:1;stroke:none;stroke-width:0.580001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             d="m -207.23672,102.52934 2.57291,23.0701 h 5.91719 l 3.37799,-23.36115 z"
-             id="path21570" />
-          <g
-             id="g23477"
-             transform="translate(1.0416667e-5)">
-            <g
-               id="g21436"
-               transform="translate(0,-1.4210526)">
-              <path
-                 style="opacity:1;fill:url(#linearGradient23168);fill-opacity:1;stroke:none;stroke-width:0.596107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-                 d="m -205.76994,91.42087 -7.01233,4.111656 -1.21161,10.964904 h 3.12075 l 1.31082,-4.89205 h 4.68136 z"
-                 id="path21430"
-                 sodipodi:nodetypes="ccccccc" />
-              <path
-                 style="opacity:1;fill:url(#linearGradient23176);fill-opacity:1;stroke:none;stroke-width:0.596107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-                 d="m -196.89883,91.42087 7.01233,4.111656 1.21161,10.964904 h -3.12075 l -1.31082,-4.89205 h -4.68136 z"
-                 id="path21432"
-                 sodipodi:nodetypes="ccccccc" />
-            </g>
-            <g
-               id="g18411"
-               transform="matrix(-1.2687469,0,0,1.2687469,-542.68251,-28.328187)">
-              <path
-                 id="path21364"
-                 style="opacity:1;fill:#e63c3c;fill-opacity:1;stroke-width:0.69872;stroke-linecap:round;stroke-linejoin:round"
-                 d="m -273.87027,79.557898 c 0,4.345625 2.14481,7.868448 4.79056,7.868442 2.64575,-3e-6 4.79055,-3.522824 4.79055,-7.868442 0,-4.345618 -4.79055,-7.868442 -4.79055,-7.868442 0,0 -4.79056,3.522817 -4.79056,7.868442 z"
-                 sodipodi:nodetypes="ssscs" />
-              <rect
-                 style="fill:url(#linearGradient21586);fill-opacity:1;stroke:none;stroke-width:0.404641;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-                 id="rect21338"
-                 width="9.5812407"
-                 height="24.811064"
-                 x="264.21677"
-                 y="78.764206"
-                 rx="0"
-                 ry="0"
-                 transform="scale(-1,1)" />
-              <rect
-                 style="fill:#ca1a1a;fill-opacity:1;stroke:none;stroke-width:0.0882463;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-                 id="rect21444"
-                 width="9.5812407"
-                 height="1.1800494"
-                 x="264.21677"
-                 y="102.39522"
-                 rx="0"
-                 ry="0"
-                 transform="scale(-1,1)" />
-              <rect
-                 style="fill:#e32222;fill-opacity:1;stroke:none;stroke-width:0.09955;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-                 id="rect23186"
-                 width="9.5812407"
-                 height="1.5017177"
-                 x="264.21677"
-                 y="78.764206"
-                 rx="0"
-                 ry="0"
-                 transform="scale(-1,1)" />
-            </g>
-            <path
-               id="rect21567"
-               style="opacity:1;fill:#e63c3c;stroke-width:0.437346;stroke-linecap:round;stroke-linejoin:round"
-               d="m -201.33438,92.164151 c 0.38586,0 0.66017,0.547317 0.6965,1.224986 l 0.61667,11.503053 -1.31317,0.056 -1.31317,-0.056 0.61667,-11.503053 c 0.0363,-0.677667 0.31064,-1.224986 0.6965,-1.224986 z"
-               sodipodi:nodetypes="sscccss" />
-            <circle
-               style="opacity:0.19522;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.635107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-               id="path21640"
-               cx="-201.04553"
-               cy="82.358124"
-               r="3.3033395" />
-            <circle
-               style="opacity:1;fill:none;fill-opacity:1;stroke:#f5c92d;stroke-width:0.690641;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-               id="circle21642"
-               cx="-201.33438"
-               cy="82.069283"
-               r="3.5921824" />
-          </g>
-        </g>
-        <g
            id="g20083"
            transform="matrix(1.1502118,0,0,1.1502118,40.99271,-16.060012)">
           <text
@@ -1245,96 +1157,70 @@
              x="-346.29984"
              y="7.3560791"
              id="text18181"
-             transform="matrix(0.8961906,0,0,0.8961906,37.127986,31.092704)"><tspan
+             transform="matrix(1.0198978,0,0,1.0198978,79.935271,32.347178)"><tspan
                x="-346.29984"
                y="7.3560791"
-               id="tspan2062"><tspan
-                 style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2060">Membentuk generasi </tspan></tspan><tspan
+               id="tspan4659"><tspan
+                 style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
+                 id="tspan4657">Membentuk </tspan></tspan><tspan
                x="-346.29984"
-               y="16.397"
-               id="tspan2068"><tspan
-                 style="fill:#ffdd55"
-                 id="tspan2064">berilmu, beramal </tspan><tspan
-                 style="fill:#ffdd55"
-                 id="tspan2066">diatas </tspan></tspan><tspan
+               y="16.430206"
+               id="tspan4663"><tspan
+                 style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
+                 id="tspan4661">generasi berilmu, </tspan></tspan><tspan
                x="-346.29984"
-               y="25.471127"
-               id="tspan2076"><tspan
-                 style="fill:#ffdd55"
-                 id="tspan2070">sunnah</tspan><tspan
-                 style="font-weight:800;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Ultra-Bold'"
-                 id="tspan2072"> </tspan><tspan
-                 style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2074">dan </tspan></tspan><tspan
+               y="25.504332"
+               id="tspan4667"><tspan
+                 style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
+                 id="tspan4665">beramal diatas </tspan></tspan><tspan
                x="-346.29984"
-               y="34.545254"
-               id="tspan2080"><tspan
-                 style="font-weight:800;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Ultra-Bold';fill:#ffdd55"
-                 id="tspan2078">cemerlang meraih </tspan></tspan><tspan
+               y="34.578457"
+               id="tspan4671"><tspan
+                 style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
+                 id="tspan4669">sunnah dan </tspan></tspan><tspan
                x="-346.29984"
-               y="43.619381"
-               id="tspan2084"><tspan
-                 style="font-weight:800;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Ultra-Bold';fill:#ffdd55"
-                 id="tspan2082">masa depan</tspan></tspan></text>
+               y="43.652584"
+               id="tspan4675"><tspan
+                 style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
+                 id="tspan4673">cemerlang meraih </tspan></tspan><tspan
+               x="-346.29984"
+               y="52.726712"
+               id="tspan4679"><tspan
+                 style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
+                 id="tspan4677">masa depan</tspan></tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:7.5341px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:100.978;display:inline;fill:#ffffff;stroke-width:0.264583"
+             style="font-size:7.5341px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:100.978;display:inline;fill:#80a3b4;stroke-width:0.264583;fill-opacity:1"
              x="-346.29984"
              y="7.3560791"
              id="text20071"
-             transform="matrix(-2.9624152,0,0,-2.9624152,-1290.0647,33.748526)"><tspan
+             transform="matrix(-3.3713373,0,0,-3.3713373,-1430.4587,35.369601)"><tspan
                x="-346.29984"
                y="7.3560791"
-               id="tspan2088"><tspan
+               id="tspan4683"><tspan
                  style="font-family:'SF Collegiate Solid';-inkscape-font-specification:'SF Collegiate Solid'"
-                 id="tspan2086">&quot;</tspan></tspan></text>
+                 id="tspan4681">&quot;</tspan></tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:7.5341px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:100.978;display:inline;fill:#ffffff;stroke-width:0.264583"
+             style="font-size:7.5341px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:100.978;display:inline;fill:#80a3b4;stroke-width:0.264583;fill-opacity:1"
              x="-346.29984"
              y="7.3560791"
              id="text20075"
-             transform="matrix(2.9624152,0,0,2.9624152,787.60479,68.682588)"><tspan
+             transform="matrix(3.3713373,0,0,3.3713373,893.36023,84.026454)"><tspan
                x="-346.29984"
                y="7.3560791"
-               id="tspan2092"><tspan
+               id="tspan4687"><tspan
                  style="font-family:'SF Collegiate Solid';-inkscape-font-specification:'SF Collegiate Solid'"
-                 id="tspan2090">&quot;</tspan></tspan></text>
-        </g>
-        <g
-           id="g23685"
-           style="fill:#ffffff">
-          <circle
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.270461;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             id="circle23673"
-             cx="-215.34731"
-             cy="114.216"
-             r="7.3362265" />
-          <circle
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.270461;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             id="circle23675"
-             cx="-206.28111"
-             cy="112.54861"
-             r="7.3362265" />
-          <circle
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.180516;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             id="circle23677"
-             cx="-197.10246"
-             cy="114.59725"
-             r="4.8964715" />
-          <circle
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.180516;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             id="circle23679"
-             cx="-191.99419"
-             cy="115.07394"
-             r="4.8964715" />
+                 id="tspan4685">&quot;</tspan></tspan></text>
         </g>
       </g>
     </g>
     <g
        id="g24367"
-       transform="translate(111.63033)">
+       transform="translate(111.63033)"
+       inkscape:export-filename="Misi.png"
+       inkscape:export-xdpi="1500"
+       inkscape:export-ydpi="1500">
       <rect
          style="opacity:1;fill:#89a02c;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
          id="rect24105"
@@ -1357,12 +1243,12 @@
            ry="18.187756" />
         <text
            xml:space="preserve"
-           style="font-size:19.5444px;line-height:1;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b1cc44;fill-opacity:1;stroke:none;stroke-width:0.48861"
+           style="font-size:19.5444px;line-height:1;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.48861"
            x="-275.39862"
            y="6.5171299"
            id="text24113"><tspan
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold';text-align:start;text-anchor:start;fill:#b1cc44;fill-opacity:1;stroke:none;stroke-width:0.48861"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.48861"
              x="-275.39862"
              y="6.5171299"
              id="tspan24111">Misi</tspan></text>
@@ -1375,9 +1261,9 @@
            transform="matrix(0.27730016,0,0,0.27730016,-138.60595,-61.885482)"><tspan
              x="-302.45251"
              y="113.7427"
-             id="tspan2096"><tspan
+             id="tspan4691"><tspan
                style="font-weight:bold;font-family:'Encode Sans';-inkscape-font-specification:'Encode Sans Bold'"
-               id="tspan2094">@SMAMULTIISTIQLAL</tspan></tspan></text>
+               id="tspan4689">@SMAMULTIISTIQLAL</tspan></tspan></text>
         <g
            id="g24129"
            style="fill:#414c15;fill-opacity:1"
@@ -1436,19 +1322,19 @@
              transform="matrix(0.81954127,0,0,0.81954127,29.178981,5.4753098)"><tspan
                x="-346.29984"
                y="7.3560791"
-               id="tspan2100"><tspan
+               id="tspan4695"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2098">Menanamkan nilai-nilai keislaman yang </tspan></tspan><tspan
+                 id="tspan4693">Menanamkan nilai-nilai keislaman yang </tspan></tspan><tspan
                x="-346.29984"
                y="13.729406"
-               id="tspan2104"><tspan
+               id="tspan4699"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2102">sejalan dengan Al-Qur'an dan As-Sunnah </tspan></tspan><tspan
+                 id="tspan4697">sejalan dengan Al-Qur'an dan As-Sunnah </tspan></tspan><tspan
                x="-346.29984"
                y="20.102732"
-               id="tspan2108"><tspan
+               id="tspan4703"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2106">diatas pemahaman para salafush sholeh</tspan></tspan></text>
+                 id="tspan4701">diatas pemahaman para salafush sholeh</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:105.064;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -1458,14 +1344,14 @@
              transform="matrix(0.81954127,0,0,0.81954127,24.525617,23.843377)"><tspan
                x="-340.9288"
                y="7.3560791"
-               id="tspan2112"><tspan
+               id="tspan4707"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2110">Membentuk pribadi yang ber'aqidah </tspan></tspan><tspan
+                 id="tspan4705">Membentuk pribadi yang ber'aqidah </tspan></tspan><tspan
                x="-340.9288"
                y="13.729406"
-               id="tspan2116"><tspan
+               id="tspan4711"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2114">shohihah dan berakhlak karimah</tspan></tspan></text>
+                 id="tspan4709">shohihah dan berakhlak karimah</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:109.166;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -1475,15 +1361,15 @@
              transform="matrix(0.81954127,0,0,0.81954127,21.087458,37.676401)"><tspan
                x="-336.93622"
                y="7.3560791"
-               id="tspan2120"><tspan
+               id="tspan4715"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2118">Membimbing peserta didik dalam
+                 id="tspan4713">Membimbing peserta didik dalam
 </tspan></tspan><tspan
                x="-336.93622"
                y="13.729406"
-               id="tspan2124"><tspan
+               id="tspan4719"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2122">interaksi di bidang teknologi dan sains</tspan></tspan></text>
+                 id="tspan4717">interaksi di bidang teknologi dan sains</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:107.739;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -1493,19 +1379,19 @@
              transform="matrix(0.81954127,0,0,0.81954127,35.795927,50.945129)"><tspan
                x="-354.84589"
                y="7.3560791"
-               id="tspan2128"><tspan
+               id="tspan4723"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2126">Menyelenggarakan kegiatan belajar </tspan></tspan><tspan
+                 id="tspan4721">Menyelenggarakan kegiatan belajar </tspan></tspan><tspan
                x="-354.84589"
                y="13.729406"
-               id="tspan2132"><tspan
+               id="tspan4727"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2130">mengajar secara aktif, kreatif dan </tspan></tspan><tspan
+                 id="tspan4725">mengajar secara aktif, kreatif dan </tspan></tspan><tspan
                x="-354.84589"
                y="20.102732"
-               id="tspan2136"><tspan
+               id="tspan4731"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2134">menyenangkan</tspan></tspan></text>
+                 id="tspan4729">menyenangkan</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:114.133;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -1515,15 +1401,15 @@
              transform="matrix(0.81954127,0,0,0.81954127,32.10937,70.396367)"><tspan
                x="-350.1998"
                y="7.3560791"
-               id="tspan2140"><tspan
+               id="tspan4735"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2138">Mengembangkan mutu dan daya
+                 id="tspan4733">Mengembangkan mutu dan daya
 </tspan></tspan><tspan
                x="-350.1998"
                y="13.729406"
-               id="tspan2144"><tspan
+               id="tspan4739"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2142">pendidik sebagai kunci kesuksesan</tspan></tspan></text>
+                 id="tspan4737">pendidik sebagai kunci kesuksesan</tspan></tspan></text>
           <path
              style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.634468;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              d="m -262.04897,8.4958919 v 3.2702201 l 2.95404,-1.705518 z"
@@ -2207,7 +2093,10 @@
       </g>
     </g>
     <g
-       id="g18151">
+       id="g18151"
+       inkscape:export-filename="TheBestSchool.png"
+       inkscape:export-xdpi="1500"
+       inkscape:export-ydpi="1500">
       <rect
          style="opacity:1;fill:#5167d3;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
          id="rect184"
@@ -2253,9 +2142,9 @@
            transform="matrix(0.27730016,0,0,0.27730016,-138.60595,-61.885482)"><tspan
              x="-302.45251"
              y="113.7427"
-             id="tspan2148"><tspan
+             id="tspan4743"><tspan
                style="font-weight:bold;font-family:'Encode Sans';-inkscape-font-specification:'Encode Sans Bold'"
-               id="tspan2146">@SMAMULTIISTIQLAL</tspan></tspan></text>
+               id="tspan4741">@SMAMULTIISTIQLAL</tspan></tspan></text>
         <g
            id="g10497"
            style="fill:#002358;fill-opacity:1"
@@ -2314,14 +2203,14 @@
              transform="matrix(0.81954127,0,0,0.81954127,29.178981,5.4753098)"><tspan
                x="-346.29984"
                y="7.3560791"
-               id="tspan2152"><tspan
+               id="tspan4747"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2150">Tahfidz Al-Qur'an min. 3 juz dari hafalan </tspan></tspan><tspan
+                 id="tspan4745">Tahfidz Al-Qur'an min. 3 juz dari hafalan </tspan></tspan><tspan
                x="-346.29984"
                y="13.729406"
-               id="tspan2156"><tspan
+               id="tspan4751"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2154">tambahan</tspan></tspan></text>
+                 id="tspan4749">tambahan</tspan></tspan></text>
           <g
              id="g7124"
              transform="translate(1.5270432,-2.712916)">
@@ -2348,14 +2237,14 @@
              transform="matrix(0.81954127,0,0,0.81954127,24.525617,19.946041)"><tspan
                x="-340.9288"
                y="7.3560791"
-               id="tspan2160"><tspan
+               id="tspan4755"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2158">Hafalan 100 hadits populer dan </tspan></tspan><tspan
+                 id="tspan4753">Hafalan 100 hadits populer dan </tspan></tspan><tspan
                x="-340.9288"
                y="13.729406"
-               id="tspan2164"><tspan
+               id="tspan4759"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2162">40 hadits arba'in</tspan></tspan></text>
+                 id="tspan4757">40 hadits arba'in</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:109.166;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -2365,9 +2254,9 @@
              transform="matrix(0.81954127,0,0,0.81954127,21.087458,34.257289)"><tspan
                x="-336.93622"
                y="7.3560791"
-               id="tspan2168"><tspan
+               id="tspan4763"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan2166">Mengoperasikan aplikasi digital marketing</tspan></tspan></text>
+                 id="tspan4761">Mengoperasikan aplikasi digital marketing</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:69.9398;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -2377,16 +2266,16 @@
              transform="matrix(0.81954127,0,0,0.81954127,17.243553,46.673865)"><tspan
                x="-296.95764"
                y="7.3560791"
-               id="tspan2172"><tspan
+               id="tspan4767"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan2170">Memiliki mindset jiwa</tspan><tspan
+   id="tspan4765">Memiliki mindset jiwa</tspan><tspan
    y="7.3560791"
-   id="tspan2174"> </tspan></tspan><tspan
+   id="tspan4769"> </tspan></tspan><tspan
                x="-296.95764"
                y="13.729406"
-               id="tspan2178"><tspan
+               id="tspan4773"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-                 id="tspan2176">kewirausahaan</tspan></tspan></text>
+                 id="tspan4771">kewirausahaan</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:55.6218;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -2396,44 +2285,44 @@
              transform="matrix(0.81954127,0,0,0.81954127,11.470918,62.852418)"><tspan
                x="-296.95764"
                y="7.3560791"
-               id="tspan2182"><tspan
+               id="tspan4777"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan2180">Mampu diterima di</tspan><tspan
+   id="tspan4775">Mampu diterima di</tspan><tspan
    y="7.3560791"
-   id="tspan2184"> </tspan></tspan><tspan
+   id="tspan4779"> </tspan></tspan><tspan
                x="-296.95764"
                y="13.729406"
-               id="tspan2188"><tspan
+               id="tspan4783"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan2186">berbagai universitas</tspan><tspan
+   id="tspan4781">berbagai universitas</tspan><tspan
    y="13.729406"
-   id="tspan2190"> </tspan></tspan><tspan
+   id="tspan4785"> </tspan></tspan><tspan
                x="-296.95764"
                y="20.102732"
-               id="tspan2194"><tspan
+               id="tspan4789"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan2192">dalam dan luar</tspan><tspan
+   id="tspan4787">dalam dan luar</tspan><tspan
    y="20.102732"
-   id="tspan2196"> </tspan></tspan><tspan
+   id="tspan4791"> </tspan></tspan><tspan
                x="-296.95764"
                y="26.47606"
-               id="tspan2200"><tspan
+               id="tspan4795"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan2198">negeri. Serta bekerja</tspan><tspan
+   id="tspan4793">negeri. Serta bekerja</tspan><tspan
    y="26.47606"
-   id="tspan2202"> </tspan></tspan><tspan
+   id="tspan4797"> </tspan></tspan><tspan
                x="-296.95764"
                y="32.849387"
-               id="tspan2206"><tspan
+               id="tspan4801"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan2204">di berbagai macam</tspan><tspan
+   id="tspan4799">di berbagai macam</tspan><tspan
    y="32.849387"
-   id="tspan2208"> </tspan></tspan><tspan
+   id="tspan4803"> </tspan></tspan><tspan
                x="-296.95764"
                y="39.222714"
-               id="tspan2212"><tspan
+               id="tspan4807"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-                 id="tspan2210">perusahaan</tspan></tspan></text>
+                 id="tspan4805">perusahaan</tspan></tspan></text>
           <g
              id="g7130"
              transform="translate(1.5270432,11.818713)">
@@ -3183,6 +3072,126 @@
              cy="102.12706"
              r="1.4996526" />
         </g>
+      </g>
+    </g>
+    <g
+       id="g2203">
+      <circle
+         style="fill:#2287e3;fill-opacity:1;stroke:none;stroke-width:0.777573;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path23671"
+         cx="-406.82495"
+         cy="225.83815"
+         r="21.091591" />
+      <g
+         id="g23617"
+         transform="matrix(1.173797,0.31451796,-0.31451796,1.173797,-136.80504,169.8321)">
+        <path
+           style="opacity:1;fill:url(#linearGradient21578);fill-opacity:1;stroke:none;stroke-width:0.580001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m -207.23672,102.52934 2.57291,23.0701 h 5.91719 l 3.37799,-23.36115 z"
+           id="path21570" />
+        <g
+           id="g23477"
+           transform="translate(1.0416667e-5)">
+          <g
+             id="g21436"
+             transform="translate(0,-1.4210526)">
+            <path
+               style="opacity:1;fill:url(#linearGradient23168);fill-opacity:1;stroke:none;stroke-width:0.596107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+               d="m -205.76994,91.42087 -7.01233,4.111656 -1.21161,10.964904 h 3.12075 l 1.31082,-4.89205 h 4.68136 z"
+               id="path21430"
+               sodipodi:nodetypes="ccccccc" />
+            <path
+               style="opacity:1;fill:url(#linearGradient23176);fill-opacity:1;stroke:none;stroke-width:0.596107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+               d="m -196.89883,91.42087 7.01233,4.111656 1.21161,10.964904 h -3.12075 l -1.31082,-4.89205 h -4.68136 z"
+               id="path21432"
+               sodipodi:nodetypes="ccccccc" />
+          </g>
+          <g
+             id="g18411"
+             transform="matrix(-1.2687469,0,0,1.2687469,-542.68251,-28.328187)">
+            <path
+               id="path21364"
+               style="opacity:1;fill:#e63c3c;fill-opacity:1;stroke-width:0.69872;stroke-linecap:round;stroke-linejoin:round"
+               d="m -273.87027,79.557898 c 0,4.345625 2.14481,7.868448 4.79056,7.868442 2.64575,-3e-6 4.79055,-3.522824 4.79055,-7.868442 0,-4.345618 -4.79055,-7.868442 -4.79055,-7.868442 0,0 -4.79056,3.522817 -4.79056,7.868442 z"
+               sodipodi:nodetypes="ssscs" />
+            <rect
+               style="fill:url(#linearGradient21586);fill-opacity:1;stroke:none;stroke-width:0.404641;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+               id="rect21338"
+               width="9.5812407"
+               height="24.811064"
+               x="264.21677"
+               y="78.764206"
+               rx="0"
+               ry="0"
+               transform="scale(-1,1)" />
+            <rect
+               style="fill:#ca1a1a;fill-opacity:1;stroke:none;stroke-width:0.0882463;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+               id="rect21444"
+               width="9.5812407"
+               height="1.1800494"
+               x="264.21677"
+               y="102.39522"
+               rx="0"
+               ry="0"
+               transform="scale(-1,1)" />
+            <rect
+               style="fill:#e32222;fill-opacity:1;stroke:none;stroke-width:0.09955;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+               id="rect23186"
+               width="9.5812407"
+               height="1.5017177"
+               x="264.21677"
+               y="78.764206"
+               rx="0"
+               ry="0"
+               transform="scale(-1,1)" />
+          </g>
+          <path
+             id="rect21567"
+             style="opacity:1;fill:#e63c3c;stroke-width:0.437346;stroke-linecap:round;stroke-linejoin:round"
+             d="m -201.33438,92.164151 c 0.38586,0 0.66017,0.547317 0.6965,1.224986 l 0.61667,11.503053 -1.31317,0.056 -1.31317,-0.056 0.61667,-11.503053 c 0.0363,-0.677667 0.31064,-1.224986 0.6965,-1.224986 z"
+             sodipodi:nodetypes="sscccss" />
+          <circle
+             style="opacity:0.19522;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.635107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="path21640"
+             cx="-201.04553"
+             cy="82.358124"
+             r="3.3033395" />
+          <circle
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#f5c92d;stroke-width:0.690641;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="circle21642"
+             cx="-201.33438"
+             cy="82.069283"
+             r="3.5921824" />
+        </g>
+      </g>
+      <g
+         id="g23685"
+         style="fill:#ffffff"
+         transform="translate(-204.68951,128.97466)">
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.270461;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle23673"
+           cx="-215.34731"
+           cy="114.216"
+           r="7.3362265" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.270461;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle23675"
+           cx="-206.28111"
+           cy="112.54861"
+           r="7.3362265" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.180516;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle23677"
+           cx="-197.10246"
+           cy="114.59725"
+           r="4.8964715" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.180516;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle23679"
+           cx="-191.99419"
+           cy="115.07394"
+           r="4.8964715" />
       </g>
     </g>
   </g>
