@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.63046925"
-     inkscape:cx="-1623.394"
-     inkscape:cy="143.54388"
+     inkscape:cx="-1821.659"
+     inkscape:cy="164.16344"
      inkscape:current-layer="layer1"
      showguides="false" />
   <defs
@@ -536,7 +536,7 @@
        style="color-interpolation-filters:sRGB"
        id="filter17321"
        x="-0.18473994"
-       y="-0.21715259"
+       y="-0.21715258"
        width="1.3694799"
        height="1.4343052">
       <feGaussianBlur
@@ -544,6 +544,31 @@
          stdDeviation="10.685508"
          id="feGaussianBlur17323" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter21697"
+       x="-0.050690911"
+       y="-0.21317075"
+       width="1.1013818"
+       height="1.4263415">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3254251"
+         id="feGaussianBlur21699" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath21747">
+      <rect
+         style="fill:#333333;fill-opacity:1;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+         id="rect21749"
+         width="100"
+         height="150"
+         x="-501.17261"
+         y="-37.821983"
+         ry="0" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -595,9 +620,9 @@
            transform="matrix(0.27730016,0,0,0.27730016,-138.60595,-61.885482)"><tspan
              x="-302.45251"
              y="113.7427"
-             id="tspan45012"><tspan
+             id="tspan23951"><tspan
                style="font-weight:bold;font-family:'Encode Sans';-inkscape-font-specification:'Encode Sans Bold'"
-               id="tspan45010">@SMAMULTIISTIQLAL</tspan></tspan></text>
+               id="tspan23949">@SMAMULTIISTIQLAL</tspan></tspan></text>
         <g
            id="g18177"
            style="fill:#194a64;fill-opacity:1"
@@ -1218,34 +1243,34 @@
              transform="matrix(1.0198978,0,0,1.0198978,79.935271,32.347178)"><tspan
                x="-346.29984"
                y="7.3560791"
-               id="tspan45016"><tspan
+               id="tspan23955"><tspan
                  style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
-                 id="tspan45014">Membentuk </tspan></tspan><tspan
+                 id="tspan23953">Membentuk </tspan></tspan><tspan
                x="-346.29984"
                y="16.430206"
-               id="tspan45020"><tspan
+               id="tspan23959"><tspan
                  style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
-                 id="tspan45018">generasi berilmu, </tspan></tspan><tspan
+                 id="tspan23957">generasi berilmu, </tspan></tspan><tspan
                x="-346.29984"
                y="25.504332"
-               id="tspan45024"><tspan
+               id="tspan23963"><tspan
                  style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
-                 id="tspan45022">beramal diatas </tspan></tspan><tspan
+                 id="tspan23961">beramal diatas </tspan></tspan><tspan
                x="-346.29984"
                y="34.578457"
-               id="tspan45028"><tspan
+               id="tspan23967"><tspan
                  style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
-                 id="tspan45026">sunnah dan </tspan></tspan><tspan
+                 id="tspan23965">sunnah dan </tspan></tspan><tspan
                x="-346.29984"
                y="43.652584"
-               id="tspan45032"><tspan
+               id="tspan23971"><tspan
                  style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
-                 id="tspan45030">cemerlang meraih </tspan></tspan><tspan
+                 id="tspan23969">cemerlang meraih </tspan></tspan><tspan
                x="-346.29984"
                y="52.726712"
-               id="tspan45036"><tspan
+               id="tspan23975"><tspan
                  style="font-weight:bold;font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans Bold'"
-                 id="tspan45034">masa depan</tspan></tspan></text>
+                 id="tspan23973">masa depan</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:7.5341px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:100.978;display:inline;fill:#80a3b4;fill-opacity:1;stroke-width:0.264583"
@@ -1255,9 +1280,9 @@
              transform="matrix(-3.3713373,0,0,-3.3713373,-1430.4587,35.369601)"><tspan
                x="-346.29984"
                y="7.3560791"
-               id="tspan45040"><tspan
+               id="tspan23979"><tspan
                  style="font-family:'SF Collegiate Solid';-inkscape-font-specification:'SF Collegiate Solid'"
-                 id="tspan45038">&quot;</tspan></tspan></text>
+                 id="tspan23977">&quot;</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:7.5341px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:100.978;display:inline;fill:#80a3b4;fill-opacity:1;stroke-width:0.264583"
@@ -1267,9 +1292,9 @@
              transform="matrix(3.3713373,0,0,3.3713373,893.36023,84.026454)"><tspan
                x="-346.29984"
                y="7.3560791"
-               id="tspan45044"><tspan
+               id="tspan23983"><tspan
                  style="font-family:'SF Collegiate Solid';-inkscape-font-specification:'SF Collegiate Solid'"
-                 id="tspan45042">&quot;</tspan></tspan></text>
+                 id="tspan23981">&quot;</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -1319,9 +1344,9 @@
            transform="matrix(0.27730016,0,0,0.27730016,-138.60595,-61.885482)"><tspan
              x="-302.45251"
              y="113.7427"
-             id="tspan45048"><tspan
+             id="tspan23987"><tspan
                style="font-weight:bold;font-family:'Encode Sans';-inkscape-font-specification:'Encode Sans Bold'"
-               id="tspan45046">@SMAMULTIISTIQLAL</tspan></tspan></text>
+               id="tspan23985">@SMAMULTIISTIQLAL</tspan></tspan></text>
         <g
            id="g24129"
            style="fill:#414c15;fill-opacity:1"
@@ -1380,19 +1405,19 @@
              transform="matrix(0.81954127,0,0,0.81954127,29.178981,5.4753098)"><tspan
                x="-346.29984"
                y="7.3560791"
-               id="tspan45052"><tspan
+               id="tspan23991"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45050">Menanamkan nilai-nilai keislaman yang </tspan></tspan><tspan
+                 id="tspan23989">Menanamkan nilai-nilai keislaman yang </tspan></tspan><tspan
                x="-346.29984"
                y="13.729406"
-               id="tspan45056"><tspan
+               id="tspan23995"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45054">sejalan dengan Al-Qur'an dan As-Sunnah </tspan></tspan><tspan
+                 id="tspan23993">sejalan dengan Al-Qur'an dan As-Sunnah </tspan></tspan><tspan
                x="-346.29984"
                y="20.102732"
-               id="tspan45060"><tspan
+               id="tspan23999"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45058">diatas pemahaman para salafush sholeh</tspan></tspan></text>
+                 id="tspan23997">diatas pemahaman para salafush sholeh</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:105.064;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -1402,14 +1427,14 @@
              transform="matrix(0.81954127,0,0,0.81954127,24.525617,23.843377)"><tspan
                x="-340.9288"
                y="7.3560791"
-               id="tspan45064"><tspan
+               id="tspan24003"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45062">Membentuk pribadi yang ber'aqidah </tspan></tspan><tspan
+                 id="tspan24001">Membentuk pribadi yang ber'aqidah </tspan></tspan><tspan
                x="-340.9288"
                y="13.729406"
-               id="tspan45068"><tspan
+               id="tspan24007"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45066">shohihah dan berakhlak karimah</tspan></tspan></text>
+                 id="tspan24005">shohihah dan berakhlak karimah</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:109.166;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -1419,15 +1444,15 @@
              transform="matrix(0.81954127,0,0,0.81954127,21.087458,37.676401)"><tspan
                x="-336.93622"
                y="7.3560791"
-               id="tspan45072"><tspan
+               id="tspan24011"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45070">Membimbing peserta didik dalam
+                 id="tspan24009">Membimbing peserta didik dalam
 </tspan></tspan><tspan
                x="-336.93622"
                y="13.729406"
-               id="tspan45076"><tspan
+               id="tspan24015"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45074">interaksi di bidang teknologi dan sains</tspan></tspan></text>
+                 id="tspan24013">interaksi di bidang teknologi dan sains</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:107.739;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -1437,19 +1462,19 @@
              transform="matrix(0.81954127,0,0,0.81954127,35.795927,50.945129)"><tspan
                x="-354.84589"
                y="7.3560791"
-               id="tspan45080"><tspan
+               id="tspan24019"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45078">Menyelenggarakan kegiatan belajar </tspan></tspan><tspan
+                 id="tspan24017">Menyelenggarakan kegiatan belajar </tspan></tspan><tspan
                x="-354.84589"
                y="13.729406"
-               id="tspan45084"><tspan
+               id="tspan24023"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45082">mengajar secara aktif, kreatif dan </tspan></tspan><tspan
+                 id="tspan24021">mengajar secara aktif, kreatif dan </tspan></tspan><tspan
                x="-354.84589"
                y="20.102732"
-               id="tspan45088"><tspan
+               id="tspan24027"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45086">menyenangkan</tspan></tspan></text>
+                 id="tspan24025">menyenangkan</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:114.133;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -1459,15 +1484,15 @@
              transform="matrix(0.81954127,0,0,0.81954127,32.10937,70.396367)"><tspan
                x="-350.1998"
                y="7.3560791"
-               id="tspan45092"><tspan
+               id="tspan24031"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45090">Mengembangkan mutu dan daya
+                 id="tspan24029">Mengembangkan mutu dan daya
 </tspan></tspan><tspan
                x="-350.1998"
                y="13.729406"
-               id="tspan45096"><tspan
+               id="tspan24035"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45094">pendidik sebagai kunci kesuksesan</tspan></tspan></text>
+                 id="tspan24033">pendidik sebagai kunci kesuksesan</tspan></tspan></text>
           <path
              style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.634468;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              d="m -262.04897,8.4958919 v 3.2702201 l 2.95404,-1.705518 z"
@@ -2200,9 +2225,9 @@
            transform="matrix(0.27730016,0,0,0.27730016,-138.60595,-61.885482)"><tspan
              x="-302.45251"
              y="113.7427"
-             id="tspan45100"><tspan
+             id="tspan24039"><tspan
                style="font-weight:bold;font-family:'Encode Sans';-inkscape-font-specification:'Encode Sans Bold'"
-               id="tspan45098">@SMAMULTIISTIQLAL</tspan></tspan></text>
+               id="tspan24037">@SMAMULTIISTIQLAL</tspan></tspan></text>
         <g
            id="g10497"
            style="fill:#002358;fill-opacity:1"
@@ -2261,14 +2286,14 @@
              transform="matrix(0.81954127,0,0,0.81954127,29.178981,5.4753098)"><tspan
                x="-346.29984"
                y="7.3560791"
-               id="tspan45104"><tspan
+               id="tspan24043"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45102">Tahfidz Al-Qur'an min. 3 juz dari hafalan </tspan></tspan><tspan
+                 id="tspan24041">Tahfidz Al-Qur'an min. 3 juz dari hafalan </tspan></tspan><tspan
                x="-346.29984"
                y="13.729406"
-               id="tspan45108"><tspan
+               id="tspan24047"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45106">tambahan</tspan></tspan></text>
+                 id="tspan24045">tambahan</tspan></tspan></text>
           <g
              id="g7124"
              transform="translate(1.5270432,-2.712916)">
@@ -2295,14 +2320,14 @@
              transform="matrix(0.81954127,0,0,0.81954127,24.525617,19.946041)"><tspan
                x="-340.9288"
                y="7.3560791"
-               id="tspan45112"><tspan
+               id="tspan24051"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45110">Hafalan 100 hadits populer dan </tspan></tspan><tspan
+                 id="tspan24049">Hafalan 100 hadits populer dan </tspan></tspan><tspan
                x="-340.9288"
                y="13.729406"
-               id="tspan45116"><tspan
+               id="tspan24055"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45114">40 hadits arba'in</tspan></tspan></text>
+                 id="tspan24053">40 hadits arba'in</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:109.166;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -2312,9 +2337,9 @@
              transform="matrix(0.81954127,0,0,0.81954127,21.087458,34.257289)"><tspan
                x="-336.93622"
                y="7.3560791"
-               id="tspan45120"><tspan
+               id="tspan24059"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-                 id="tspan45118">Mengoperasikan aplikasi digital marketing</tspan></tspan></text>
+                 id="tspan24057">Mengoperasikan aplikasi digital marketing</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:69.9398;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -2324,16 +2349,16 @@
              transform="matrix(0.81954127,0,0,0.81954127,17.243553,46.673865)"><tspan
                x="-296.95764"
                y="7.3560791"
-               id="tspan45124"><tspan
+               id="tspan24063"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan45122">Memiliki mindset jiwa</tspan><tspan
+   id="tspan24061">Memiliki mindset jiwa</tspan><tspan
    y="7.3560791"
-   id="tspan45126"> </tspan></tspan><tspan
+   id="tspan24065"> </tspan></tspan><tspan
                x="-296.95764"
                y="13.729406"
-               id="tspan45130"><tspan
+               id="tspan24069"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-                 id="tspan45128">kewirausahaan</tspan></tspan></text>
+                 id="tspan24067">kewirausahaan</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-size:5.29167px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:55.6218;display:inline;fill:#ffffff;stroke-width:0.264583"
@@ -2343,44 +2368,44 @@
              transform="matrix(0.81954127,0,0,0.81954127,11.470918,62.852418)"><tspan
                x="-296.95764"
                y="7.3560791"
-               id="tspan45134"><tspan
+               id="tspan24073"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan45132">Mampu diterima di</tspan><tspan
+   id="tspan24071">Mampu diterima di</tspan><tspan
    y="7.3560791"
-   id="tspan45136"> </tspan></tspan><tspan
+   id="tspan24075"> </tspan></tspan><tspan
                x="-296.95764"
                y="13.729406"
-               id="tspan45140"><tspan
+               id="tspan24079"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan45138">berbagai universitas</tspan><tspan
+   id="tspan24077">berbagai universitas</tspan><tspan
    y="13.729406"
-   id="tspan45142"> </tspan></tspan><tspan
+   id="tspan24081"> </tspan></tspan><tspan
                x="-296.95764"
                y="20.102732"
-               id="tspan45146"><tspan
+               id="tspan24085"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan45144">dalam dan luar</tspan><tspan
+   id="tspan24083">dalam dan luar</tspan><tspan
    y="20.102732"
-   id="tspan45148"> </tspan></tspan><tspan
+   id="tspan24087"> </tspan></tspan><tspan
                x="-296.95764"
                y="26.47606"
-               id="tspan45152"><tspan
+               id="tspan24091"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan45150">negeri. Serta bekerja</tspan><tspan
+   id="tspan24089">negeri. Serta bekerja</tspan><tspan
    y="26.47606"
-   id="tspan45154"> </tspan></tspan><tspan
+   id="tspan24093"> </tspan></tspan><tspan
                x="-296.95764"
                y="32.849387"
-               id="tspan45158"><tspan
+               id="tspan24097"><tspan
    style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-   id="tspan45156">di berbagai macam</tspan><tspan
+   id="tspan24095">di berbagai macam</tspan><tspan
    y="32.849387"
-   id="tspan45160"> </tspan></tspan><tspan
+   id="tspan24099"> </tspan></tspan><tspan
                x="-296.95764"
                y="39.222714"
-               id="tspan45164"><tspan
+               id="tspan24103"><tspan
                  style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans';text-align:start;text-anchor:start"
-                 id="tspan45162">perusahaan</tspan></tspan></text>
+                 id="tspan24101">perusahaan</tspan></tspan></text>
           <g
              id="g7130"
              transform="translate(1.5270432,11.818713)">
@@ -3277,521 +3302,841 @@
          id="g17173"
          clip-path="url(#clipPath17183)">
         <g
-           id="g16765"
-           transform="matrix(1.0319721,0,0,1.0319721,-0.29604639,-12.685704)"
-           style="opacity:1">
+           id="g21242"
+           transform="translate(0,9.7514748)">
           <g
-             id="g16679"
-             transform="matrix(0.81081913,0,0,0.81081913,-96.556555,16.785427)"
-             style="opacity:0.04819447">
+             id="g16765"
+             transform="matrix(1.0319721,0,0,1.0319721,-0.29604639,-12.685704)"
+             style="opacity:1">
             <g
-               id="g16627"
-               transform="translate(-32.284464,1.2730194)">
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16615"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-300.79974"
-                 y="361.29337"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16617"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.30441"
-                 y="344.79803"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16619"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.26727"
-                 y="377.82584"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16621"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-267.77194"
-                 y="361.33051"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
+               id="g16679"
+               transform="matrix(0.81081913,0,0,0.81081913,-96.556555,16.785427)"
+               style="opacity:0.0481945">
+              <g
+                 id="g16627"
+                 transform="translate(-32.284464,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16615"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16617"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16619"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16621"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g16637"
+                 transform="translate(14.744997,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16629"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16631"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16633"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16635"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g16647"
+                 transform="translate(61.376735,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16639"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16641"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16643"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16645"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g16657"
+                 transform="translate(108.4062,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16649"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16651"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16653"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16655"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
             </g>
             <g
-               id="g16637"
-               transform="translate(14.744997,1.2730194)">
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16629"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-300.79974"
-                 y="361.29337"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16631"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.30441"
-                 y="344.79803"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16633"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.26727"
-                 y="377.82584"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16635"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-267.77194"
-                 y="361.33051"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-            </g>
-            <g
-               id="g16647"
-               transform="translate(61.376735,1.2730194)">
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16639"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-300.79974"
-                 y="361.29337"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16641"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.30441"
-                 y="344.79803"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16643"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.26727"
-                 y="377.82584"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16645"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-267.77194"
-                 y="361.33051"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-            </g>
-            <g
-               id="g16657"
-               transform="translate(108.4062,1.2730194)">
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16649"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-300.79974"
-                 y="361.29337"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16651"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.30441"
-                 y="344.79803"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16653"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.26727"
-                 y="377.82584"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16655"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-267.77194"
-                 y="361.33051"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
+               id="g16721"
+               transform="matrix(0.81081913,0,0,0.81081913,-96.556555,55.296326)"
+               style="opacity:0.0481945">
+              <g
+                 id="g16689"
+                 transform="translate(-32.284464,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16681"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16683"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16685"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16687"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g16699"
+                 transform="translate(14.744997,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16691"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16693"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16695"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16697"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g16709"
+                 transform="translate(61.376735,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16701"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16703"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16705"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16707"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g16719"
+                 transform="translate(108.4062,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16711"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16713"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16715"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect16717"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
             </g>
           </g>
-          <g
-             id="g16721"
-             transform="matrix(0.81081913,0,0,0.81081913,-96.556555,55.296326)"
-             style="opacity:0.04819447">
-            <g
-               id="g16689"
-               transform="translate(-32.284464,1.2730194)">
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16681"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-300.79974"
-                 y="361.29337"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16683"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.30441"
-                 y="344.79803"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16685"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.26727"
-                 y="377.82584"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16687"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-267.77194"
-                 y="361.33051"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-            </g>
-            <g
-               id="g16699"
-               transform="translate(14.744997,1.2730194)">
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16691"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-300.79974"
-                 y="361.29337"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16693"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.30441"
-                 y="344.79803"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16695"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.26727"
-                 y="377.82584"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16697"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-267.77194"
-                 y="361.33051"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-            </g>
-            <g
-               id="g16709"
-               transform="translate(61.376735,1.2730194)">
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16701"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-300.79974"
-                 y="361.29337"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16703"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.30441"
-                 y="344.79803"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16705"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.26727"
-                 y="377.82584"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16707"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-267.77194"
-                 y="361.33051"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-            </g>
-            <g
-               id="g16719"
-               transform="translate(108.4062,1.2730194)">
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16711"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-300.79974"
-                 y="361.29337"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16713"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.30441"
-                 y="344.79803"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16715"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-284.26727"
-                 y="377.82584"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-              <rect
-                 style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
-                 id="rect16717"
-                 width="16.065683"
-                 height="16.065683"
-                 x="-267.77194"
-                 y="361.33051"
-                 ry="4.6015844"
-                 transform="rotate(45)" />
-            </g>
-          </g>
+          <path
+             style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter17321)"
+             d="m -506.83675,23.893087 c 0,0 -1.39174,65.3207 50.55862,65.112767 51.95038,-0.207936 55.81287,-74.978935 55.81287,-74.978935 0,0 13.68171,5.875254 14.9407,12.589828 1.25897,6.714575 4.5315,36.022798 1.57975,54.558321 -2.95174,18.535517 11.01738,28.592682 -2.95219,38.261792 -13.9696,9.66911 -33.64124,8.38464 -61.13055,10.95896 -27.48934,2.57431 -58.40735,2.90153 -65.97523,-3.43534 -7.5679,-6.33687 -5.33815,-48.808194 -4.07919,-53.248135 1.259,-4.439944 11.24522,-49.819258 11.24522,-49.819258 z"
+             id="path17250" />
         </g>
-        <path
-           style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter17321)"
-           d="m -506.83675,32.651922 c 0,0 -1.39174,65.3207 50.55862,65.112767 51.95038,-0.207936 55.81287,-74.978935 55.81287,-74.978935 0,0 13.68171,5.875254 14.9407,12.589828 1.25897,6.714575 4.5315,36.022798 1.57975,54.558321 -2.95174,18.535517 11.01738,28.592677 -2.95219,38.261787 -13.9696,9.66911 -33.64124,8.38464 -61.13055,10.95896 -27.48934,2.57431 -58.40735,2.90153 -65.97523,-3.43534 -7.5679,-6.33687 -5.33815,-48.808189 -4.07919,-53.24813 1.259,-4.439944 11.24522,-49.819258 11.24522,-49.819258 z"
-           id="path17250" />
+        <g
+           id="g21332"
+           transform="matrix(1,0,0,-1,0,49.044738)">
+          <g
+             id="g21328"
+             transform="matrix(1.0319721,0,0,1.0319721,-0.29604639,-12.685704)"
+             style="opacity:1">
+            <g
+               id="g21284"
+               transform="matrix(0.81081913,0,0,0.81081913,-96.556555,16.785427)"
+               style="opacity:0.0481945">
+              <g
+                 id="g21252"
+                 transform="translate(-32.284464,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21244"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21246"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21248"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21250"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g21262"
+                 transform="translate(14.744997,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21254"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21256"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21258"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21260"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g21272"
+                 transform="translate(61.376735,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21264"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21266"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21268"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21270"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g21282"
+                 transform="translate(108.4062,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21274"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21276"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21278"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21280"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+            </g>
+            <g
+               id="g21326"
+               transform="matrix(0.81081913,0,0,0.81081913,-96.556555,55.296326)"
+               style="opacity:0.0481945">
+              <g
+                 id="g21294"
+                 transform="translate(-32.284464,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21286"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21288"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21290"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21292"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g21304"
+                 transform="translate(14.744997,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21296"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21298"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21300"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21302"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g21314"
+                 transform="translate(61.376735,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21306"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21308"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21310"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21312"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+              <g
+                 id="g21324"
+                 transform="translate(108.4062,1.2730194)">
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21316"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-300.79974"
+                   y="361.29337"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21318"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.30441"
+                   y="344.79803"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21320"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-284.26727"
+                   y="377.82584"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+                <rect
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round"
+                   id="rect21322"
+                   width="16.065683"
+                   height="16.065683"
+                   x="-267.77194"
+                   y="361.33051"
+                   ry="4.6015844"
+                   transform="rotate(45)" />
+              </g>
+            </g>
+          </g>
+          <path
+             style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.966999;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter17321)"
+             d="m -506.83675,23.893087 c 0,0 -1.39174,65.3207 50.55862,65.112767 51.95038,-0.207936 55.81287,-74.978935 55.81287,-74.978935 0,0 13.68171,5.875254 14.9407,12.589828 1.25897,6.714575 4.5315,36.022798 1.57975,54.558321 -2.95174,18.535517 11.01738,28.592682 -2.95219,38.261792 -13.9696,9.66911 -33.64124,8.38464 -61.13055,10.95896 -27.48934,2.57431 -58.40735,2.90153 -65.97523,-3.43534 -7.5679,-6.33687 -5.33815,-48.808194 -4.07919,-53.248135 1.259,-4.439944 11.24522,-49.819258 11.24522,-49.819258 z"
+             id="path21330" />
+        </g>
       </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.279;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect21701"
+         width="89.67807"
+         height="18.041166"
+         x="-496.01166"
+         y="102.52298"
+         ry="2.191745"
+         clip-path="url(#clipPath21747)" />
       <g
          id="g1411"
-         transform="translate(0,-4.4778266)">
+         transform="translate(-0.66017914,-4.4778266)">
         <rect
-           style="fill:none;fill-opacity:1;stroke:#ffd42a;stroke-width:0.0793019;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:none;fill-opacity:1;stroke:#ffd42a;stroke-width:0.279;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
            id="rect1267"
-           width="89.678085"
-           height="124.87396"
+           width="89.67807"
+           height="116.1308"
            x="-495.35147"
            y="-13.98025"
            ry="2.191745" />
         <rect
-           style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0513828;stroke-linecap:round;stroke-linejoin:round"
+           style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0249857;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter21697)"
            id="rect1269"
            width="62.753269"
-           height="63.109085"
+           height="14.922405"
            x="-481.74857"
-           y="-25.95351"
+           y="-18.287981"
            ry="0" />
       </g>
       <text
          xml:space="preserve"
-         style="font-size:5.29167px;line-height:1.5;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:108.778;display:inline;fill:#ffffff;stroke-width:0.264583"
+         style="font-size:5.29167px;line-height:1.8;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:141.593;display:inline;fill:#ffffff;stroke-width:0.264583"
          x="-345.97174"
          y="7.3560791"
          id="text1363-6"
-         transform="matrix(0.5920133,0,0,0.5920133,-277.83764,-7.7471382)"><tspan
+         transform="matrix(0.5920133,0,0,0.5920133,-287.72473,-3.7051361)"><tspan
            x="-345.97174"
            y="7.3560791"
-           id="tspan45168"><tspan
+           id="tspan24107"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45166">1. Seluruh peserta didik datang ke sekolah 
+             id="tspan24105">1. Seluruh peserta didik datang ke sekolah jam 07.15
 </tspan></tspan><tspan
            x="-345.97174"
-           y="15.316906"
-           id="tspan45172"><tspan
+           y="16.904407"
+           id="tspan24112"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45170">    jam 07.15
+             id="tspan24109">2. Bagi peserta didik yang datang terlambat akan 
 </tspan></tspan><tspan
            x="-345.97174"
-           y="23.277733"
-           id="tspan45176"><tspan
+           y="26.452736"
+           id="tspan24116"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45174">2. Bagi peserta didik yang datang 
+             id="tspan24114">    dikenakan sanksi dan point
 </tspan></tspan><tspan
            x="-345.97174"
-           y="31.23856"
-           id="tspan45180"><tspan
+           y="36.001064"
+           id="tspan24120"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45178">    terlambat akan dikenakan sanksi dan 
+             id="tspan24118">3. Seluruh peserta didik wajib absen kepada guru piket 
 </tspan></tspan><tspan
            x="-345.97174"
-           y="39.199387"
-           id="tspan45184"><tspan
+           y="45.549393"
+           id="tspan24124"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45182">    point
+             id="tspan24122">    ketika datang
 </tspan></tspan><tspan
            x="-345.97174"
-           y="47.160214"
-           id="tspan45188"><tspan
+           y="55.097721"
+           id="tspan24128"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45186">3. Seluruh peserta didik wajib absen
+             id="tspan24126">4. Seluruh peserta didik wajib taat kepada seluruh guru
 </tspan></tspan><tspan
            x="-345.97174"
-           y="55.121041"
-           id="tspan45192"><tspan
+           y="64.646049"
+           id="tspan24132"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45190">    kepada guru piket ketika datang
+             id="tspan24130">5. Seluruh peserta didik ikut bertanggung jawab atas 
 </tspan></tspan><tspan
            x="-345.97174"
-           y="63.081868"
-           id="tspan45196"><tspan
+           y="74.194374"
+           id="tspan24136"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45194">4. Seluruh peserta didik wajib taat kepada 
+             id="tspan24134">    kebersihan, keamanan, dan ketertiban di lingkungan 
 </tspan></tspan><tspan
            x="-345.97174"
-           y="71.042698"
-           id="tspan45200"><tspan
+           y="83.742699"
+           id="tspan24140"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45198">    seluruh guru
+             id="tspan24138">    sekolah
 </tspan></tspan><tspan
            x="-345.97174"
-           y="79.003529"
-           id="tspan45204"><tspan
+           y="93.291023"
+           id="tspan24144"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45202">5. Seluruh peserta didik ikut bertanggung 
+             id="tspan24142">6. Seluruh peserta didik wajib menghormati dan saling
 </tspan></tspan><tspan
            x="-345.97174"
-           y="86.96436"
-           id="tspan45208"><tspan
+           y="102.83935"
+           id="tspan24148"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45206">    jawab atas kebersihan, keamanan, dan 
+             id="tspan24146">    menghargai antar sesama siswa
 </tspan></tspan><tspan
            x="-345.97174"
-           y="94.92519"
-           id="tspan45212"><tspan
+           y="112.38767"
+           id="tspan24152"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45210">    ketertiban di lingkungan sekolah
+             id="tspan24150">7. Seluruh peserta didik wajib mentaati tata tertib yg
 </tspan></tspan><tspan
            x="-345.97174"
-           y="102.88602"
-           id="tspan45216"><tspan
+           y="121.936"
+           id="tspan24156"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45214">6. Seluruh peserta didik wajib 
+             id="tspan24154">    ada di lingkungan sekolah
 </tspan></tspan><tspan
            x="-345.97174"
-           y="110.84685"
-           id="tspan45220"><tspan
+           y="131.48432"
+           id="tspan24160"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45218">    menghormati dan saling merhargai antar 
+             id="tspan24158">8. Peserta didik dilarang keluar area sekolah tanpa izin 
 </tspan></tspan><tspan
            x="-345.97174"
-           y="118.80768"
-           id="tspan45224"><tspan
+           y="141.03265"
+           id="tspan24164"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45222">    sesama siswa
+             id="tspan24162">    dari bagian kesiswaan
 </tspan></tspan><tspan
            x="-345.97174"
-           y="126.76851"
-           id="tspan45228"><tspan
+           y="150.58097"
+           id="tspan24168"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45226">7. Seluruh peserta didik wajib mentaati 
+             id="tspan24166">9. Peserta didik wajib memakai seragam
 </tspan></tspan><tspan
            x="-345.97174"
-           y="134.72934"
-           id="tspan45232"><tspan
+           y="160.1293"
+           id="tspan24172"><tspan
              style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45230">    tata tertib yg ada di lingkungan sekolah
-</tspan></tspan><tspan
-           x="-345.97174"
-           y="142.69017"
-           id="tspan45236"><tspan
-             style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45234">8. Peserta didik dilarang keluar area 
-</tspan></tspan><tspan
-           x="-345.97174"
-           y="150.65101"
-           id="tspan45240"><tspan
-             style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45238">    sekolah tanpa izin dari bagian 
-</tspan></tspan><tspan
-           x="-345.97174"
-           y="158.61184"
-           id="tspan45244"><tspan
-             style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45242">    kesiswaan
-</tspan></tspan><tspan
-           x="-345.97174"
-           y="166.57267"
-           id="tspan45248"><tspan
-             style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45246">9. Peserta didik wajib memakai seragam
-</tspan></tspan><tspan
-           x="-345.97174"
-           y="174.5335"
-           id="tspan45252"><tspan
-             style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45250">10. Peserta didik wajib menjaga nama baik 
-</tspan></tspan><tspan
-           x="-345.97174"
-           y="182.49433"
-           id="tspan45256"><tspan
-             style="font-family:'Open Sauce Sans';-inkscape-font-specification:'Open Sauce Sans'"
-             id="tspan45254">      sekolah</tspan></tspan></text>
+             id="tspan24170">10. Peserta didik wajib menjaga nama baik sekolah</tspan></tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:10.4037px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0.123146px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:123.366;display:inline;fill:#ffffff;stroke-width:0.260092"
+         style="font-size:10.4037px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:start;letter-spacing:0.123146px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:123.366;display:inline;fill:#323232;fill-opacity:1;stroke-width:0.260092"
          x="-302.45251"
          y="113.7427"
          id="text18167-7"
-         transform="matrix(0.19763321,0,0,0.19763321,-402.74696,87.641802)"><tspan
+         transform="matrix(0.31010361,0,0,0.31010361,-375.18857,72.858574)"><tspan
            x="-302.45251"
            y="113.7427"
-           id="tspan45260"><tspan
+           id="tspan24176"><tspan
              style="font-weight:bold;font-family:'Encode Sans';-inkscape-font-specification:'Encode Sans Bold'"
-             id="tspan45258">@SMAMULTIISTIQLAL</tspan></tspan></text>
+             id="tspan24174">@SMAMULTIISTIQLAL</tspan></tspan></text>
       <g
          id="g18379-2"
          transform="matrix(0.35241605,0,0,0.35241605,-336.17725,-34.948244)">
@@ -4328,25 +4673,25 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:11.3415px;line-height:0.8;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.28354"
+         style="font-size:11.3415px;line-height:0.8;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffd42a;stroke-width:0.28354"
          x="-450.71704"
-         y="-16.019341"
+         y="-13.865773"
          id="text1215"><tspan
            sodipodi:role="line"
            id="tspan1213"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold';fill:#ffffff;stroke-width:0.28354"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Playfair Display';-inkscape-font-specification:'Playfair Display Bold';fill:#ffd42a;stroke-width:0.28354"
            x="-450.71704"
-           y="-16.019341">Tata Tertib</tspan></text>
+           y="-13.865773">Tata Tertib</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:3.15245px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.0788113;opacity:0.68662189"
+         style="font-size:3.15245px;line-height:1.2;font-family:'Creato Display';-inkscape-font-specification:'Creato Display';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;stroke-width:0.0788113"
          x="-451.09326"
-         y="-11.490614"
+         y="-9.3370466"
          id="text18371-1-8"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Figtree;-inkscape-font-specification:'Figtree Bold';fill:#ffffff;stroke-width:0.0788113"
            x="-451.09326"
-           y="-11.490614"
+           y="-9.3370466"
            id="tspan18369-7-6">SMA MULTI ISTIQLAL</tspan></text>
     </g>
   </g>
